@@ -1,0 +1,17 @@
+<article class="pt-6 mb-8 border-t-4 border-gray-100" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+    <header>
+        <h2 itemprop="headline" class="mt-0 mb-2 text-2xl">
+            <a class="no-underline text-gray-900 hover:text-terracotta hover:underline"
+               href="{{ .RelPermalink }}" itemprop="url">
+                {{ .Title }}
+            </a>
+        </h2>
+    </header>
+    <section class="text-base mb-2 hidden sm:block" itemprop="description">
+        {{ .Summary }}
+    </section>
+    <section class="article-details">
+        <time class="mr-6" datetime="{{ .Date.Format "2006-01-02T15:04:05-07:00"}}">{{ .Date.Format "Jan 2, 2006" }}</time>
+        ?? comments
+    </section>
+</article>

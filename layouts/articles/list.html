@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+
+    <section itemscope itemtype="https://schema.org/Blog">
+        <h1 itemprop="about" class="mb-8">{{ .Title }}</h1>
+
+        {{ range .Pages }}
+            {{ .Render "summary" }}
+        {{ end }}
+    </section>
+
+{{ partial "footer.html" . }}

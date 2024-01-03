@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="{{ site.LanguageCode | default site.Language.Lang  }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <base href="{{ .Site.BaseURL }}">
+
+    <meta name="site_name" content="Barry van Veen" />
+    <meta property="og:site_name" content="Barry van Veen" />
+    <meta name="locale" content="en_EN" />
+    <meta property="og:locale" content="en_EN" />
+    <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+
+    {{- template "_internal/opengraph.html" . -}}
+    {{- template "_internal/schema.html" . -}}
+    {{- template "_internal/twitter_cards.html" . -}}
+
+    {{ if .OutputFormats.Get "RSS" }}
+    {{ with .OutputFormats.Get "RSS" }}
+    <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    {{ end }}
+    {{ end }}
+
+    {{ if .Params.canonicalUrl }}
+    <link rel="canonical" href="{{ .Params.canonicalUrl }}">
+    {{ else }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ end }}
+
+    <!-- <link rel="author" href=""> -->
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=2">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=2">
+    <link rel="icon" href="favicon.svg">
+    <link rel="manifest" href="/site.webmanifest?v=2">
+    <link rel="mask-icon" href="/monochrome-icon.svg?v=2" color="#971a20">
+    <meta name="msapplication-TileColor" content="#f4c148">
+    <meta name="theme-color" content="#f4c148">
+</head>
+
+<body class="min-h-screen flex flex-col">
+<div class="grow-0">
+    <header class="w-full bg-turmeric py-6 shadow z-10">
+        <div class="container-max-md flex justify-between items-center">
+            <a class="text-terracotta" href="{{ .Site.BaseURL }}">
+                <span class="sr-only">Home</span>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="32" width="32"><path fill="#971a20" d="m256 0 221.7 128v256L256 512 34.3 384V128L256 0z"/><path fill="#fff" d="M163.45 381V131.15h77.76q53.15 0 77.08 15.21 24.1 15.04 24.1 48.02 0 22.39-10.6 36.74-10.42 14.36-27.86 17.26v1.71q23.75 5.3 34.18 19.82 10.6 14.53 10.6 38.62 0 34.18-24.78 53.32-24.61 19.14-66.99 19.14h-93.48zm52.98-206.45v55.54h30.76q21.53 0 31.1-6.67 9.74-6.67 9.74-22.05 0-14.36-10.6-20.51-10.42-6.32-33.15-6.32h-27.86zm32.81 97.58h-32.81v65.11h34.52q21.88 0 32.3-8.37 10.42-8.37 10.42-25.63 0-31.1-44.43-31.1z"/></svg>
+            </a>
+            <nav class="hidden md:block" aria-labelledby="menu-title">
+                <h1 id="menu-title" class="sr-only">Menu</h1>
+                <ul class="inline-flex gap-x-16">
+                    {{/*loop over menu items*/}}
+                    <li>
+                        <a class="text-lg hover:text-terracotta fancy-border fancy-border-terracotta" href="" target="_blank">
+                            Name
+                        </a>
+                    </li>
+                    {{/*endfor*/}}
+                </ul>
+            </nav>
+            <button id="js-mobile-menu-open" type="button" class="hover:text-terracotta md:hidden" aria-label="Open menu">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+                </svg>
+            </button>
+        </div>
+    </header>
+</div>
+
+<div class="flex flex-grow pt-8">
+    <main role="main">

@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+    <article itemscope itemtype="https://schema.org/AboutPage">
+        <header>
+            <h1 itemprop="name">
+                {{ .Title }}
+            </h1>
+        </header>
+
+        <div itemprop="text">
+            {{ .Content }}
+        </div>
+
+        <span class="divider"></span>
+
+        {{ partial "lastmodified.html" . }}
+    </article>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,4 @@
+baseURL = 'https://barryvanveen.nl/'
+languageCode = 'en-us'
+title = 'A blog about web development - Barry van Veen'
+description = ''

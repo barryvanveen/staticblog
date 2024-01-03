@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+    <article class="" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/BlogPosting">
+        <header class="my-4">
+            <h1 itemprop="headline">
+                {{ .Title }}
+            </h1>
+            <p class="article-details">
+                {{ partial "time.html" (dict "time" .Date) }}
+                {{ partial "author.html" }}
+            </p>
+        </header>
+
+        <div itemprop="articleBody">
+            {{ .Content }}
+        </div>
+
+    </article>
+
+{{ partial "footer.html" . }}
