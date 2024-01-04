@@ -32,6 +32,9 @@
 
     <!-- <link rel="author" href=""> -->
 
+    {{ $style := resources.Get "sass/main.css" | resources.PostCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=2">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=2">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=2">
@@ -50,18 +53,14 @@
             <nav class="hidden md:block" aria-labelledby="menu-title">
                 <h1 id="menu-title" class="sr-only">Menu</h1>
                 <ul class="inline-flex gap-x-16">
-                    <nav>
-                        <ul>
-                            {{- range site.Menus.main }}
-                            <li>
-                                <a class="text-lg hover:text-terracotta fancy-border fancy-border-terracotta"
-                                   href="{{ .URL }}">
-                                    {{ .Name }}
-                                </a>
-                            </li>
-                            {{- end -}}
-                        </ul>
-                    </nav>
+                    {{- range site.Menus.main }}
+                    <li>
+                        <a class="text-lg hover:text-terracotta fancy-border fancy-border-terracotta"
+                           href="{{ .URL }}">
+                            {{ .Name }}
+                        </a>
+                    </li>
+                    {{- end -}}
                 </ul>
             </nav>
             <button id="js-mobile-menu-open" type="button" class="hover:text-terracotta md:hidden" aria-label="Open menu">

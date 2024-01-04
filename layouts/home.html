@@ -1,19 +1,27 @@
 {{ partial "header.html" . }}
 
-    <article itemprop="mainEntity">
-        <header>
-            <h1 itemprop="name">
-                {{ .Title }}
-            </h1>
-        </header>
+    <div class="flex flex-grow pt-8">
+        <main role="main">
+            <div class="container-max-md pb-8">
 
-        <div itemprop="text">
-            {{ .Content }}
-        </div>
+                <article itemprop="mainEntity">
+                    <header>
+                        <h1 itemprop="name">
+                            {{ .Title }}
+                        </h1>
+                    </header>
 
-        <span class="divider"></span>
+                    <div itemprop="text">
+                        {{ .Content }}
+                    </div>
 
-        {{ partial "lastmodified.html" . }}
-    </article>
+                    <span class="divider"></span>
+
+                    {{ partial "lastmodified.html" . }}
+                </article>
+
+            </div>
+        </main>
+    </div>
 
 {{ partial "footer.html" . }}

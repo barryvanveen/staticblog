@@ -1,11 +1,19 @@
 {{ partial "header.html" . }}
 
-    <section itemscope itemtype="https://schema.org/Blog">
-        <h1 itemprop="about" class="mb-8">{{ .Title }}</h1>
+<div class="flex flex-grow pt-8">
+    <main role="main">
+        <div class="container-max-md pb-8">
 
-        {{ range .Pages }}
-            {{ .Render "summary" }}
-        {{ end }}
-    </section>
+            <section itemscope itemtype="https://schema.org/Blog">
+                <h1 itemprop="about" class="mb-8">{{ .Title }}</h1>
+
+                {{ range .Pages }}
+                {{ .Render "summary" }}
+                {{ end }}
+            </section>
+
+        </div>
+    </main>
+</div>
 
 {{ partial "footer.html" . }}

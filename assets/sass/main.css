@@ -1,0 +1,7 @@
+@import "tailwindcss/base.css";
+@import "tailwindcss/components.css";
+@import "tailwindcss/utilities.css";
+
+@import "assets/sass/custom-base-styles.css";
+@import "assets/sass/custom-component-styles.css";
+/*@import "./../../vendor/scrivo/highlight.php/styles/a11y-dark.css";*/
