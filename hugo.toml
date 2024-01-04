@@ -2,3 +2,12 @@ baseURL = 'https://barryvanveen.nl/'
 languageCode = 'en-us'
 title = 'A blog about web development - Barry van Veen'
 description = ''
+[menus]
+[[menus.main]]
+    name = 'Articles'
+    pageRef = '/articles'
+    weight = 10
+[[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 20
