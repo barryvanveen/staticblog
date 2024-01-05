@@ -10,7 +10,7 @@
                         {{ .Title }}
                     </h1>
                     <p class="article-details">
-                        {{ partial "time.html" (dict "time" .Date) }}
+                        {{ partial "time/datePublished.html" (dict "time" .Date) }}
                         {{ partial "author.html" }}
                     </p>
                 </header>

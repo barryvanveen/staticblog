@@ -47,7 +47,7 @@
         }
 
         /* external links */
-        a[href*="//"]:not([href*="blog.test"],[href*="barryvanveen.nl"]):after {
+        a[href*="//"]:not([href*="localhost:1313"],[href*="barryvanveen.nl"]):after {
             content: "↗";
             @apply mx-1;
         }
