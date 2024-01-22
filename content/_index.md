@@ -8,9 +8,3 @@ Hi! My name is Barry and I'm a software developer from the Netherlands. Since 20
 Over the past 10+ years I have worked in many different projects and in different settings. I love cleaning up old code, optimising site speed and writing readable solutions for complex problems.
 
 Have a look at [my articles](/articles), learn more [about me](/about) and subscribe to my [rss feed](/articles/rss).
-
-## Most recent articles:
-{{ARTICLES}}
-
-## Books I'm currently reading:
-{{BOOKS}}

@@ -13,6 +13,20 @@
 
                     <div itemprop="text">
                         {{ .Content }}
+
+                        <h2>Most recent articles:</h2>
+                        <ul>
+                            {{ range (where .Site.Pages "Section" "articles") }}
+                                {{ range .Pages.Limit 3 }}
+                                    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                                {{ end }}
+                            {{ end }}
+                        </ul>
+
+                        <h2>Books I'm currently reading:</h2>
+                        <ul>
+                             
+                        </ul>
                     </div>
 
                     <span class="divider"></span>
