@@ -24,9 +24,19 @@
                         </ul>
 
                         <h2>Books I'm currently reading:</h2>
-                        <ul>
-                             
-                        </ul>
+                        {{ with .GetPage "books" }}
+                            {{- $startSectionDelimiter := "<!-- start currently reading -->" -}}
+                            {{- $endSectionDelimiter := "<!-- end currently reading -->" -}}
+
+                            <!-- split on first breakpoint -->
+                            {{- $rawContentSections := split .RawContent $startSectionDelimiter -}}
+                            <!-- use only content after breakpoint -->
+                            <!-- then split again on second breakpoint -->
+                            {{- $rawContentSections := split (index $rawContentSections 1) $endSectionDelimiter -}}
+
+                            <!-- render the first index, which contains everything between the 2 breakpoints -->
+                            {{ index $rawContentSections 0 | .RenderString }}
+                        {{ end }}
                     </div>
 
                     <span class="divider"></span>

@@ -8,7 +8,15 @@ url: "/about/books"
 Below is a list of books that I've read. Just because I like to keep lists and I didn't have this one yet.
 
 ## Currently reading:
+<!-- start currently reading -->
+
+* [Praktisch Handboek Voedselbossen](https://www.goodreads.com/book/show/55069936-praktisch-handboek-voedselbossen) by Martin Crawford.
 * [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time) by Adrian Tchaikovsky.
+
+<!-- end currently reading -->
+
+## 2024
+* [Boemerang en andere gedichten](https://www.goodreads.com/book/show/16046906-boemerang-en-andere-gedichten) by Gerrit Komrij (unfinished).
 
 ## 2023
 * [Ademhalen onder de maan](https://www.goodreads.com/book/show/13449691-ademhalen-onder-de-maan) by Ingmar Heytse.
