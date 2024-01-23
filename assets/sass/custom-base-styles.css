@@ -79,8 +79,7 @@
         }
 
         pre code {
-            @apply overflow-auto text-sm whitespace-pre overflow-x-scroll rounded-md shadow-md;
-            @apply p-4 !important;
+            @apply block overflow-auto text-sm whitespace-pre overflow-x-scroll rounded-md shadow-md p-4;
         }
 
         table {

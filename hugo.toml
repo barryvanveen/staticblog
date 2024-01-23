@@ -11,3 +11,18 @@ description = ''
     name = 'About'
     pageRef = '/about'
     weight = 20
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = false
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
