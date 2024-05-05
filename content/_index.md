@@ -1,7 +1,8 @@
 ---
 title: Home
 date: 2021-12-30T00:39:30+00:00
-lastmod: 2023-09-21T10:00:00+01:00 
+lastmod: 2024-05-05T20:00:00+01:00
+description: "The personal blog of Barry van Veen with articles on web development."
 ---
 Hi! My name is Barry and I'm a software developer from the Netherlands. Since 2015, this is where I blogged about many different things, but mostly about web development.
 

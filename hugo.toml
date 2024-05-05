@@ -1,7 +1,7 @@
 baseURL = 'https://barryvanveen.nl/'
 languageCode = 'en-us'
 title = 'A blog about web development - Barry van Veen'
-description = ''
+description = 'The personal blog of Barry van Veen with articles on web development.'
 [menus]
 [[menus.main]]
     name = 'Articles'

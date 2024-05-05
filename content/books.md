@@ -2,7 +2,7 @@
 title: Books that I have read
 layout: "books"
 lastmod: 2024-01-01T10:00:00+00:00
-summary: "A list of all the books I've read over the last years."
+summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
 Below is a list of books that I've read. Just because I like to keep lists and I didn't have this one yet.
