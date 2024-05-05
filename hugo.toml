@@ -26,3 +26,6 @@ description = ''
     noHl = false
     style = 'monokai'
     tabWidth = 4
+[imaging]
+    quality = 90
+    resampleFilter = 'Lanczos'

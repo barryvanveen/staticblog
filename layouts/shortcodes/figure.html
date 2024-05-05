@@ -1,0 +1,22 @@
+{{ with .Page.Resources.GetMatch (.Get "src") }}
+    {{ $s := newScratch }}
+    {{ $s.Set "original" (.) }}
+    {{ $s.Set "750" (($s.Get "original").Fit "750x400") }}
+    {{ $s.Set "480" (($s.Get "original").Fit "480x300") }}
+    {{ $s.Set "320" (($s.Get "original").Fit "320x200") }}
+
+    <figure>
+        <a href="{{ ($s.Get "original").RelPermalink }}" target="_blank">
+            <img src="{{ ($s.Get "750").RelPermalink }}"
+                 srcset="{{ ( $s.Get "320").RelPermalink}} 320w, {{ ($s.Get "480").RelPermalink }} 480w, {{ ($s.Get "750").RelPermalink }} 750w"
+                 sizes="(max-width: 340px) 320px, (max-width: 500px) 480px, 750px"
+                 loading="lazy"
+                 alt="{{ .Params.alt }}">
+        </a>
+        {{- if .Title -}}
+            <figcaption>
+                {{ .Title }}
+            </figcaption>
+        {{ end }}
+    </figure>
+{{ end }}
