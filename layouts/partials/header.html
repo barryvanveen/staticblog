@@ -1,60 +1,9 @@
 <!doctype html>
 <html lang="{{ site.LanguageCode | default site.Language.Lang  }}">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <base href="{{ .Site.BaseURL }}">
-
-    <meta name="site_name" content="Barry van Veen" />
-    <meta property="og:site_name" content="Barry van Veen" />
-    <meta name="locale" content="en_EN" />
-    <meta property="og:locale" content="en_EN" />
-    <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-
-    {{- template "_internal/opengraph.html" . -}}
-    {{- template "_internal/schema.html" . -}}
-    <link rel="author" href="/about">
-
-    {{ if .OutputFormats.Get "RSS" }}
-    {{ with .OutputFormats.Get "RSS" }}
-    <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
-    <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
-    {{ end }}
-    {{ end }}
-
-    {{ if .Params.canonicalUrl }}
-    <link rel="canonical" href="{{ .Params.canonicalUrl }}">
-    {{ else }}
-    <link rel="canonical" href="{{ .Permalink }}">
-    {{ end }}
-
-    <!-- <link rel="author" href=""> -->
-
-    {{ $style := resources.Get "sass/main.css" | resources.PostCSS | resources.Minify | resources.Fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
-
-    {{ with resources.Get "apple-touch-icon.png" |  }}
-        <link rel="apple-touch-icon" sizes="180x180" href="{{ .RelPermalink }}">
-    {{ end }}
-    {{ with resources.Get "favicon-32x32.png" }}
-        <link rel="icon" type="image/png" sizes="32x32" href="{{ .RelPermalink }}">
-    {{ end }}
-    {{ with resources.Get "favicon-16x16.png" }}
-        <link rel="icon" type="image/png" sizes="16x16" href="{{ .RelPermalink }}">
-    {{ end }}
-    {{ with resources.Get "favicon.svg" }}
-        <link rel="icon" href="{{ .RelPermalink }}">
-    {{ end }}
-    {{ with resources.Get "site.webmanifest" }}
-        <link rel="manifest" href="{{ .RelPermalink }}">
-    {{ end }}
-    {{ with resources.Get "monochrome-icon.svg" }}
-        <link rel="mask-icon" href="{{ .RelPermalink }}" color="#971a20">
-    {{ end }}
-    <meta name="msapplication-TileColor" content="#f4c148">
-    <meta name="theme-color" content="#f4c148">
+    {{ partial "header/meta.html" . }}
+    {{ partial "header/links.html" . }}
+    {{ partial "header/assets.html" . }}
 </head>
 
 <body class="min-h-screen flex flex-col">

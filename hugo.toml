@@ -29,3 +29,9 @@ description = 'The personal blog of Barry van Veen with articles on web developm
 [imaging]
     quality = 90
     resampleFilter = 'Lanczos'
+[outputs]
+    home = ['html']
+    section = ['html', 'rss']
+    taxonomy = []
+    term = []
+disableKinds = ['taxanomy', 'term']

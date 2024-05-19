@@ -1,0 +1,23 @@
+{{ $style := resources.Get "sass/main.css" | resources.PostCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+{{ with resources.Get "apple-touch-icon.png" |  }}
+<link rel="apple-touch-icon" sizes="180x180" href="{{ .RelPermalink }}">
+{{ end }}
+{{ with resources.Get "favicon-32x32.png" }}
+<link rel="icon" type="image/png" sizes="32x32" href="{{ .RelPermalink }}">
+{{ end }}
+{{ with resources.Get "favicon-16x16.png" }}
+<link rel="icon" type="image/png" sizes="16x16" href="{{ .RelPermalink }}">
+{{ end }}
+{{ with resources.Get "favicon.svg" }}
+<link rel="icon" href="{{ .RelPermalink }}">
+{{ end }}
+{{ with resources.Get "site.webmanifest" }}
+<link rel="manifest" href="{{ .RelPermalink }}">
+{{ end }}
+{{ with resources.Get "monochrome-icon.svg" }}
+<link rel="mask-icon" href="{{ .RelPermalink }}" color="#971a20">
+{{ end }}
+<meta name="msapplication-TileColor" content="#f4c148">
+<meta name="theme-color" content="#f4c148">
