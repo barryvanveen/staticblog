@@ -27,4 +27,4 @@ Besides programming, I love to:
 ## Contact me
 * [LinkedIn](https://www.linkedin.com/in/barryvanveen/)
 * [GitHub](https://www.github.com/barryvanveen)
-* [Blog RSS](articles/rss)
+* [Blog RSS]({{< relref path="articles" outputFormat="rss" >}})
