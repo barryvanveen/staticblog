@@ -1,0 +1,6 @@
+User-agent: *
+{{ if .OutputFormats.Get "sitemap" }}
+{{ with .OutputFormats.Get "sitemap" }}
+Sitemap: {{ .RelPermalink }}
+{{ end }}
+{{ end }}

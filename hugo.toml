@@ -2,6 +2,8 @@ baseURL = 'https://barryvanveen.nl/'
 languageCode = 'en-us'
 title = 'A blog about web development - Barry van Veen'
 description = 'The personal blog of Barry van Veen with articles on web development.'
+disableKinds = ['taxonomy', 'term']
+enableRobotsTXT = true
 [menus]
 [[menus.main]]
     name = 'Articles'
@@ -34,4 +36,7 @@ description = 'The personal blog of Barry van Veen with articles on web developm
     section = ['html', 'rss']
     taxonomy = []
     term = []
-disableKinds = ['taxanomy', 'term']
+[[redirects]]
+    from = '/**'
+    status = 404
+    to = '/404.html'

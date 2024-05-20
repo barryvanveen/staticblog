@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://barryvanveen.nl/sitemap.xml
