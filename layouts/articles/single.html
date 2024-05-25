@@ -26,6 +26,13 @@
                     {{ .Content }}
                 </div>
 
+                {{ if (ne .Lastmod .Date) }}
+                <footer class="mt-6">
+                    <p class="article-details">
+                        Last update: {{ partial "time/lastReviewed.html" (dict "time" .Lastmod) }}
+                    </p>
+                </footer>
+                {{ end }}
             </article>
 
         </div>
