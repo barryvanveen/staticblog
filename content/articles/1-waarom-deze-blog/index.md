@@ -3,6 +3,8 @@ title: "Waarom deze blog?"
 date: 2015-05-09T17:19:00+02:00
 draft: false
 summary: "Dit is mijn allereerste blogpost ooit. Ik wil dan ook beginnen met het beantwoorden van een paar vragen, zoals waarom ik begin aan een blog en waarover ik wil schrijven."
+types: ['personal']
+subjects: ['writing', 'blogging']
 ---
 Dit is mijn allereerste blogpost ooit. Ik wil dan ook beginnen met het beantwoorden van een paar vragen, zoals waarom ik begin aan een blog en waarover ik wil schrijven.
 

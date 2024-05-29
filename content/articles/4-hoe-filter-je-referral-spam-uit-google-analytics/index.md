@@ -3,6 +3,8 @@ title: "Hoe filter je referral spam uit Google Analytics?"
 date: 2015-06-06T20:00:00+02:00
 draft: false
 summary: "Bij het runnen van een website hoort ook dat je wat statistieken verzamelt. Helaas worden de statistieken van Google Analytics de laatste tijd vervuild door spammers die hopen dat je naar hun website doorklikt. Om mijn statistieken weer overzichtelijk te maken heb ik uitgezocht hoe je de spam-bezoekers weg kunt filteren."
+types: ['tutorial']
+subjects: ['analytics', 'spam', 'seo']
 params:
   outdated_warning: true
 resources:

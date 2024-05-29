@@ -3,6 +3,8 @@ title: "Updaten naar Laravel 5.1"
 date: 2015-07-13T00:00:00+02:00
 draft: false
 summary: "Op 9 juli is [Laravel 5.1](http://laravel.com/docs/5.1) uitgekomen, een belangrijke nieuwe release. Dit is de eerste Long Term Support (LTS) versie van Laravel, wat betekent dat er 3 jaar ondersteuning zal zijn in de vorm van beveiligingsupdates. Niet alleen dat, versie 5 biedt veel nieuwe functies ten opzichte van versie 4.2 waar deze blog nog op draaide. Tijd dus om te updaten, maar dat blijkt een flinke klus..."
+types: ['tutorial']
+subjects: ['upgrades', 'laravel']
 params:
   outdated_warning: true
 ---

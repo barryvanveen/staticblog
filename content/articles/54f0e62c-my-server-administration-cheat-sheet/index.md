@@ -3,6 +3,8 @@ title: "My Server Administration Cheat Sheet"
 date: 2022-12-30T15:59:53+01:00
 draft: false
 summary: "Some of the commands that I use to install and maintain my web server."
+types: ['tutorial']
+subjects: ['devops', 'linux', 'server', 'administration', 'security']
 ---
 This is a short list of commands that I commonly use to install and update the server that runs this blog.
 

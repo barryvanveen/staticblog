@@ -4,6 +4,8 @@ date: 2015-07-25T19:00:00+02:00
 lastmod: 2024-05-24T21:15:00+02:00
 draft: false
 summary: "Vorige week schreef ik over het [maken van een sitemap](/articles/9-zoekmachineoptimalisatie-deel-1-hoe-genereer-je-een-sitemap-xml). Deze week wil ik het hebben over een andere aanpak waardoor zoekmachines je website beter kunnen indexeren, namelijk door gebruik te maken van semantische (beschrijvende) HTML. Met HTML5 tags zoals `<article>`, `<section>` en `<main>` kun je heel goed aangeven wat de belangrijkste inhoud van een pagina is."
+types: ['tutorial']
+subjects: ['seo', 'semantic', 'html', 'html5']
 params:
   outdated_warning: false
 ---
@@ -120,7 +122,3 @@ Op een tekstpagina wordt ook weer gebruik gemaakt van een main-tag omdat het hie
 
 ## En nu?
 Nu de globale opzet van de HTML weer netjes is gemaakt wil ik me gaan verdiepen in [microdata](http://www.w3.org/TR/microdata/). Daarmee kan ik nog duidelijke aangeven wat voor informatie een stuk HTML beschrijft.
-
-## Gerelateerde artikelen
-* [Hoe genereer je een sitemap.xml?](/articles/9-zoekmachineoptimalisatie-deel-1-hoe-genereer-je-een-sitemap-xml)
-* [Hoe filter je referral spam uit Google Analytics?](/articles/4-hoe-filter-je-referral-spam-uit-google-analytics)

@@ -3,6 +3,8 @@ title: "RSS feed toegevoegd"
 date: 2015-05-30T17:54:00+02:00
 draft: false
 summary: "Vanaf nu is het mogelijk om je te abonneren op de RSS feed van deze blog. Makkelijk als je het gewend bent om je blogjes lezen met bijvoorbeeld Feedly. Klik rechtsboven op het RSS-icoon om de feed te openen of abonneer je op de url [barryvanveen.nl/rss](/rss)."
+types: ['tutorial']
+subjects: ['rss', 'laravel', 'command bus']
 params:
   outdated_warning: true
 ---

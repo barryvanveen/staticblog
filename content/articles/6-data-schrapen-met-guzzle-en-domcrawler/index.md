@@ -3,6 +3,8 @@ title: "Data schrapen met Guzzle en DomCrawler"
 date: 2015-06-15T23:00:00+02:00
 draft: false
 summary: "Omdat ik tegenwoordig al mijn blogjes in [Feedly](https://www.feedly.com) lees wil ik graag voor alles een RSS feed hebben. Helaas heeft LuckyTV nog geen eigen RSS feed dus heb ik besloten die dan maar zelf in elkaar te knutselen. Dat gaat gelukkig heel makkelijk met [Guzzle](https://github.com/guzzle/guzzle) en de [DomCrawler](http://symfony.com/doc/current/components/dom_crawler.html) van Symfony."
+types: ['tutorial']
+subjects: ['rss', 'scraping', 'crawling', 'guzzle']
 params:
   outdated_warning: true
 ---

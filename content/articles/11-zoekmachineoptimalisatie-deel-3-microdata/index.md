@@ -3,6 +3,8 @@ title: "Zoekmachineoptimalisatie deel 3: microdata"
 date: 2015-09-19T19:00:00+02:00
 draft: false
 summary: "[Microdata](https://en.wikipedia.org/wiki/Microdata_%28HTML%29) is een manier om de inhoud van je pagina nog duidelijker te maken voor zoekmachines. Met [semantische html](/articles/10-zoekmachineoptimalisatie-deel-2-semantische-html) kun je al aangeven wat de belangrijkste content van een pagina en welke content bij elkaar hoort. Met microdata kun je aangeven wat voor data je content beschrijft. Zo kun je dus aangeven dat een artikel een nieuwsbericht is, of een recept, of één van de duizenden andere mogelijkheden."
+types: ['tutorial']
+subjects: ['seo', 'microdata']
 params:
   outdated_warning: false
 resources:
@@ -52,8 +54,3 @@ Google (en andere zoekmachines) gebruiken microdata om je website beter te index
 {{< figure src="zoekresultaten-met-microdata" >}}
 
 In Google's [Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/) heb je een mogelijkheid om je microdata te laten controleren. Let op, Google stelt strengere eisen aan de microdata die je moet toevoegen. Een afbeelding is volgens hen bijvoorbeeld verplicht voor een BlogPosting. Dit is niet echt zo, maar pas als je een afbeelding toevoegt kom je mooier in de zoekresultaten te staan.
-
-## Gerelateerde artikelen
-* [Hoe gebruik je semantische html?](/articles/10-zoekmachineoptimalisatie-deel-2-semantische-html)
-* [Hoe genereer je een sitemap.xml?](/articles/9-zoekmachineoptimalisatie-deel-1-hoe-genereer-je-een-sitemap-xml)
-* [Hoe filter je referral spam uit Google Analytics?](/articles/4-hoe-filter-je-referral-spam-uit-google-analytics)

@@ -3,6 +3,8 @@ title: "Nog makkelijker testen met Laravel"
 date: 2015-11-07T23:00:00+02:00
 draft: false
 summary: "In Laravel is het makkelijker dan ooit om geautomatiseerde tests te schrijven. Zo wordt PHPUnit standaard meegeleverd en is de meeste configuratie alvast ingesteld. Toch zijn er nog een aantal dingen die je moet verbeteren voordat je echt makkelijk je tests kunt draaien."
+types: ['tutorial']
+subjects: ['laravel', 'testing', 'phpunit']
 params:
   outdated_warning: true
 ---
@@ -70,6 +72,3 @@ class HomepageTest extends TestCase
 * Lees de officiële documentatie over [testen in Laravel](http://laravel.com/docs/5.1/testing).
 * Lees over het [organiseren van je testcases](https://phpunit.de/manual/current/en/organizing-tests.html) in PHPUnit.
 * Voeg in `.bash_aliases` een alias toe met <code class="language-bash">alias phpunit='vendor/bin/phpunit'</code>
-
-## Gerelateerde artikelen
-* [Updaten naar Laravel 5.1](http://barryvanveen.nl/blog/8-updaten-naar-laravel-5-1)

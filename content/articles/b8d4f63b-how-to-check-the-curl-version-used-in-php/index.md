@@ -3,6 +3,8 @@ title: "How to check the cURL version used in PHP?"
 date: 2023-10-11T10:08:54+01:00
 draft: false
 summary: "With a [high severity security issue](https://curl.se/docs/CVE-2023-38545.html) just announced in curl, you might be wondering which curl version you are using in your PHP script. Here's how to find it."
+types: ['tutorial']
+subjects: ['php', 'curl', 'security']
 ---
 The maintainers of curl have announced that they will release a new version today, October 11 2023. In the 8.4.0 release, they fixed [CVE-2023-38545: SOCKS5 heap buffer overflow](https://curl.se/docs/CVE-2023-38545.html).
 
@@ -14,8 +16,6 @@ curl_version();
 {{< / highlight >}}
 
 The return value will be an array with these details:
-
-
 
 {{< highlight php >}}
 Array(16) {

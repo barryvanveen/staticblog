@@ -3,6 +3,8 @@ title: "Best Practices van PHPUnit"
 date: 2015-11-13T18:00:00+02:00
 draft: false
 summary: "Ik ben aan het proberen mijn code helemaal automatisch te testen met PHPUnit. Daarbij heb ik wat handige dingen geleerd en die wil ik graag met jullie delen."
+types: ['tutorial']
+subjects: ['testing', 'laravel']
 params:
   outdated_warning: true
 ---
@@ -34,6 +36,3 @@ alias tf='vendor/bin/phpunit tests/functional'
 alias ti='vendor/bin/phpunit tests/integration'
 alias tu='vendor/bin/phpunit tests/unit'
 ```
-
-## Gerelateerde artikelen
-* [Nog makkelijker testen met Laravel](/articles/12-nog-makkelijker-testen-met-laravel)

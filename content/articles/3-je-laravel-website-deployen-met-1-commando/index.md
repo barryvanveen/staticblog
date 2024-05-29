@@ -3,6 +3,8 @@ title: "Je Laravel website deployen met 1 commando"
 date: 2015-05-23T16:30:00+02:00
 draft: false
 summary: "Voor deze nieuwe blog wilde ik een script maken dat in 1 keer de nieuwste versie van mijn code uploadt naar mijn webserver. Dit heb ik gedaan door een nieuw commando aan Artisan -- de command-line interface van Laravel Framework -- toe te voegen."
+types: ['tutorial']
+subjects: ['deploy', 'devops', 'laravel']
 params:
   outdated_warning: true
 ---

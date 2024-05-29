@@ -3,6 +3,8 @@ title: "Bestanden uit Dropbox benaderen met Flysystem"
 date: 2015-06-19T22:00:00+02:00
 draft: false
 summary: "De afbeeldingen die je op deze blog ziet worden direct uit mijn eigen Dropbox-map gehaald. Superhandig want zo kan ik een bestand \"uploaden\" naar mijn webserver door het op mijn eigen computer naar een mapje te slepen."
+types: ['tutorial']
+subjects: ['hosting', 'devops', 'flysystem', 'laravel', 'dropbox']
 params:
   outdated_warning: true
 resources:

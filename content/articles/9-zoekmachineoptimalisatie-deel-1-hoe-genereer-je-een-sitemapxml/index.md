@@ -3,6 +3,8 @@ title: "Zoekmachineoptimalisatie deel 1: Hoe genereer je een sitemap.xml?"
 date: 2015-07-19T17:00:00+02:00
 draft: false
 summary: "Een sitemap is een overzicht van alle bereikbare pagina's van je website. Het is een hulpmiddel dat door zoekmachines wordt gebruikt om alle pagina's te indexeren. Het bouwen van een sitemap is daarmee één van de eerste stappen die je kunt zetten om je website beter vindbaar te maken in Google en andere zoekmachines."
+types: ['tutorial']
+subjects: ['seo', 'sitemap', 'laravel']
 params:
   outdated_warning: true
 ---

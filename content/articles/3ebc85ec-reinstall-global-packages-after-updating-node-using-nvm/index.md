@@ -3,6 +3,8 @@ title: "Reinstall global packages after updating node using NVM"
 date: 2023-09-21T10:00:00+01:00
 draft: false
 summary: "When you use `nvm` to update a node version, you lose all globally installed `npm` packages. Use these steps to reinstall those packages."
+types: ['tutorial']
+subjects: ['node', 'nvm', 'npm', 'upgrades', 'linux']
 ---
 Node Version Manager (`nvm`) is a tool I use on a daily basis. Lately, we have upgraded some projects to newer Node versions and this is causing some problems.
 

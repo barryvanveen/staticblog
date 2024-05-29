@@ -3,6 +3,8 @@ title: "Automatisch inloggen bij Github en Bitbucket"
 date: 2015-05-16T12:00:00+02:00
 draft: false
 summary: "Als je met de command-line van Git werkt dan moet je vaak je wachtwoord invoeren. Dat is op zich wel zo veilig, maar niet heel makkelijk. Gelukkig is er een oplossing: het instellen van SSH keys."
+types: ['tutorial']
+subjects: ['ssh', 'ssh-keygen', 'ssh key', 'github', 'bitbucket']
 ---
 Als je je automatisch wilt authenticeren bij diensten als GitHub of BitBucket zul je een SSH key in moeten stellen. Dit is gelukkig erg makkelijk om te doen en bespaart je daarna een hoop typewerk.
 
