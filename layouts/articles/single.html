@@ -36,6 +36,31 @@
             </article>
 
         </div>
+
+        <div class="bg-lightTeal">
+            <div class="container-max-md">
+                <section class="py-8">
+                    {{ $related := .Site.RegularPages.Related . | first 5 }}
+                    {{ with $related }}
+                        <h2>Related articles</h2>
+                        <ul>
+                            {{ range $i, $p := . }}
+                            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                            {{ end }}
+                        </ul>
+                    {{ else }}
+                        <h2>Newest articles</h2>
+                        <ul>
+                            {{ range (where .Site.Pages "Section" "articles") }}
+                            {{ range .Pages.Limit 3 }}
+                            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                            {{ end }}
+                            {{ end }}
+                        </ul>
+                    {{ end }}
+                </section>
+            </div>
+        </div>
     </main>
 </div>
 
