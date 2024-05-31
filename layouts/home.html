@@ -1,51 +1,47 @@
 {{ partial "header.html" . }}
 
-    <div class="flex flex-grow pt-8">
-        <main role="main">
-            <div class="container-max-md pb-8">
+<div class="container-max-md pb-8">
 
-                <article itemprop="mainEntity">
-                    <header>
-                        <h1 itemprop="name">
-                            {{ .Title }}
-                        </h1>
-                    </header>
+    <article itemprop="mainEntity">
+        <header>
+            <h1 itemprop="name">
+                {{ .Title }}
+            </h1>
+        </header>
 
-                    <div itemprop="text">
-                        {{ .Content }}
+        <div itemprop="text">
+            {{ .Content }}
 
-                        <h2>Most recent articles:</h2>
-                        <ul>
-                            {{ range (where .Site.Pages "Section" "articles") }}
-                                {{ range .Pages.Limit 3 }}
-                                    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-                                {{ end }}
-                            {{ end }}
-                        </ul>
+            <h2>Most recent articles:</h2>
+            <ul>
+                {{ range (where .Site.Pages "Section" "articles") }}
+                    {{ range .Pages.Limit 3 }}
+                        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                    {{ end }}
+                {{ end }}
+            </ul>
 
-                        <h2>Books I'm currently reading:</h2>
-                        {{ with .GetPage "books" }}
-                            {{- $startSectionDelimiter := "<!-- start currently reading -->" -}}
-                            {{- $endSectionDelimiter := "<!-- end currently reading -->" -}}
+            <h2>Books I'm currently reading:</h2>
+            {{ with .GetPage "books" }}
+                {{- $startSectionDelimiter := "<!-- start currently reading -->" -}}
+                {{- $endSectionDelimiter := "<!-- end currently reading -->" -}}
 
-                            <!-- split on first breakpoint -->
-                            {{- $rawContentSections := split .RawContent $startSectionDelimiter -}}
-                            <!-- use only content after breakpoint -->
-                            <!-- then split again on second breakpoint -->
-                            {{- $rawContentSections := split (index $rawContentSections 1) $endSectionDelimiter -}}
+                <!-- split on first breakpoint -->
+                {{- $rawContentSections := split .RawContent $startSectionDelimiter -}}
+                <!-- use only content after breakpoint -->
+                <!-- then split again on second breakpoint -->
+                {{- $rawContentSections := split (index $rawContentSections 1) $endSectionDelimiter -}}
 
-                            <!-- render the first index, which contains everything between the 2 breakpoints -->
-                            {{ index $rawContentSections 0 | .RenderString }}
-                        {{ end }}
-                    </div>
+                <!-- render the first index, which contains everything between the 2 breakpoints -->
+                {{ index $rawContentSections 0 | .RenderString }}
+            {{ end }}
+        </div>
 
-                    <span class="divider"></span>
+        <span class="divider"></span>
 
-                    {{ partial "lastmodified.html" . }}
-                </article>
+        {{ partial "lastmodified.html" . }}
+    </article>
 
-            </div>
-        </main>
-    </div>
+</div>
 
 {{ partial "footer.html" . }}

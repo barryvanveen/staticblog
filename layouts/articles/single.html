@@ -1,67 +1,63 @@
 {{ partial "header.html" . }}
 
-<div class="flex flex-grow pt-8">
-    <main role="main">
-        <div class="container-max-md pb-8">
+<div class="container-max-md pb-8">
 
-            <article class="" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/BlogPosting">
-                <header class="my-4">
-                    <h1 itemprop="headline">
-                        {{ .Title }}
-                    </h1>
-                    <p class="article-details">
-                        {{ partial "time/datePublished.html" (dict "time" .Date) }}
-                        {{ partial "author.html" }}
-                    </p>
-                </header>
+    <article class="" itemprop="mainEntity" itemscope="" itemtype="https://schema.org/BlogPosting">
+        <header class="my-4">
+            <h1 itemprop="headline">
+                {{ .Title }}
+            </h1>
+            <p class="article-details">
+                {{ partial "time/datePublished.html" (dict "time" .Date) }}
+                {{ partial "author.html" }}
+            </p>
+        </header>
 
-                {{ if .Param "outdated_warning" }}
-                <div class="my-4 p-4 border-dashed border-2 bg-amber-100 border-amber-200 italic">
-                    It seems you have stumbled on a pretty old article. Please note this was written back in {{ .Date.Year }}
-                    and is probably heavily outdated.
-                </div>
-                {{ end }}
+        {{ if .Param "outdated_warning" }}
+        <div class="my-4 p-4 border-dashed border-2 bg-amber-100 border-amber-200 italic">
+            It seems you have stumbled on a pretty old article. Please note this was written back in {{ .Date.Year }}
+            and is probably heavily outdated.
+        </div>
+        {{ end }}
 
-                <div itemprop="articleBody">
-                    {{ .Content }}
-                </div>
-
-                {{ if (ne .Lastmod .Date) }}
-                <footer class="mt-6">
-                    <p class="article-details">
-                        Last update: {{ partial "time/lastReviewed.html" (dict "time" .Lastmod) }}
-                    </p>
-                </footer>
-                {{ end }}
-            </article>
-
+        <div itemprop="articleBody">
+            {{ .Content }}
         </div>
 
-        <div class="bg-lightTeal">
-            <div class="container-max-md">
-                <section class="py-8">
-                    {{ $related := .Site.RegularPages.Related . | first 5 }}
-                    {{ with $related }}
-                        <h2>Related articles</h2>
-                        <ul>
-                            {{ range $i, $p := . }}
-                            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-                            {{ end }}
-                        </ul>
-                    {{ else }}
-                        <h2>Newest articles</h2>
-                        <ul>
-                            {{ range (where .Site.Pages "Section" "articles") }}
-                            {{ range .Pages.Limit 3 }}
-                            <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-                            {{ end }}
-                            {{ end }}
-                        </ul>
+        {{ if (ne .Lastmod .Date) }}
+        <footer class="mt-6">
+            <p class="article-details">
+                Last update: {{ partial "time/lastReviewed.html" (dict "time" .Lastmod) }}
+            </p>
+        </footer>
+        {{ end }}
+    </article>
+
+</div>
+
+<div class="bg-lightTeal">
+    <div class="container-max-md">
+        <section class="py-8">
+            {{ $related := .Site.RegularPages.Related . | first 5 }}
+            {{ with $related }}
+                <h2>Related articles</h2>
+                <ul>
+                    {{ range $i, $p := . }}
+                    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
                     {{ end }}
-                </section>
-            </div>
-        </div>
-    </main>
+                </ul>
+            {{ else }}
+                <h2>Newest articles</h2>
+                <ul>
+                    {{ range (where .Site.Pages "Section" "articles") }}
+                    {{ range .Pages.Limit 3 }}
+                    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                    {{ end }}
+                    {{ end }}
+                </ul>
+            {{ end }}
+        </section>
+    </div>
 </div>
 
 {{ partial "footer.html" . }}
