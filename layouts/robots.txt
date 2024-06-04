@@ -1,6 +1,7 @@
 User-agent: *
-{{ if .OutputFormats.Get "sitemap" }}
-{{ with .OutputFormats.Get "sitemap" }}
-Sitemap: {{ .RelPermalink }}
-{{ end }}
+{{/* Block everything in production as we are not really live yet */}}
+{{ if hugo.IsProduction }}
+Disallow: /
+{{ else }}
+Sitemap: sitemap.xml
 {{ end }}

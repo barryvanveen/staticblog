@@ -33,7 +33,7 @@ enableRobotsTXT = true
     resampleFilter = 'Lanczos'
 [outputs]
     home = ['html']
-    section = ['html', 'rss']
+    section = ['html', 'rss', 'sitemap']
     taxonomy = []
     term = []
 [[redirects]]
