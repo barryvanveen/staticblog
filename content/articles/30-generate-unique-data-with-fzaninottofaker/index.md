@@ -4,7 +4,7 @@ date: 2016-07-26T23:30:00+02:00
 draft: false
 summary: "Fzaninotto/Faker is a package for generating all sorts of random data. This tip shows you how you can use it to generate unique data for usage in tests."
 types: ['tutorial']
-subjects: ['laravel', 'testing', 'seeding']
+subjects: ['laravel', 'testing', 'seeding', 'tools']
 params:
   outdated_warning: true
 ---

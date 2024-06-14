@@ -4,7 +4,7 @@ date: 2016-06-25T20:00:00+02:00
 draft: false
 summary: "Not all features of ES2015 are widely supported. That is why it's necessary to bundle modules yourself and compile it into ordinary JavaScript. This blog post describes how to accomplish this."
 types: ['tutorial']
-subjects: ['javascript', 'npm']
+subjects: ['javascript', 'npm', 'tools']
 params:
   outdated_warning: true
 ---
