@@ -8,8 +8,8 @@ subjects: ['security', 'laravel', 'configuration', 'tools']
 params:
   outdated_warning: true
 resources:
-  - name: report-ui-report
-    src: 'report-ui-report.png'
+  - name: report-uri-report
+    src: 'report-uri-report.png'
     title: "Report-uri.io report"
     params:
       alt: "Report-uri.io report"
@@ -118,4 +118,4 @@ If a browser encounters content that is violating the Content Security Policy it
 
 A great (and free) service that you use for this is [report-uri.com](https://report-uri.com/). Again, this is made by Scott Helme, this is getting awkward... After setting up your personal report-uri you can see reports for content that violated your CSP. Below is the report for this website for last month:
 
-{{< figure src="report-ui-report" >}}
+{{< figure src="report-uri-report" >}}
