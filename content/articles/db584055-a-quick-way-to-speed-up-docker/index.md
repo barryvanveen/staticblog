@@ -3,6 +3,8 @@ title: "A quick way to speed up Docker"
 date: 2022-10-15T13:19:06+01:00
 draft: false
 summary: "I've heard many devs working on MacOS that their Docker development environment is slow. Enabling these experimental features can be a quick and easy improvement."
+types: ['tutorial']
+subjects: ['tools', 'performance', 'docker']
 resources:
   - name: docker-settings
     src: 'docker-settings.png'
