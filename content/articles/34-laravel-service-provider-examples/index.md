@@ -45,7 +45,7 @@ public function register()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Singleton binding. Taken from [cviebrock/eloquent-sluggable](https://github.com/cviebrock/eloquent-sluggable/blob/master/src/ServiceProvider.php).
 ```php
@@ -57,7 +57,7 @@ public function register()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Instance binding. Taken from [spatie/laravel\-googletagmanager](https://github.com/spatie/laravel-googletagmanager/blob/master/src/GoogleTagManagerServiceProvider.php).
 ```php
@@ -73,7 +73,7 @@ public function register()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Define an alias. Taken from [graham-campbell/htmlmin](https://github.com/GrahamCampbell/Laravel-HTMLMin/blob/master/src/HTMLMinServiceProvider.php).
 ```php
@@ -83,7 +83,7 @@ public function register()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Register and alias for a sub-dependency. Found on [http://stackoverflow.com/a/22749871/404423](http://stackoverflow.com/a/22749871/404423).
 ```php
@@ -118,7 +118,7 @@ public function register()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Views. Taken from [laracasts/flash](https://github.com/laracasts/flash/blob/master/src/Laracasts/Flash/FlashServiceProvider.php).
 ```php
@@ -132,7 +132,7 @@ public function boot()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Commands. Taken from [jeroen-g/laravel-packager](https://github.com/Jeroen-G/laravel-packager/blob/master/src/PackagerServiceProvider.php).
 ```php
@@ -148,7 +148,7 @@ public function register()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Migrations. Taken from: [waavi/translation](https://github.com/Waavi/translation/blob/master/src/TranslationServiceProvider.php).
 ```php
@@ -160,7 +160,7 @@ public function boot()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Translations. Taken from: [laravelrus/localized-carbon](https://github.com/LaravelRUS/localized-carbon/blob/master/src/Laravelrus/LocalizedCarbon/LocalizedCarbonServiceProvider.php).
 ```php
@@ -174,7 +174,7 @@ public function boot()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Middleware. Taken from: [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors/blob/master/src/ServiceProvider.php).
 ```php
@@ -204,7 +204,7 @@ public function provides()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Register an event handler. Taken from [sentry/sentry-laravel](https://github.com/getsentry/sentry-laravel/blob/master/src/Sentry/SentryLaravel/SentryLaravelServiceProvider.php).
 ```php
@@ -222,7 +222,7 @@ protected function bindEvents($app)
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Set event listener. Taken from: [jenssegers/date](https://github.com/jenssegers/date/blob/master/src/DateServiceProvider.php).
 ```php
@@ -243,7 +243,7 @@ protected function setLocale()
 }
 ```
 
-<span class="divider"></span>
+{{< divider >}}
 
 Adding a Blade directive. Taken from [spatie/laravel-blade-javascript](https://github.com/spatie/laravel-blade-javascript/blob/master/src/BladeJavaScriptServiceProvider.php).
 ```php

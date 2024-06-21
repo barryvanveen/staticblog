@@ -37,6 +37,6 @@ As [Ondřej Mirtes](https://medium.com/@ondrejmirtes/how-i-got-from-0-to-1-000-s
 
 Now, I don't think my Last.fm client will bring forth any life-changing events. But hey, it might just save someone a couple of hours work. And at least I've learned a lot while developing it and had a lot of fun doing it.
 
-<span class="divider"></span>
+{{< divider >}}
 
 Check out my [last.fm API client](https://github.com/barryvanveen/lastfm) on GitHub.

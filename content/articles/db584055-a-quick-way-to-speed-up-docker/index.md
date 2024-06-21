@@ -54,5 +54,3 @@ The results are very clear: response times went down from 785 ms to 232 ms. That
 Naturally, your milage may very, depending on your project and on your machine.
 
 Just give it a go. It takes less 5 minutes to change and might make your developer experience a lot better.
-
-*Did this help you out? Share the improvement you saw on your project in the comments. Thanks for reading!*
