@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2024-01-01T10:00:00+00:00
+lastmod: 2024-07-09T21:00:00+00:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -11,11 +11,19 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 <!-- start currently reading -->
 
 * [Praktisch Handboek Voedselbossen](https://www.goodreads.com/book/show/55069936-praktisch-handboek-voedselbossen) by Martin Crawford.
-* [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time) by Adrian Tchaikovsky.
+* [Op zoek naar de verstrooide tijd](https://www.goodreads.com/book/show/63269510-op-zoek-naar-de-verstrooide-tijd) by Koen Haegens.
+* [Roadside picnic](https://goodreads.com/book/show/331256.Roadside_Picnic) by Arkady and  Boris Strugatsky
 
 <!-- end currently reading -->
 
 ## 2024
+* [This Is Your Brain On Music](https://www.goodreads.com/book/show/141565.This_Is_Your_Brain_on_Music) by Daniel J. Levitin (unfinished).
+* [A Beginner's Guide to Breaking and Entering](https://www.goodreads.com/book/show/63912765-a-beginner-s-guide-to-breaking-and-entering) by Andrew Hunter Murray.
+* [Eileen](https://www.goodreads.com/book/show/23453099-eileen) by Ottessa Moshfegh.
+* [Children of Ruin](https://www.goodreads.com/en/book/show/40376072) by Adrian Tchaikovsky.
+* [Kleine natuur: De wonderbaarlijke soortenrijkdom van een stadstuin](https://www.goodreads.com/book/show/208276923-kleine-natuur-de-wonderbaarlijke-soortenrijkdom-van-een-stadstuin) by Renze Borkent.
+* [The Lies of Locke Lamora](https://www.goodreads.com/book/show/29588376-the-lies-of-locke-lamora) by Scott Lynch.
+* [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time) by Adrian Tchaikovsky.
 * [Boemerang en andere gedichten](https://www.goodreads.com/book/show/16046906-boemerang-en-andere-gedichten) by Gerrit Komrij (unfinished).
 
 ## 2023
@@ -27,7 +35,7 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 * [An Immense World](https://www.goodreads.com/en/book/show/59575939-an-immense-world) by Ed Yong.
 * [The Truth](https://www.goodreads.com/no/book/show/288680.The_Truth) by Terry Pratchett.
 * [The Stranger Times](https://www.goodreads.com/book/show/53181090-the-stranger-times) by C.K. McDonnell.
-* [Look Who's Back](https://www.goodreads.com/book/show/17289087-look-who-s-back) by Timur Vermes (not finished).
+* [Look Who's Back](https://www.goodreads.com/book/show/17289087-look-who-s-back) by Timur Vermes (unfinished).
 * [Uit de shit](https://www.goodreads.com/book/show/175795785-uit-de-shit) by Thomas Oudman.
 * [Ik wou dat ik twee hondjes was](https://www.goodreads.com/book/show/52757143-ik-wou-dat-ik-twee-hondjes-was) by Vic van de Reijt.
 * [The Rabbit Factor](https://www.goodreads.com/book/show/57645813-the-rabbit-factor) by Antti Tuomainen.
