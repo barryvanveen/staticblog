@@ -1,0 +1,13 @@
+/*
+  Content-Security-Policy: default-src 'self'
+  Cross-Origin-Embedder-Policy: unsafe-none
+  Cross-Origin-Opener-Policy: unsafe-none
+  Cross-Origin-Resource-Policy: same-site
+  Permissions-Policy: camera=(), display-capture=(), fullscreen=(), geolocation=(), microphone=(), publickey-credentials-get=(), screen-wake-lock=(), web-share=()
+  Referrer-Policy: no-referrer
+  Strict-Transport-Security: max-age=15552000; preload
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
