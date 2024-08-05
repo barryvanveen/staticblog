@@ -1,2 +1,7 @@
 User-agent: *
-Sitemap: sitemap.xml
+{{/* Block everything that is not production to avoid duplication */}}
+{{ if not hugo.IsProduction }}
+Disallow: /
+{{ else }}
+Sitemap: https://barryvanveen.nl/sitemap.xml
+{{ end }}
