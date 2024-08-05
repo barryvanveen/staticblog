@@ -1,7 +1,2 @@
 User-agent: *
-{{/* Block everything in production as we are not really live yet */}}
-{{ if hugo.IsProduction }}
-Disallow: /
-{{ else }}
 Sitemap: sitemap.xml
-{{ end }}
