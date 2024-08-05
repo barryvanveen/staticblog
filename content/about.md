@@ -1,7 +1,7 @@
 ---
 title: About me
 layout: "about"
-lastmod: 2024-07-09T21:50:00+00:00
+lastmod: 2024-08-05T22:30:00+00:00
 summary: "Some information about me, my professional experience and what I like to do in my free time."
 ---
 Hi! My name is Barry. I'm a software developer from the Netherlands 👋
@@ -15,10 +15,10 @@ In my free time I enjoy:
 - 🏃 Running, swimming and hiking.
 - 🐦‍⬛ Bird watching, identifying wild plants and insects.
 - 📖 [Reading]({{< ref "/books.md" >}}). I've been keeping a list of all books I read since 2015.
-- 🎧 [Listening to music]{{< ref "/music.md" >}}). From doom metal to funk. Lots of instrumental music.
+- 🎧 [Listening to music]({{< ref "/music.md" >}}). From doom metal to funk. Lots of instrumental music.
 
 ## Open source projects
-* [barryvanveen/blog](https://github.com/barryvanveen/blog), source code for this blog build with Hugo.
+* [barryvanveen/staticblog](https://github.com/barryvanveen/staticblog), source code for this blog build with Hugo.
 * [barryvanveen/ab-runner](https://github.com/barryvanveen/ab-runner), an Apache Benchmark runner and plotter.
 * [barryvanveen/php-cca](https://github.com/barryvanveen/php-cca), build cyclic cellular automaton and save them as (animated) images.
 * [barryvanveen/lastfm](https://github.com/barryvanveen/lastfm), a last.fm API client for PHP7 that comes with a Laravel service provider.
