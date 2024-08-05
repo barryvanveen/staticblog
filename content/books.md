@@ -10,13 +10,14 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 
-* [Praktisch Handboek Voedselbossen](https://www.goodreads.com/book/show/55069936-praktisch-handboek-voedselbossen) by Martin Crawford.
-* [Op zoek naar de verstrooide tijd](https://www.goodreads.com/book/show/63269510-op-zoek-naar-de-verstrooide-tijd) by Koen Haegens.
-* [Roadside picnic](https://goodreads.com/book/show/331256.Roadside_Picnic) by Arkady and  Boris Strugatsky
+* [Soms wil ik een kind](https://www.goodreads.com/book/show/109137776-soms-wil-ik-een-kind) by Jantine Jongbloed.
 
 <!-- end currently reading -->
 
 ## 2024
+* [Praktisch Handboek Voedselbossen](https://www.goodreads.com/book/show/55069936-praktisch-handboek-voedselbossen) by Martin Crawford.
+* [Op zoek naar de verstrooide tijd](https://www.goodreads.com/book/show/63269510-op-zoek-naar-de-verstrooide-tijd) by Koen Haegens.
+* [Roadside picnic](https://goodreads.com/book/show/331256.Roadside_Picnic) by Arkady and  Boris Strugatsky
 * [This Is Your Brain On Music](https://www.goodreads.com/book/show/141565.This_Is_Your_Brain_on_Music) by Daniel J. Levitin (unfinished).
 * [A Beginner's Guide to Breaking and Entering](https://www.goodreads.com/book/show/63912765-a-beginner-s-guide-to-breaking-and-entering) by Andrew Hunter Murray.
 * [Eileen](https://www.goodreads.com/book/show/23453099-eileen) by Ottessa Moshfegh.
