@@ -10,7 +10,9 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 
+* [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End) by Arthur C. Clarke.
 * [Soms wil ik een kind](https://www.goodreads.com/book/show/109137776-soms-wil-ik-een-kind) by Jantine Jongbloed.
+* [Basisgids Wilde bijen](https://knnvuitgeverij.nl/artikel/basisgids-wilde-bijen-1.html) by Pieter van Breugel.
 
 <!-- end currently reading -->
 
