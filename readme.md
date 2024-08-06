@@ -13,3 +13,17 @@ So, this new version is build in Hugo and totally static.
 
 * Install npm dependencies with `npm ci`.
 * Serve and live-reload with `hugo server`
+
+## Environment secrets
+
+### Local
+
+* Copy `.env.example` to `.env`
+* Run `export $(xargs <.env)`
+* Start hugo with `hugo server (--disableFastRender)`
+
+### Production
+
+Make sure the following environment secrets are available:
+* `HUGO_LASTFM_USERNAME`
+* `HUGO_LASTFM_API_KEY`
