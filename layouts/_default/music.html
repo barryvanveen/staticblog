@@ -1,0 +1,69 @@
+{{ partial "header.html" . }}
+
+<div class="flex flex-grow pt-8">
+    <main role="main">
+        <div class="container-max-md pb-8">
+
+            <article itemprop="mainEntity">
+                <header>
+                    <h1 itemprop="name">
+                        {{ .Title }}
+                    </h1>
+                </header>
+
+                <div itemprop="text">
+                    {{ .Content }}
+                </div>
+
+                <span class="divider"></span>
+
+                {{ $username := getenv "HUGO_LASTFM_USERNAME" }}
+                {{ $apiKey := getenv "HUGO_LASTFM_API_KEY" }}
+                {{ if or (eq $username "") (eq $apiKey "") }}
+                    {{ errorf "%s" "username or apiKey empty, please set env variables" }}
+                {{ end }}
+
+                {{ $url := "http://ws.audioscrobbler.com/2.0/?method=user.gettopalbums&period=1month&limit=5&format=json&user=$username&api_key=$apiKey" }}
+                {{ $url := replace $url "$username" $username }}
+                {{ $url := replace $url "$apiKey" $apiKey }}
+
+                {{ $data := dict }}
+                {{ with resources.GetRemote $url }}
+                    {{ with .Err }}
+                        {{ errorf "%s" . }}
+                    {{ else }}
+                        {{ $data = . | transform.Unmarshal }}
+
+                        <ul class="list-none pl-0 my-6 flex flex-col">
+                            {{ range $album := $data.topalbums.album }}
+                                <li class="mb-3">
+                                    {{ $image := index (index $album.image 1) "#text" }}
+                                    {{ if $image }}
+                                        <img src="{{ $image }}" class="w-16 h-16 float-left mr-3"
+                                             alt="Cover image for {{ $album.name }} by {{ $album.artist.name }}">
+                                    {{ else }}
+                                        <div class="w-16 h-16 float-left mr-3 shadow-md">
+                                            <div class="w-full h-full overflow-hidden text-center bg-turmeric table">
+                                                <span class="table-cell text-lg font-bold align-middle">?</span>
+                                            </div>
+                                        </div>
+                                    {{ end }}
+                                    <span class="font-bold">{{ $album.artist.name }}</span><br>
+                                    {{ $album.name }}
+                                </li>
+                            {{ end }}
+                        </ul>
+                    {{ end }}
+                {{ else }}
+                    {{ errorf "Unable to get remote resource %q" $url }}
+                {{ end }}
+
+                <span class="divider"></span>
+
+                {{ partial "lastbuild.html" . }}
+            </article>
+        </div>
+    </main>
+</div>
+
+{{ partial "footer.html" . }}
