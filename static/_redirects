@@ -1,1 +1,8 @@
 /articles/rss /articles/index.xml 301
+/rss /articles/index.xml 301
+/about-me/books-that-i-have-read /about/books 301
+/about-me/music-that-i-listen-to /about/music 301
+/over-mij /about 301
+/over-mij/boeken-die-ik-heb-gelezen /about/books 301
+/blog/:title /articles/:title 301
+/blog/:title/ /articles/:title/ 301
