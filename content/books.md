@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2024-07-09T21:00:00+00:00
+lastmod: 2024-08-24T13:33:12+02:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -10,13 +10,16 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 
-* [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End) by Arthur C. Clarke.
+* [Het lied van ooievaar en dromedaris](https://www.goodreads.com/book/show/59780041-het-lied-van-ooievaar-en-dromedaris) by Anjet Daanje.
+* [The Day That Never Comes](https://www.goodreads.com/book/show/33840344-the-day-that-never-comes) by Caimh McDonnell.
 * [Soms wil ik een kind](https://www.goodreads.com/book/show/109137776-soms-wil-ik-een-kind) by Jantine Jongbloed.
 * [Basisgids Wilde bijen](https://knnvuitgeverij.nl/artikel/basisgids-wilde-bijen-1.html) by Pieter van Breugel.
 
 <!-- end currently reading -->
 
 ## 2024
+* [A Man With On of Those Faces](https://www.goodreads.com/book/show/31817712-a-man-with-one-of-those-faces) by Caimh McDonnell. 
+* [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End) by Arthur C. Clarke.
 * [Praktisch Handboek Voedselbossen](https://www.goodreads.com/book/show/55069936-praktisch-handboek-voedselbossen) by Martin Crawford.
 * [Op zoek naar de verstrooide tijd](https://www.goodreads.com/book/show/63269510-op-zoek-naar-de-verstrooide-tijd) by Koen Haegens.
 * [Roadside picnic](https://goodreads.com/book/show/331256.Roadside_Picnic) by Arkady and  Boris Strugatsky
