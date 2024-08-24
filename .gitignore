@@ -4,3 +4,4 @@ node_modules
 /resources/*
 .env
 !.env.example
+.hugo_build.lock
