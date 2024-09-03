@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2024-08-24T13:33:12+02:00
+lastmod: 2024-09-03T21:06:52+02:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -11,13 +11,13 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 <!-- start currently reading -->
 
 * [Het lied van ooievaar en dromedaris](https://www.goodreads.com/book/show/59780041-het-lied-van-ooievaar-en-dromedaris) by Anjet Daanje.
-* [The Day That Never Comes](https://www.goodreads.com/book/show/33840344-the-day-that-never-comes) by Caimh McDonnell.
 * [Soms wil ik een kind](https://www.goodreads.com/book/show/109137776-soms-wil-ik-een-kind) by Jantine Jongbloed.
 * [Basisgids Wilde bijen](https://knnvuitgeverij.nl/artikel/basisgids-wilde-bijen-1.html) by Pieter van Breugel.
 
 <!-- end currently reading -->
 
 ## 2024
+* [The Day That Never Comes](https://www.goodreads.com/book/show/33840344-the-day-that-never-comes) by Caimh McDonnell.
 * [A Man With On of Those Faces](https://www.goodreads.com/book/show/31817712-a-man-with-one-of-those-faces) by Caimh McDonnell. 
 * [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End) by Arthur C. Clarke.
 * [Praktisch Handboek Voedselbossen](https://www.goodreads.com/book/show/55069936-praktisch-handboek-voedselbossen) by Martin Crawford.
