@@ -1,0 +1,37 @@
+name: Weekly deploy
+
+# deploy this site every Monday on 08:00
+# this will trigger a new build and updates latest music stats, etc
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+
+jobs:
+  linting:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get current timestamp
+        run: echo "LASTMOD=$(date -Iseconds)" >> "$GITHUB_OUTPUT"
+        id: timestamp
+
+      - name: Output current timestamp
+        run: echo "The generated timestamp is ${{ steps.timestamp.outputs.LASTMOD }}"
+
+      - name: Update lastmod timestamp on music page
+        uses: mikefarah/yq@master
+        with:
+          cmd: yq -i --front-matter=process '.lastmod = ${{ steps.timestamp.outputs.LASTMOD }}' content/music.md
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        branch: update-music
+        title: "Update music (automated weekly update)"
+        body: "This PR is automatically created on a weekly basis. Building and deployed the site on a regular basis makes sure the list of music stays up-to-date."
+        commit-message: "Update music (automated weekly update)"
+
