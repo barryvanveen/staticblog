@@ -5,12 +5,13 @@ name: Weekly deploy
 
 on:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '0 12 * * *'
 
 jobs:
-  linting:
+  update:
     runs-on: ubuntu-latest
-    continue-on-error: true
+    continue-on-error: false
+    name: Create PR
 
     steps:
       - name: Checkout
@@ -30,8 +31,9 @@ jobs:
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
-        branch: update-music
-        title: "Update music (automated weekly update)"
-        body: "This PR is automatically created on a weekly basis. Building and deployed the site on a regular basis makes sure the list of music stays up-to-date."
-        commit-message: "Update music (automated weekly update)"
+        with:
+          branch: update-music
+          title: "Update music (automated weekly update)"
+          body: "This PR is automatically created on a weekly basis. Building and deployed the site on a regular basis makes sure the list of music stays up-to-date."
+          commit-message: "Update music (automated weekly update)"
 
