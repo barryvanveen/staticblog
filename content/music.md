@@ -1,7 +1,7 @@
 ---
 title: Music
 layout: "music"
-lastmod: "2024-09-20T08:15:46+00:00"
+lastmod: "2024-09-27T08:16:11+00:00"
 summary: "My top albums of the last 7 days, according to last.fm."
 url: "/about/music"
 ---
