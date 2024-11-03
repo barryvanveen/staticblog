@@ -10,12 +10,14 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 
-* [Guerilla Gardening: Handboek voor buurtvergroeners](https://www.goodreads.com/book/show/57747339-guerrilla-gardening) by Cerian van Gestel.
-* [Eleanor Oliphant Is Completely Fine](https://www.goodreads.com/book/show/35900387-eleanor-oliphant-is-completely-fine) by Gail Honeyman.
+* [The Hair-Carpet Weavers](https://www.goodreads.com/book/show/49095672-the-hair-carpet-weavers) by Andreas Eschbach.
+* [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map) by Erin Meyer.
 
 <!-- end currently reading -->
 
 ## 2024
+* [Eleanor Oliphant Is Completely Fine](https://www.goodreads.com/book/show/35900387-eleanor-oliphant-is-completely-fine) by Gail Honeyman.
+* [Guerilla Gardening: Handboek voor buurtvergroeners](https://www.goodreads.com/book/show/57747339-guerrilla-gardening) by Cerian van Gestel.
 * [Het lied van ooievaar en dromedaris](https://www.goodreads.com/book/show/59780041-het-lied-van-ooievaar-en-dromedaris) by Anjet Daanje (unfinished).
 * [Soms wil ik een kind](https://www.goodreads.com/book/show/109137776-soms-wil-ik-een-kind) by Jantine Jongbloed.
 * [Basisgids Wilde bijen](https://knnvuitgeverij.nl/artikel/basisgids-wilde-bijen-1.html) by Pieter van Breugel.
