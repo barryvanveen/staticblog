@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2024-09-27T14:06:38+02:00
+lastmod: 2024-11-18T20:05:04+01:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -16,6 +16,7 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 <!-- end currently reading -->
 
 ## 2024
+* [Hebben en zijn](https://www.goodreads.com/book/show/60791366-hebben-en-zijn) by Dimitri Verhulst.
 * [Eleanor Oliphant Is Completely Fine](https://www.goodreads.com/book/show/35900387-eleanor-oliphant-is-completely-fine) by Gail Honeyman.
 * [Guerilla Gardening: Handboek voor buurtvergroeners](https://www.goodreads.com/book/show/57747339-guerrilla-gardening) by Cerian van Gestel.
 * [Het lied van ooievaar en dromedaris](https://www.goodreads.com/book/show/59780041-het-lied-van-ooievaar-en-dromedaris) by Anjet Daanje (unfinished).
