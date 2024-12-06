@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2024-11-29T15:08:09+01:00
+lastmod: 2024-12-06T18:21:37+01:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -10,13 +10,14 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 
-* [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map) by Erin Meyer.
 * [Good Omens](https://www.goodreads.com/book/show/12067.Good_Omens) by Terry Pratchett and Neil Gaiman.
 * [How to Relax](https://www.goodreads.com/book/show/23846205-how-to-relax) by Thich Nhat Hanh.
+* [Zo gooi je het roer om](https://www.bibliotheek.nl/catalogus/titel.444022163.html/zo-gooi-je-het-roer-om/) by Hugo Verkley.
 
 <!-- end currently reading -->
 
 ## 2024
+* [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map) by Erin Meyer.
 * [The Hair-Carpet Weavers](https://www.goodreads.com/book/show/49095672-the-hair-carpet-weavers) by Andreas Eschbach.
 * [Hebben en zijn](https://www.goodreads.com/book/show/60791366-hebben-en-zijn) by Dimitri Verhulst.
 * [Eleanor Oliphant Is Completely Fine](https://www.goodreads.com/book/show/35900387-eleanor-oliphant-is-completely-fine) by Gail Honeyman.
