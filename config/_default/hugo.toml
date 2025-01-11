@@ -55,3 +55,7 @@ enableRobotsTXT = true
     toLower = true
     type = 'basic'
     weight = 80
+[caches]
+    [caches.getresource]
+        dir = ':cacheDir/:project'
+        maxAge = '24h'
