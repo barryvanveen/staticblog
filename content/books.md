@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2025-01-02T13:16:14+01:00
+lastmod: 2025-01-11T20:13:48+01:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -11,11 +11,12 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 <!-- start currently reading -->
 
 * [How to Relax](https://www.goodreads.com/book/show/23846205-how-to-relax) by Thich Nhat Hanh.
-* [Wij slaven van Suriname](https://www.goodreads.com/book/show/7052614-wij-slaven-van-suriname) by Anton de Kom.
+* [The Housekeeper and the Professor](https://www.goodreads.com/book/show/3181564-the-housekeeper-and-the-professor) by Yōko Ogawa.
 
 <!-- end currently reading -->
 
 ## 2025
+* [Wij slaven van Suriname](https://www.goodreads.com/book/show/7052614-wij-slaven-van-suriname) by Anton de Kom. 🔥
 * [Good Omens](https://www.goodreads.com/book/show/12067.Good_Omens) by Terry Pratchett and Neil Gaiman.
 
 ## 2024
@@ -23,9 +24,9 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 * [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map) by Erin Meyer.
 * [The Hair-Carpet Weavers](https://www.goodreads.com/book/show/49095672-the-hair-carpet-weavers) by Andreas Eschbach.
 * [Hebben en zijn](https://www.goodreads.com/book/show/60791366-hebben-en-zijn) by Dimitri Verhulst.
-* [Eleanor Oliphant Is Completely Fine](https://www.goodreads.com/book/show/35900387-eleanor-oliphant-is-completely-fine) by Gail Honeyman.
+* [Eleanor Oliphant Is Completely Fine](https://www.goodreads.com/book/show/35900387-eleanor-oliphant-is-completely-fine) by Gail Honeyman. 🔥
 * [Guerilla Gardening: Handboek voor buurtvergroeners](https://www.goodreads.com/book/show/57747339-guerrilla-gardening) by Cerian van Gestel.
-* [Het lied van ooievaar en dromedaris](https://www.goodreads.com/book/show/59780041-het-lied-van-ooievaar-en-dromedaris) by Anjet Daanje (unfinished).
+* [Het lied van ooievaar en dromedaris](https://www.goodreads.com/book/show/59780041-het-lied-van-ooievaar-en-dromedaris) by Anjet Daanje (unfinished). 🔥
 * [Soms wil ik een kind](https://www.goodreads.com/book/show/109137776-soms-wil-ik-een-kind) by Jantine Jongbloed.
 * [Basisgids Wilde bijen](https://knnvuitgeverij.nl/artikel/basisgids-wilde-bijen-1.html) by Pieter van Breugel.
 * [The Day That Never Comes](https://www.goodreads.com/book/show/33840344-the-day-that-never-comes) by Caimh McDonnell.
@@ -33,42 +34,42 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 * [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End) by Arthur C. Clarke.
 * [Praktisch Handboek Voedselbossen](https://www.goodreads.com/book/show/55069936-praktisch-handboek-voedselbossen) by Martin Crawford.
 * [Op zoek naar de verstrooide tijd](https://www.goodreads.com/book/show/63269510-op-zoek-naar-de-verstrooide-tijd) by Koen Haegens.
-* [Roadside picnic](https://goodreads.com/book/show/331256.Roadside_Picnic) by Arkady and  Boris Strugatsky
+* [Roadside picnic](https://goodreads.com/book/show/331256.Roadside_Picnic) by Arkady and Boris Strugatsky
 * [This Is Your Brain On Music](https://www.goodreads.com/book/show/141565.This_Is_Your_Brain_on_Music) by Daniel J. Levitin (unfinished).
 * [A Beginner's Guide to Breaking and Entering](https://www.goodreads.com/book/show/63912765-a-beginner-s-guide-to-breaking-and-entering) by Andrew Hunter Murray.
 * [Eileen](https://www.goodreads.com/book/show/23453099-eileen) by Ottessa Moshfegh.
 * [Children of Ruin](https://www.goodreads.com/en/book/show/40376072) by Adrian Tchaikovsky.
-* [Kleine natuur: De wonderbaarlijke soortenrijkdom van een stadstuin](https://www.goodreads.com/book/show/208276923-kleine-natuur-de-wonderbaarlijke-soortenrijkdom-van-een-stadstuin) by Renze Borkent.
+* [Kleine natuur: De wonderbaarlijke soortenrijkdom van een stadstuin](https://www.goodreads.com/book/show/208276923-kleine-natuur-de-wonderbaarlijke-soortenrijkdom-van-een-stadstuin) by Renze Borkent. 🔥
 * [The Lies of Locke Lamora](https://www.goodreads.com/book/show/29588376-the-lies-of-locke-lamora) by Scott Lynch.
-* [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time) by Adrian Tchaikovsky.
+* [Children of Time](https://www.goodreads.com/book/show/25499718-children-of-time) by Adrian Tchaikovsky. 🔥
 * [Boemerang en andere gedichten](https://www.goodreads.com/book/show/16046906-boemerang-en-andere-gedichten) by Gerrit Komrij (unfinished).
 
 ## 2023
 * [Ademhalen onder de maan](https://www.goodreads.com/book/show/13449691-ademhalen-onder-de-maan) by Ingmar Heytse.
-* [Braiding Sweetgrass](https://goodreads.com/book/show/17465709-braiding-sweetgrass) by Robin Wall Kimmerer.
+* [Braiding Sweetgrass](https://goodreads.com/book/show/17465709-braiding-sweetgrass) by Robin Wall Kimmerer. 🔥🔥
 * [Ruisch: gedichten](https://www.goodreads.com/book/show/11408473-ruisch) by J.A. Deelder.
 * [Love Will Tear Us Apart](https://www.goodreads.com/book/show/61395248-love-will-tear-us-apart) by C.K. McDonnell.
 * [This Charming Man](https://www.goodreads.com/book/show/58297480-this-charming-man) by C.K. McDonnell.
-* [An Immense World](https://www.goodreads.com/en/book/show/59575939-an-immense-world) by Ed Yong.
+* [An Immense World](https://www.goodreads.com/en/book/show/59575939-an-immense-world) by Ed Yong. 🔥
 * [The Truth](https://www.goodreads.com/no/book/show/288680.The_Truth) by Terry Pratchett.
 * [The Stranger Times](https://www.goodreads.com/book/show/53181090-the-stranger-times) by C.K. McDonnell.
 * [Look Who's Back](https://www.goodreads.com/book/show/17289087-look-who-s-back) by Timur Vermes (unfinished).
 * [Uit de shit](https://www.goodreads.com/book/show/175795785-uit-de-shit) by Thomas Oudman.
-* [Ik wou dat ik twee hondjes was](https://www.goodreads.com/book/show/52757143-ik-wou-dat-ik-twee-hondjes-was) by Vic van de Reijt.
+* [Ik wou dat ik twee hondjes was](https://www.goodreads.com/book/show/52757143-ik-wou-dat-ik-twee-hondjes-was) by Vic van de Reijt. 🔥
 * [The Rabbit Factor](https://www.goodreads.com/book/show/57645813-the-rabbit-factor) by Antti Tuomainen.
-* [The Overstory](https://www.goodreads.com/book/show/40180098-the-overstory) by Richard Powers.
+* [The Overstory](https://www.goodreads.com/book/show/40180098-the-overstory) by Richard Powers. 🔥
 * [The Stone Sky](https://www.goodreads.com/book/show/31817749-the-stone-sky) by N.K. Jemisin.
 * [The Obelisk Gate](https://www.goodreads.com/book/show/26228034-the-obelisk-gate) by N.K. Jemisin.
 * [The Little Book of Contentment](https://www.goodreads.com/book/show/17982870-the-little-book-of-contentment) by Leo Babauta.
 
 ## 2022
-* [The Fifth Season](https://www.goodreads.com/book/show/19161852-the-fifth-season) by N.K. Jemisin.
+* [The Fifth Season](https://www.goodreads.com/book/show/19161852-the-fifth-season) by N.K. Jemisin. 🔥
 * [American Gods](https://www.goodreads.com/book/show/30165203-american-gods) by Neil Gaiman.
 * [Biologisch-dynamisch tuinieren in de praktijk](https://bdvereniging.nl/bdlandbouw/biologisch-dynamisch-tuinieren-in-de-praktijk) by Willy Schilthuis.
-* [My Year of Rest and Relaxation](https://www.goodreads.com/book/show/44279110-my-year-of-rest-and-relaxation) by Ottessa Moshfegh.
+* [My Year of Rest and Relaxation](https://www.goodreads.com/book/show/44279110-my-year-of-rest-and-relaxation) by Ottessa Moshfegh. 🔥
 * [Echt eten: een handleiding](https://www.goodreads.com/book/show/10484875-echt-eten) by Michael Pollan.
 * [The Genius of Birds](https://www.goodreads.com/book/show/25938481-the-genius-of-birds) by Jennifer Ackerman.
-* [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by Andy Weir.
+* [Project Hail Mary](https://www.goodreads.com/book/show/54493401-project-hail-mary) by Andy Weir. 🔥
 * [Het leven is te kort om op kantoor te zitten](https://www.goodreads.com/book/show/53113672-het-leven-is-te-kort-om-op-kantoor-te-zitten) by Lonneke Lodder.
 * [On Trails: An Exploration](https://www.goodreads.com/book/show/27276431-on-trails) by Robert Moor.
 * [Een kleine eetbare tuin met vaste planten](https://www.goodreads.com/book/show/32704544-een-kleine-eetbare-tuin-met-vaste-planten) by Madelon Oostwoud.
@@ -91,8 +92,8 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 * [The Last Day](https://www.goodreads.com/book/show/46147319-the-last-day) by Andrew Hunter Murray.
 * [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon) by Neal Stephenson.
 * [De moeder van Ikabod](https://www.goodreads.com/book/show/30647677-de-moeder-van-ikabod) by Maarten 't Hart.
-* [The Thursday Murder Club](https://www.goodreads.com/book/show/46000520-the-thursday-murder-club) by Richard Osman.
-* [1Q84](https://www.goodreads.com/book/show/10357575-1q84) by Haruki Murakami (2nd read).
+* [The Thursday Murder Club](https://www.goodreads.com/book/show/46000520-the-thursday-murder-club) by Richard Osman. 🔥
+* [1Q84](https://www.goodreads.com/book/show/10357575-1q84) by Haruki Murakami (2nd read). 🔥
 * [Whispers Under Ground](https://www.goodreads.com/book/show/10814687-whispers-under-ground) by Ben Aaronovitch.
 * [The Five Dysfunctions of a Team](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team) by Patrick Lencioni.
 * [Twenty Thousand Leagues Under the Sea](https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea) by Jules Verne.
