@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2025-01-18T15:43:06+01:00
+lastmod: 2025-02-04T20:31:23+01:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -10,12 +10,13 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 
-* [The Housekeeper and the Professor](https://www.goodreads.com/book/show/3181564-the-housekeeper-and-the-professor) by Yōko Ogawa.
 * [I Contain Multitudes](https://www.goodreads.com/book/show/27213168-i-contain-multitudes) by Ed Yong.
+* [Mijn 1000 soortentuin](https://noordboek.nl/boek/mijn-1000-soortentuin/) by Luc Hoogenstein.
 
 <!-- end currently reading -->
 
 ## 2025
+* [The Housekeeper and the Professor](https://www.goodreads.com/book/show/3181564-the-housekeeper-and-the-professor) by Yōko Ogawa.
 * [Wij slaven van Suriname](https://www.goodreads.com/book/show/7052614-wij-slaven-van-suriname) by Anton de Kom. 🔥
 * [Good Omens](https://www.goodreads.com/book/show/12067.Good_Omens) by Terry Pratchett and Neil Gaiman.
 * [How to Relax](https://www.goodreads.com/book/show/23846205-how-to-relax) by Thich Nhat Hanh.
