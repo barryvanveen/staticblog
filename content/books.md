@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2025-02-04T20:31:23+01:00
+lastmod: 2025-02-19T21:21:37+01:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -12,6 +12,7 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 
 * [I Contain Multitudes](https://www.goodreads.com/book/show/27213168-i-contain-multitudes) by Ed Yong.
 * [Mijn 1000 soortentuin](https://noordboek.nl/boek/mijn-1000-soortentuin/) by Luc Hoogenstein.
+* [Mistborn: The Final Empire](https://www.goodreads.com/book/show/68428.Mistborn) by Brandon Sanderson.
 
 <!-- end currently reading -->
 
