@@ -28,10 +28,10 @@
                 {{ $url := replace $url "$apiKey" $apiKey }}
 
                 {{ $data := dict }}
-                {{ with resources.GetRemote $url }}
+                {{ with try (resources.GetRemote $url) }}
                     {{ with .Err }}
                         {{ errorf "%s" . }}
-                    {{ else }}
+                    {{ else with .Value }}
                         {{ $data = . | transform.Unmarshal }}
 
                         <ul class="list-none pl-0 my-6 flex flex-col">
