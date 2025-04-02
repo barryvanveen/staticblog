@@ -10,12 +10,12 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 
-* [I Contain Multitudes](https://www.goodreads.com/book/show/27213168-i-contain-multitudes) by Ed Yong.
 * [Mistborn: The Final Empire](https://www.goodreads.com/book/show/68428.Mistborn) by Brandon Sanderson.
 
 <!-- end currently reading -->
 
 ## 2025
+* [I Contain Multitudes](https://www.goodreads.com/book/show/27213168-i-contain-multitudes) by Ed Yong.
 * [Mijn 1000 soortentuin](https://noordboek.nl/boek/mijn-1000-soortentuin/) by Luc Hoogenstein.
 * [The Housekeeper and the Professor](https://www.goodreads.com/book/show/3181564-the-housekeeper-and-the-professor) by Yōko Ogawa.
 * [Wij slaven van Suriname](https://www.goodreads.com/book/show/7052614-wij-slaven-van-suriname) by Anton de Kom. 🔥
