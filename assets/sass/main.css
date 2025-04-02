@@ -1,7 +1,26 @@
-@import "tailwindcss/base.css";
-@import "tailwindcss/components.css";
-@import "tailwindcss/utilities.css";
+@import 'tailwindcss';
 
-@import "assets/sass/custom-base-styles.css";
-@import "assets/sass/custom-component-styles.css";
-@import "assets/sass/syntax.css";
+@theme {
+  --breakpoint-*: initial;
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+
+  --color-turmeric: #f4c148;
+  --color-terracotta: #971a20;
+  --color-light-blue: #8ed0e0;
+  --color-light-teal: #9de1de;
+  --color-dark-teal: #31a29d;
+  --color-light-navy: #7e87cd;
+  --color-dark-navy: #2d3574;
+  --color-pomelo: #ba4a77;
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+@import './assets/sass/custom-base-styles.css';
+@import './assets/sass/custom-component-styles.css';
+@import './assets/sass/syntax.css';
