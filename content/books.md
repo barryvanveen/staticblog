@@ -10,11 +10,13 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 
-* [Mistborn: The Final Empire](https://www.goodreads.com/book/show/68428.Mistborn) by Brandon Sanderson.
+* [De buitengewoon geslaagde opvoeding van Frida Wolf](https://www.goodreads.com/book/show/205431075-de-buitengewoon-geslaagde-opvoeding-van-frida-wolf) by Maria Kager.
+* [Rebel Ideas: The Power of Diverse Thinking](https://www.goodreads.com/book/show/52326253-rebel-ideas) by Matthew Syed.
 
 <!-- end currently reading -->
 
 ## 2025
+* [Mistborn: The Final Empire](https://www.goodreads.com/book/show/68428.Mistborn) by Brandon Sanderson.
 * [I Contain Multitudes](https://www.goodreads.com/book/show/27213168-i-contain-multitudes) by Ed Yong.
 * [Mijn 1000 soortentuin](https://noordboek.nl/boek/mijn-1000-soortentuin/) by Luc Hoogenstein.
 * [The Housekeeper and the Professor](https://www.goodreads.com/book/show/3181564-the-housekeeper-and-the-professor) by Yōko Ogawa.
