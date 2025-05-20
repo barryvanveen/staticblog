@@ -10,12 +10,14 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 
-* [De buitengewoon geslaagde opvoeding van Frida Wolf](https://www.goodreads.com/book/show/205431075-de-buitengewoon-geslaagde-opvoeding-van-frida-wolf) by Maria Kager.
 * [Rebel Ideas: The Power of Diverse Thinking](https://www.goodreads.com/book/show/52326253-rebel-ideas) by Matthew Syed.
+* [The Library at Mount Char](https://goodreads.com/book/show/23363928.The_Library_at_Mount_Char) by Scott Hawkins.
 
 <!-- end currently reading -->
 
 ## 2025
+* [The Overcoat](https://www.goodreads.com/book/show/537094.The_Overcoat) by Nikolai Gogol.
+* [De buitengewoon geslaagde opvoeding van Frida Wolf](https://www.goodreads.com/book/show/205431075-de-buitengewoon-geslaagde-opvoeding-van-frida-wolf) by Maria Kager.
 * [Mistborn: The Final Empire](https://www.goodreads.com/book/show/68428.Mistborn) by Brandon Sanderson.
 * [I Contain Multitudes](https://www.goodreads.com/book/show/27213168-i-contain-multitudes) by Ed Yong.
 * [Mijn 1000 soortentuin](https://noordboek.nl/boek/mijn-1000-soortentuin/) by Luc Hoogenstein.
