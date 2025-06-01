@@ -11,11 +11,12 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 <!-- start currently reading -->
 
 * [Rebel Ideas: The Power of Diverse Thinking](https://www.goodreads.com/book/show/52326253-rebel-ideas) by Matthew Syed.
-* [The Library at Mount Char](https://goodreads.com/book/show/23363928.The_Library_at_Mount_Char) by Scott Hawkins.
+* [The Will of the Many](https://www.goodreads.com/book/show/58416952-the-will-of-the-many) by James Islington.
 
 <!-- end currently reading -->
 
 ## 2025
+* [The Library at Mount Char](https://goodreads.com/book/show/23363928.The_Library_at_Mount_Char) by Scott Hawkins. 🔥
 * [The Overcoat](https://www.goodreads.com/book/show/537094.The_Overcoat) by Nikolai Gogol.
 * [De buitengewoon geslaagde opvoeding van Frida Wolf](https://www.goodreads.com/book/show/205431075-de-buitengewoon-geslaagde-opvoeding-van-frida-wolf) by Maria Kager.
 * [Mistborn: The Final Empire](https://www.goodreads.com/book/show/68428.Mistborn) by Brandon Sanderson.
