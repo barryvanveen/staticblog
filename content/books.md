@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2025-03-07T09:52:42+01:00
+lastmod: 2025-07-06T14:53:29+02:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -11,11 +11,13 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 <!-- start currently reading -->
 
 * [Rebel Ideas: The Power of Diverse Thinking](https://www.goodreads.com/book/show/52326253-rebel-ideas) by Matthew Syed.
-* [The Will of the Many](https://www.goodreads.com/book/show/58416952-the-will-of-the-many) by James Islington.
+* [Darwin in de achtertuin](https://www.goodreads.com/book/show/231720555-darwin-in-de-achtertuin) by Menno Schilthuizen.
+* [Het gele huis](https://www.goodreads.com/book/show/210192864-het-gele-huis) by Mieko Kawakami.
 
 <!-- end currently reading -->
 
 ## 2025
+* [The Will of the Many](https://www.goodreads.com/book/show/58416952-the-will-of-the-many) by James Islington.
 * [The Library at Mount Char](https://goodreads.com/book/show/23363928.The_Library_at_Mount_Char) by Scott Hawkins. 🔥
 * [The Overcoat](https://www.goodreads.com/book/show/537094.The_Overcoat) by Nikolai Gogol.
 * [De buitengewoon geslaagde opvoeding van Frida Wolf](https://www.goodreads.com/book/show/205431075-de-buitengewoon-geslaagde-opvoeding-van-frida-wolf) by Maria Kager.
