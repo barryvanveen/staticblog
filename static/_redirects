@@ -5,5 +5,6 @@
 /about-me/music-that-i-listen-to /about/music 301
 /over-mij /about 301
 /over-mij/boeken-die-ik-heb-gelezen /about/books 301
+/blog/8-updaten-naar-laravel-5-1 /articles/8-updaten-naar-laravel-51/ 301
 /blog/:title /articles/:title 301
 /blog/:title/ /articles/:title/ 301
