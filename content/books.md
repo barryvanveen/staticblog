@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2025-09-05T14:52:28+02:00
+lastmod: 2025-10-31T13:44:38+01:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -9,12 +9,14 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 
 ## Currently reading:
 <!-- start currently reading -->
-* [Werk is geen oplossing](https://www.goodreads.com/book/show/59234551-werk-is-geen-oplossing) by Marguerite van den Berg.
-* [The Great Hunt](https://www.goodreads.com/book/show/233649.The_Great_Hunt) by Robert Jordan.
+* [The Dragon Reborn](https://www.goodreads.com/book/show/34897.The_Dragon_Reborn) by Robert Jordan.
+* [Openbaar Groen](https://knnvuitgeverij.nl/artikel/openbaar-groen.html) by Peter Bulsing.
 
 <!-- end currently reading -->
 
 ## 2025
+* [The Great Hunt](https://www.goodreads.com/book/show/233649.The_Great_Hunt) by Robert Jordan.
+* [Werk is geen oplossing](https://www.goodreads.com/book/show/59234551-werk-is-geen-oplossing) by Marguerite van den Berg (unfinished).
 * [The Eye of the World](https://www.goodreads.com/book/show/228665.The_Eye_of_the_World) by Robert Jordan.
 * [Darwin in de achtertuin](https://www.goodreads.com/book/show/231720555-darwin-in-de-achtertuin) by Menno Schilthuizen.
 * [Het gele huis](https://www.goodreads.com/book/show/210192864-het-gele-huis) by Mieko Kawakami.
