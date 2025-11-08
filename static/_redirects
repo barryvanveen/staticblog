@@ -6,5 +6,6 @@
 /over-mij /about 301
 /over-mij/boeken-die-ik-heb-gelezen /about/books 301
 /blog/8-updaten-naar-laravel-5-1 /articles/8-updaten-naar-laravel-51/ 301
+/blog/9-zoekmachineoptimalisatie-deel-1-hoe-genereer-je-een-sitemap-xml /articles/9-zoekmachineoptimalisatie-deel-1-hoe-genereer-je-een-sitemapxml/ 301
 /blog/:title /articles/:title 301
 /blog/:title/ /articles/:title/ 301
