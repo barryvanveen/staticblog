@@ -12,14 +12,8 @@
         <div itemprop="text">
             {{ .Content }}
 
-            <h2>Most recent articles:</h2>
-            <ul>
-                {{ range (where .Site.Pages "Section" "articles") }}
-                    {{ range .Pages.Limit 3 }}
-                        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-                    {{ end }}
-                {{ end }}
-            </ul>
+            <h2>Latest observation</h2>
+
 
             <h2>Books I'm currently reading:</h2>
             {{ with .GetPage "books" }}
@@ -35,6 +29,15 @@
                 <!-- render the first index, which contains everything between the 2 breakpoints -->
                 {{ index $rawContentSections 0 | .RenderString }}
             {{ end }}
+
+            <h2>Most recent articles:</h2>
+            <ul>
+                {{ range (where .Site.Pages "Section" "articles") }}
+                {{ range .Pages.Limit 3 }}
+                <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                {{ end }}
+                {{ end }}
+            </ul>
         </div>
 
         <span class="divider"></span>
