@@ -1,7 +1,7 @@
 # !/bin/bash
 
 ## Dependencies ##
-# curl, xmllint (libxml2)
+# jq, curl, xmllint (libxml2)
 
 ## What this script does ##
 
@@ -37,10 +37,12 @@ ROWS_XPATH="//div[contains(concat(' ',normalize-space(@class),' '),' app-content
 count_raw=$(xmllint --html --xpath "number(count(${ROWS_XPATH}))" "$tmp" 2>/dev/null || echo "0")
 count=${count_raw%.*}
 if [ "$count" -lt 1 ]; then
+  echo "## Found no observations"
   echo "[]" > observations.json
   exit 0
 fi
 max=$(( count < 3 ? count : 3 ))
+echo "## Found $max observations"
 
 # helper: safely run xmllint and return empty on no-match
 xmlexpr() {
@@ -49,7 +51,7 @@ xmlexpr() {
 }
 
 json_escape() {
-  printf '%s' "$1" | sed -e 's/\\/\\\\/g' -e 's/"/\\"/g' -e ':a;N;$!ba;s/\n/\\n/g'
+  printf '%s' "$1" | jq -Rsa .
 }
 
 items=()
@@ -79,6 +81,8 @@ for i in $(seq 1 $max); do
   esc_common=$(json_escape "$common")
   esc_sci=$(json_escape "$sci")
   esc_photo=$(json_escape "$photo_b64")
+
+  echo "## Observation $i: $common - $sci"
 
   items+=("{\"url\": \"${esc_url}\", \"common_name\": \"${esc_common}\", \"scientific_name\": \"${esc_sci}\", \"photo\": \"${esc_photo}\"}")
 done
