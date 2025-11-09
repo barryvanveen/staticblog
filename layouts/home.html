@@ -12,8 +12,28 @@
         <div itemprop="text">
             {{ .Content }}
 
-            <h2>Latest observation</h2>
+            <h2>Latest observations</h2>
+            {{ $data := dict }}
+            {{ with try (resources.Get "observations.json") }}
+                {{ with .Err }}
+                    {{ errorf "%s" . }}
+                {{ else with .Value }}
+                    {{ $data = . | transform.Unmarshal }}
 
+                    <ul class="list-none pl-0 my-6 flex flex-col">
+                        {{ range $observation := $data }}
+                        <li class="mb-3">
+                            <img src="data:image/jpg;base64,{{ $observation.photo }}" class="w-16 h-16 float-left mr-3"
+                                 alt="Photo of observation">
+                            <span class="font-bold">{{ $observation.common_name }}</span><br>
+                            {{ $observation.scientific_name }}
+                        </li>
+                        {{ end }}
+                    </ul>
+                {{ end }}
+            {{ else }}
+                {{ errorf "Unable to get observation data" }}
+            {{ end }}
 
             <h2>Books I'm currently reading:</h2>
             {{ with .GetPage "books" }}

@@ -28,12 +28,12 @@ BASE_URL="https://waarneming.nl"
 
 tmp=$(mktemp)
 tmp2=$(mktemp)
-trap 'rm -f "$tmp" "$tmp2"' EXIT
+tmpimg=$(mktemp)
+trap 'rm -f "$tmp" "$tmp2" "$tmpimg"' EXIT
 
 # fetch main page
 curl -sL "$PAGE_URL" -o "$tmp"
 
-# XPath pieces
 COND="td[contains(concat(' ',normalize-space(@class),' '),' column-species ')][not(.//i[contains(concat(' ',normalize-space(@class),' '),' status-uncertain ')])] and td[last()]//i[contains(concat(' ',normalize-space(@class),' '),' fa-camera ')]"
 ROWS_XPATH="//div[contains(concat(' ',normalize-space(@class),' '),' app-content-section ')]//table//tr[${COND}]"
 
@@ -41,7 +41,7 @@ ROWS_XPATH="//div[contains(concat(' ',normalize-space(@class),' '),' app-content
 count_raw=$(xmllint --html --xpath "number(count(${ROWS_XPATH}))" "$tmp" 2>/dev/null || echo "0")
 count=${count_raw%.*}
 if [ "$count" -lt 1 ]; then
-  echo "[]"
+  echo "[]" > observations.json
   exit 0
 fi
 max=$(( count < 3 ? count : 3 ))
@@ -52,49 +52,46 @@ xmlexpr() {
   xmllint --html --noblanks --xpath "$expr" "$file" 2>/dev/null || true
 }
 
-# escape JSON string (basic)
 json_escape() {
   printf '%s' "$1" | sed -e 's/\\/\\\\/g' -e 's/"/\\"/g' -e ':a;N;$!ba;s/\n/\\n/g'
 }
 
-# iterate rows and collect objects
 items=()
 for i in $(seq 1 $max); do
   href=$(xmlexpr "string(${ROWS_XPATH}[position()=$i]/td[1]//a/@href)" "$tmp")
   href=$(echo "$href" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
-  if [ -z "$href" ]; then
-    continue
-  fi
-  # make absolute
+  if [ -z "$href" ]; then continue; fi
   if [[ "$href" =~ ^http ]]; then
     url="$href"
   else
-    # ensure leading slash
-    if [[ "$href" != /* ]]; then
-      href="/$href"
-    fi
+    [[ "$href" != /* ]] && href="/$href"
     url="${BASE_URL}${href}"
   fi
 
-  # fetch detail page
   curl -sL "$url" -o "$tmp2"
 
-  # extract names
   common_xpath="string(//div[contains(concat(' ',normalize-space(@class),' '),' app-content ')]//h1//span[contains(concat(' ',normalize-space(@class),' '),' species-common-name ')])"
   sci_xpath="string(//div[contains(concat(' ',normalize-space(@class),' '),' app-content ')]//div[contains(concat(' ',normalize-space(@class),' '),' species-subtitle ')]//i[contains(concat(' ',normalize-space(@class),' '),' species-scientific-name ')])"
+  photo_xpath="string(//div[contains(concat(' ',normalize-space(@class),' '),' app-content ')]//div[@id='photos']//img[1]/@src)"
 
-  common=$(xmlexpr "$common_xpath" "$tmp2")
-  sci=$(xmlexpr "$sci_xpath" "$tmp2")
+  common=$(xmlexpr "$common_xpath" "$tmp2" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+  sci=$(xmlexpr "$sci_xpath" "$tmp2" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+  photo=$(xmlexpr "$photo_xpath" "$tmp2" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
 
-  common=$(echo "$common" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
-  sci=$(echo "$sci" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+  if [[ -n "$photo" ]]; then
+    [[ "$photo" =~ ^http ]] || photo="${BASE_URL}${photo}"
+    curl -sL "$photo" -o "$tmpimg"
+    photo_b64=$(base64 < "$tmpimg" | tr -d '\n')
+  else
+    photo_b64=""
+  fi
 
   esc_url=$(json_escape "$url")
   esc_common=$(json_escape "$common")
   esc_sci=$(json_escape "$sci")
+  esc_photo=$(json_escape "$photo_b64")
 
-  items+=("{\"url\": \"${esc_url}\", \"common_name\": \"${esc_common}\", \"scientific_name\": \"${esc_sci}\"}")
+  items+=("{\"url\": \"${esc_url}\", \"common_name\": \"${esc_common}\", \"scientific_name\": \"${esc_sci}\", \"photo\": \"${esc_photo}\"}")
 done
 
-# output JSON array
-printf '[%s]\n' "$(IFS=,; echo "${items[*]}")"
+printf '[%s]\n' "$(IFS=,; echo "${items[*]}")" > assets/observations.json
