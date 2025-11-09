@@ -4,7 +4,14 @@
 echo "## Getting observations..."
 ./getObservations.sh
 echo "## Finished getting observations:"
-cat assets/observations.json
+
+FILE = "assets/observations.json"
+
+if [ ! -f "$FILE" ]; then
+    echo "$FILE does not exist."
+else
+  cat $FILE
+fi
 
 # output hugo version
 echo "## Hugo version"
