@@ -12,7 +12,6 @@
         <div itemprop="text">
             {{ .Content }}
 
-            <h2>Latest observations</h2>
             {{ $data := dict }}
             {{ with try (resources.Get "observations.json") }}
                 {{ with .Err }}
@@ -20,6 +19,7 @@
                 {{ else with .Value }}
                     {{ $data = . | transform.Unmarshal }}
 
+                    <h2>Latest observations</h2>
                     <ul class="list-none pl-0 my-6 flex flex-col">
                         {{ range $observation := $data }}
                         <li class="mb-3">
