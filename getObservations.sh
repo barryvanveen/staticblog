@@ -19,8 +19,8 @@
 
 set -euo pipefail
 
-PAGE_URL="https://waarneming.nl/users/408111/observations/?advanced=on"
-BASE_URL="https://waarneming.nl"
+OBSERVATION_OVERVIEW_URL="https://waarneming.nl/users/408111/observations/?advanced=on"
+OBSERVATION_BASE_URL="https://waarneming.nl"
 
 tmp=$(mktemp)
 tmp2=$(mktemp)
@@ -28,7 +28,7 @@ tmpimg=$(mktemp)
 trap 'rm -f "$tmp" "$tmp2" "$tmpimg"' EXIT
 
 # fetch main page
-curl -sL -b "django_language=en" "$PAGE_URL" -o "$tmp"
+curl -sL -b "django_language=en" "$OBSERVATION_OVERVIEW_URL" -o "$tmp"
 
 COND="td[contains(concat(' ',normalize-space(@class),' '),' column-species ')][not(.//i[contains(concat(' ',normalize-space(@class),' '),' status-uncertain ')])] and td[last()]//i[contains(concat(' ',normalize-space(@class),' '),' fa-camera ')]"
 ROWS_XPATH="//div[contains(concat(' ',normalize-space(@class),' '),' app-content-section ')]//table//tr[${COND}]"
@@ -58,7 +58,7 @@ json_escape() {
 items=()
 for i in $(seq 1 $max); do
   href=$(xmlexpr "string(${ROWS_XPATH}[position()=$i]/td[1]//a/@href)" "$tmp")
-  url="${BASE_URL}${href}"
+  url="${OBSERVATION_BASE_URL}${href}"
 
   curl -sL -b "django_language=en" "$url" -o "$tmp2"
 
@@ -71,7 +71,7 @@ for i in $(seq 1 $max); do
   photo=$(xmlexpr "$photo_xpath" "$tmp2" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
 
   if [[ -n "$photo" ]]; then
-    [[ "$photo" =~ ^http ]] || photo="${BASE_URL}${photo}"
+    [[ "$photo" =~ ^http ]] || photo="${OBSERVATION_BASE_URL}${photo}"
     curl -sL "$photo" -o "$tmpimg"
     photo_b64=$(base64 < "$tmpimg" | tr -d '\n')
   else
