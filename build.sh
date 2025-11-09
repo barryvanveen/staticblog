@@ -2,13 +2,14 @@
 
 # scrape latest observations
 echo "## Getting observations..."
+chmod +x getObservations.sh
 ./getObservations.sh
 echo "## Finished getting observations:"
 
-FILE = "assets/observations.json"
+FILE="assets/observations.json"
 
 if [ ! -f "$FILE" ]; then
-    echo "$FILE does not exist."
+  echo "$FILE does not exist."
 else
   cat $FILE
 fi

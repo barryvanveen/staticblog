@@ -52,6 +52,7 @@ xmlexpr() {
 
 json_escape() {
   printf '%s' "$1" | jq -Rsa .
+  #printf '%s' "$1" | sed '' -e 's/\\/\\\\/g' -e 's/"/\\"/g' -e ':a;N;$!ba;s/\n/\\n/g'
 }
 
 items=()
@@ -84,7 +85,7 @@ for i in $(seq 1 $max); do
 
   echo "## Observation $i: $common - $sci"
 
-  items+=("{\"url\": \"${esc_url}\", \"common_name\": \"${esc_common}\", \"scientific_name\": \"${esc_sci}\", \"photo\": \"${esc_photo}\"}")
+  items+=("{\"url\": ${esc_url}, \"common_name\": ${esc_common}, \"scientific_name\": ${esc_sci}, \"photo\": ${esc_photo}}")
 done
 
 printf '[%s]\n' "$(IFS=,; echo "${items[*]}")" > assets/observations.json
