@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2025-11-21T15:07:50+01:00
+lastmod: 2025-11-29T17:57:16+01:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -10,11 +10,12 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 * [Handboek voor het kweken en telen van planten](https://www.bibliotheek.nl/catalogus/titel.307813541.html/handboek-voor-het-kweken-en-telen-van-planten/) by Miranda Smith.
-* [Historische Heerlijkheden Herst](https://www.blikvelduitgevers.nl/product-page/historische-heerlijkheden-herfst) by Ellis Grootveld and Annet Breure.
+* [Children of Memory](https://www.goodreads.com/book/show/60850767-children-of-memory) by Adrian Tchaikovsky.
 
 <!-- end currently reading -->
 
 ## 2025
+* [Historische Heerlijkheden Herst](https://www.blikvelduitgevers.nl/product-page/historische-heerlijkheden-herfst) by Ellis Grootveld and Annet Breure.
 * [The Dragon Reborn](https://www.goodreads.com/book/show/34897.The_Dragon_Reborn) by Robert Jordan.
 * [Openbaar Groen](https://knnvuitgeverij.nl/artikel/openbaar-groen.html) by Peter Bulsing.
 * [The Great Hunt](https://www.goodreads.com/book/show/233649.The_Great_Hunt) by Robert Jordan.
