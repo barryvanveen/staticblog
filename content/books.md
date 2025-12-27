@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2025-12-07T15:19:19+01:00
+lastmod: 2025-12-27T22:55:00+01:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -9,12 +9,13 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 
 ## Currently reading:
 <!-- start currently reading -->
-* [Children of Memory](https://www.goodreads.com/book/show/60850767-children-of-memory) by Adrian Tchaikovsky.
-* [How to Be Idle](https://www.goodreads.com/book/show/623922.How_to_Be_Idle) by Tom Hodgkinson.
+* [Ring the Bells](https://www.goodreads.com/book/show/223482741-ring-the-bells) by C.K. McDonnell.
 
 <!-- end currently reading -->
 
 ## 2025
+* [Children of Memory](https://www.goodreads.com/book/show/60850767-children-of-memory) by Adrian Tchaikovsky.
+* [How to Be Idle](https://www.goodreads.com/book/show/623922.How_to_Be_Idle) by Tom Hodgkinson (unfinished).
 * [Historische Heerlijkheden Herst](https://www.blikvelduitgevers.nl/product-page/historische-heerlijkheden-herfst) by Ellis Grootveld and Annet Breure.
 * [The Dragon Reborn](https://www.goodreads.com/book/show/34897.The_Dragon_Reborn) by Robert Jordan.
 * [Openbaar Groen](https://knnvuitgeverij.nl/artikel/openbaar-groen.html) by Peter Bulsing.
