@@ -9,9 +9,11 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 
 ## Currently reading:
 <!-- start currently reading -->
-* [Ring the Bells](https://www.goodreads.com/book/show/223482741-ring-the-bells) by C.K. McDonnell.
-
+* [Het achtste leven (voor Brilka)](https://www.goodreads.com/book/show/32560066-het-achtste-leven-voor-brilka) by Nino Haratischwili.
 <!-- end currently reading -->
+
+## 2026
+* [Ring the Bells](https://www.goodreads.com/book/show/223482741-ring-the-bells) by C.K. McDonnell.
 
 ## 2025
 * [Children of Memory](https://www.goodreads.com/book/show/60850767-children-of-memory) by Adrian Tchaikovsky.
