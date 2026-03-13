@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2025-12-27T22:55:00+01:00
+lastmod: 2026-03-13T20:38:00+01:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -10,6 +10,9 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 * [Het achtste leven (voor Brilka)](https://www.goodreads.com/book/show/32560066-het-achtste-leven-voor-brilka) by Nino Haratischwili.
+* [Ecologisch groenbeheer in de praktijk](https://ipcgroen.nl/ecologisch-groenbeheer-in-de-praktijk) by K. Boer and C.M.G.J. Schils.
+* [The Serviceberry](https://www.goodreads.com/book/show/208840291-the-serviceberry) by Robin Wall Kimmerer.
+
 <!-- end currently reading -->
 
 ## 2026
