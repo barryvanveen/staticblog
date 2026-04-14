@@ -27,6 +27,9 @@ jobs:
 
       - name: Run weekly update script
         run: node scripts/weekly-update.js
+        env:
+          LASTFM_USERNAME: ${{ secrets.LASTFM_USERNAME }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v8
