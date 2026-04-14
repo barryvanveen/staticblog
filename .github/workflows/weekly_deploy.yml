@@ -17,17 +17,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
-      - name: Get current timestamp
-        run: echo "LASTMOD=$(date -Iseconds)" >> "$GITHUB_OUTPUT"
-        id: timestamp
-
-      - name: Output current timestamp
-        run: echo "The generated timestamp is ${{ steps.timestamp.outputs.LASTMOD }}"
-
-      - name: Update lastmod timestamp on music page
-        uses: mikefarah/yq@master
+      - name: Set up Node.js
+        uses: actions/setup-node@v5
         with:
-          cmd: yq -i --front-matter=process '.lastmod = "${{ steps.timestamp.outputs.LASTMOD }}"' content/music.md
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run weekly update script
+        run: node scripts/weekly-update.js
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v8
