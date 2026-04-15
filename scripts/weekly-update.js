@@ -4,13 +4,11 @@ require('dotenv').config();
 
 const fs = require('fs');
 const path = require('path');
-const yaml = require('js-yaml');
 
 /**
  * Weekly update script
  * - Fetches music data from last.fm API
  * - Stores data in assets/music-data.json
- * - Updates lastmod field in content/music.md
  * 
  * Environment variables required:
  * - LASTFM_USERNAME
@@ -51,40 +49,16 @@ async function updateMusic() {
     console.log('Fetching music data from last.fm API...');
     const musicData = await fetchMusicData();
     
-    // 2. Save to JSON file
+    // 2. Store generation timestamp on the saved JSON data
+    musicData.generatedAt = timestamp;
+    
+    // 3. Save to JSON file
     const outputPath = path.join(__dirname, '../assets/music-data.json');
     fs.writeFileSync(outputPath, JSON.stringify(musicData, null, 2), 'utf8');
     console.log(`✓ Saved music data to ${outputPath}`);
     
-    // 3. Update lastmod timestamp on music.md
-    const musicPath = path.join(__dirname, '../content/music.md');
-    let content = fs.readFileSync(musicPath, 'utf8');
-    
-    // Split front matter from content
-    const parts = content.split('---');
-    if (parts.length < 3) {
-      throw new Error('Invalid front matter format in music.md');
-    }
-    
-    // Parse YAML front matter
-    const frontMatter = yaml.load(parts[1]);
-    
-    // Update lastmod timestamp
-    frontMatter.lastmod = timestamp;
-    
-    // Reconstruct the file with updated front matter
-    const updatedContent = `---\n${yaml.dump(frontMatter)}---\n${parts.slice(2).join('---')}`;
-    
-    // Write back to file
-    fs.writeFileSync(musicPath, updatedContent, 'utf8');
-    console.log(`✓ Updated music.md with timestamp: ${timestamp}`);
-    
-    console.log(`✓ Commit message: "Update music (automated weekly update)"`);
-    
     return {
       success: true,
-      timestamp,
-      commitMessage: 'Update music (automated weekly update)'
     };
   } catch (error) {
     console.error('✗ Error during music update:', error.message);

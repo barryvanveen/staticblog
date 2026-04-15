@@ -39,13 +39,19 @@
                             </li>
                         {{ end }}
                     </ul>
+
+                    <span class="divider"></span>
+
+                    {{ $dataCollectedAt := time.AsTime $data.generatedAt }}
+
+                    {{ $lastUpdated := .Lastmod }}
+                    {{ if $dataCollectedAt.After $lastUpdated }}
+                        {{ $lastUpdated = $dataCollectedAt }}
+                    {{ end }}
+                    {{ partial "lastbuild.html" (dict "time" $lastUpdated) }}
                 {{ else }}
                     {{ errorf "Music data file not found. Please run 'node scripts/weekly-update.js' to generate assets/music-data.json" }}
                 {{ end }}
-
-                <span class="divider"></span>
-
-                {{ partial "lastbuild.html" . }}
             </article>
         </div>
     </main>
