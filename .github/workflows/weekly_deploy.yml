@@ -13,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     continue-on-error: false
     name: Create PR
+    permissions:
+      contents: write
+      pull-requests: write
 
     steps:
       - name: Checkout
@@ -33,10 +36,18 @@ jobs:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
 
       - name: Create Pull Request
+        id: cpr
         uses: peter-evans/create-pull-request@v8
         with:
           branch: update-music
           title: "Update music (automated weekly update)"
           body: "This PR is automatically created on a weekly basis. Building and deployed the site on a regular basis makes sure the list of music stays up-to-date."
           commit-message: "Update music (automated weekly update)"
+
+      - name: Enable auto-merge
+        uses: peter-evans/enable-pull-request-automerge@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
+          merge-method: squash
 
