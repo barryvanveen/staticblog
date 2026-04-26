@@ -1,11 +1,12 @@
 name: Weekly deploy
 
-# deploy this site every Monday on 08:00
-# this will trigger a new build and updates latest music stats, etc
+# this script is run at 08AM every day
+# it updates the music data
+# then a PR is automatically created and merged if checks pass
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
