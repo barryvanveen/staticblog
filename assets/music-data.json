@@ -1,0 +1,174 @@
+{
+  "topalbums": {
+    "album": [
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Lowswimmer",
+          "name": "Lowswimmer",
+          "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/029378a8c18370f03b81a3c1e2e37bf3.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/029378a8c18370f03b81a3c1e2e37bf3.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/029378a8c18370f03b81a3c1e2e37bf3.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/029378a8c18370f03b81a3c1e2e37bf3.png"
+          }
+        ],
+        "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
+        "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
+        "playcount": "24",
+        "@attr": {
+          "rank": "1"
+        },
+        "name": "Godspeed, Fantasy"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Thundercat",
+          "name": "Thundercat",
+          "mbid": "044fd265-79dd-43eb-afc4-8b20becf7e17"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/17311ac4702bbc6245e9ee2958630c8f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/17311ac4702bbc6245e9ee2958630c8f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/17311ac4702bbc6245e9ee2958630c8f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/17311ac4702bbc6245e9ee2958630c8f.jpg"
+          }
+        ],
+        "mbid": "1dae23c4-b91a-4a8f-a871-4244d98ebfa2",
+        "url": "https://www.last.fm/music/Thundercat/Drunk",
+        "playcount": "22",
+        "@attr": {
+          "rank": "2"
+        },
+        "name": "Drunk"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/death%27s+dynamic+shroud",
+          "name": "death's dynamic shroud",
+          "mbid": "e294d11b-fc47-41a9-b38b-3205c34d17ba"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fa8f39a97fe5c880b407bfa238b2e439.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fa8f39a97fe5c880b407bfa238b2e439.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fa8f39a97fe5c880b407bfa238b2e439.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa8f39a97fe5c880b407bfa238b2e439.png"
+          }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/death%27s+dynamic+shroud/Faith+in+Persona",
+        "playcount": "18",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "Faith in Persona"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Night+Heron",
+          "name": "Night Heron",
+          "mbid": "666488c2-f162-49e5-83df-08253b46f573"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3f948286d79f514a7106209c5c840779.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3f948286d79f514a7106209c5c840779.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3f948286d79f514a7106209c5c840779.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f948286d79f514a7106209c5c840779.jpg"
+          }
+        ],
+        "mbid": "cc21fb04-a54d-49c9-bc5d-b0c28158b795",
+        "url": "https://www.last.fm/music/Night+Heron/ESCAPISM",
+        "playcount": "16",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "ESCAPISM"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/The+Notwist",
+          "name": "The Notwist",
+          "mbid": "f180cec2-9421-4417-a841-c7372090d13d"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+          }
+        ],
+        "mbid": "ad9646dc-1d0e-407c-b8be-1dcce4bcb4b5",
+        "url": "https://www.last.fm/music/The+Notwist/News+from+Planet+Zombie",
+        "playcount": "16",
+        "@attr": {
+          "rank": "5"
+        },
+        "name": "News from Planet Zombie"
+      }
+    ],
+    "@attr": {
+      "user": "Barryvanveen",
+      "totalPages": "32",
+      "page": "1",
+      "total": "160",
+      "perPage": "5"
+    }
+  },
+  "generatedAt": "2026-04-15T19:05:04.010Z"
+}

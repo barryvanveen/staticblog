@@ -17,50 +17,41 @@
 
                 <span class="divider"></span>
 
-                {{ $username := getenv "HUGO_LASTFM_USERNAME" }}
-                {{ $apiKey := getenv "HUGO_LASTFM_API_KEY" }}
-                {{ if or (eq $username "") (eq $apiKey "") }}
-                    {{ errorf "%s" "username or apiKey empty, please set env variables" }}
-                {{ end }}
-
-                {{ $url := "http://ws.audioscrobbler.com/2.0/?method=user.gettopalbums&period=1month&limit=5&format=json&user=$username&api_key=$apiKey" }}
-                {{ $url := replace $url "$username" $username }}
-                {{ $url := replace $url "$apiKey" $apiKey }}
-
-                {{ $data := dict }}
-                {{ with try (resources.GetRemote $url) }}
-                    {{ with .Err }}
-                        {{ errorf "%s" . }}
-                    {{ else with .Value }}
-                        {{ $data = . | transform.Unmarshal }}
-
-                        <ul class="list-none pl-0 my-6 flex flex-col">
-                            {{ range $album := $data.topalbums.album }}
-                                <li class="mb-3">
-                                    {{ $image := index (index $album.image 1) "#text" }}
-                                    {{ if $image }}
-                                        <img src="{{ $image }}" class="w-16 h-16 float-left mr-3"
-                                             alt="Cover image for {{ $album.name }} by {{ $album.artist.name }}">
-                                    {{ else }}
-                                        <div class="w-16 h-16 float-left mr-3 shadow-md">
-                                            <div class="w-full h-full overflow-hidden text-center bg-turmeric table">
-                                                <span class="table-cell text-lg font-bold align-middle">?</span>
-                                            </div>
+                {{ $dataFile := resources.Get "music-data.json" }}
+                {{ if $dataFile }}
+                    {{ $data := $dataFile.Content | transform.Unmarshal }}
+                    <ul class="list-none pl-0 my-6 flex flex-col">
+                        {{ range $album := $data.topalbums.album }}
+                            <li class="mb-3">
+                                {{ $image := index (index $album.image 1) "#text" }}
+                                {{ if $image }}
+                                    <img src="{{ $image }}" class="w-16 h-16 float-left mr-3"
+                                         alt="Cover image for {{ $album.name }} by {{ $album.artist.name }}">
+                                {{ else }}
+                                    <div class="w-16 h-16 float-left mr-3 shadow-md">
+                                        <div class="w-full h-full overflow-hidden text-center bg-turmeric table">
+                                            <span class="table-cell text-lg font-bold align-middle">?</span>
                                         </div>
-                                    {{ end }}
-                                    <span class="font-bold">{{ $album.artist.name }}</span><br>
-                                    {{ $album.name }}
-                                </li>
-                            {{ end }}
-                        </ul>
+                                    </div>
+                                {{ end }}
+                                <span class="font-bold">{{ $album.artist.name }}</span><br>
+                                {{ $album.name }}
+                            </li>
+                        {{ end }}
+                    </ul>
+
+                    <span class="divider"></span>
+
+                    {{ $dataCollectedAt := time.AsTime $data.generatedAt }}
+
+                    {{ $lastUpdated := .Lastmod }}
+                    {{ if $dataCollectedAt.After $lastUpdated }}
+                        {{ $lastUpdated = $dataCollectedAt }}
                     {{ end }}
+                    {{ partial "lastbuild.html" (dict "time" $lastUpdated) }}
                 {{ else }}
-                    {{ errorf "Unable to get remote resource %q" $url }}
+                    {{ errorf "Music data file not found. Please run 'node scripts/weekly-update.js' to generate assets/music-data.json" }}
                 {{ end }}
-
-                <span class="divider"></span>
-
-                {{ partial "lastbuild.html" . }}
             </article>
         </div>
     </main>

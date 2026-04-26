@@ -1,6 +1,6 @@
 <footer class="mt-6">
     <p class="article-details">
-        Last update: {{ partial "time/lastReviewed.html" (dict "time" time.Now) }}
+        Last update: {{ partial "time/lastReviewed.html" (dict "time" .time) }}
         {{ partial "author.html" }}
     </p>
 </footer>
