@@ -27,7 +27,7 @@
         ],
         "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
-        "playcount": "24",
+        "playcount": "22",
         "@attr": {
           "rank": "1"
         },
@@ -99,76 +99,76 @@
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Night+Heron",
-          "name": "Night Heron",
-          "mbid": "666488c2-f162-49e5-83df-08253b46f573"
+          "url": "https://www.last.fm/music/Deafheaven",
+          "name": "Deafheaven",
+          "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
           }
         ],
-        "mbid": "cc21fb04-a54d-49c9-bc5d-b0c28158b795",
-        "url": "https://www.last.fm/music/Night+Heron/ESCAPISM",
-        "playcount": "16",
+        "mbid": "6d476142-2ced-4457-85ec-583fd8b235ac",
+        "url": "https://www.last.fm/music/Deafheaven/Lonely+People+With+Power",
+        "playcount": "17",
         "@attr": {
           "rank": "4"
         },
-        "name": "ESCAPISM"
+        "name": "Lonely People With Power"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/The+Notwist",
-          "name": "The Notwist",
-          "mbid": "f180cec2-9421-4417-a841-c7372090d13d"
+          "url": "https://www.last.fm/music/Jonathan+Jeremiah",
+          "name": "Jonathan Jeremiah",
+          "mbid": "ca9ced31-4a6f-47ed-8032-fa3bad53fcd0"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/db0aaa605296665a2d8ba99d05f77b16.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/db0aaa605296665a2d8ba99d05f77b16.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/db0aaa605296665a2d8ba99d05f77b16.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db0aaa605296665a2d8ba99d05f77b16.jpg"
           }
         ],
-        "mbid": "ad9646dc-1d0e-407c-b8be-1dcce4bcb4b5",
-        "url": "https://www.last.fm/music/The+Notwist/News+from+Planet+Zombie",
-        "playcount": "16",
+        "mbid": "9b7a8172-13cd-4770-af0c-0d5c2ad7f390",
+        "url": "https://www.last.fm/music/Jonathan+Jeremiah/A+Solitary+Man",
+        "playcount": "17",
         "@attr": {
           "rank": "5"
         },
-        "name": "News from Planet Zombie"
+        "name": "A Solitary Man"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "32",
+      "totalPages": "21",
       "page": "1",
-      "total": "160",
+      "total": "104",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-04-15T19:05:04.010Z"
+  "generatedAt": "2026-04-26T19:18:37.292Z"
 }
