@@ -3,6 +3,38 @@
     "album": [
       {
         "artist": {
+          "url": "https://www.last.fm/music/death%27s+dynamic+shroud",
+          "name": "death's dynamic shroud",
+          "mbid": "e294d11b-fc47-41a9-b38b-3205c34d17ba"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fa8f39a97fe5c880b407bfa238b2e439.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fa8f39a97fe5c880b407bfa238b2e439.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fa8f39a97fe5c880b407bfa238b2e439.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa8f39a97fe5c880b407bfa238b2e439.png"
+          }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/death%27s+dynamic+shroud/Faith+in+Persona",
+        "playcount": "27",
+        "@attr": {
+          "rank": "1"
+        },
+        "name": "Faith in Persona"
+      },
+      {
+        "artist": {
           "url": "https://www.last.fm/music/Lowswimmer",
           "name": "Lowswimmer",
           "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
@@ -29,7 +61,7 @@
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
         "playcount": "22",
         "@attr": {
-          "rank": "1"
+          "rank": "2"
         },
         "name": "Godspeed, Fantasy"
       },
@@ -61,41 +93,9 @@
         "url": "https://www.last.fm/music/Thundercat/Drunk",
         "playcount": "22",
         "@attr": {
-          "rank": "2"
-        },
-        "name": "Drunk"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/death%27s+dynamic+shroud",
-          "name": "death's dynamic shroud",
-          "mbid": "e294d11b-fc47-41a9-b38b-3205c34d17ba"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fa8f39a97fe5c880b407bfa238b2e439.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fa8f39a97fe5c880b407bfa238b2e439.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fa8f39a97fe5c880b407bfa238b2e439.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa8f39a97fe5c880b407bfa238b2e439.png"
-          }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/death%27s+dynamic+shroud/Faith+in+Persona",
-        "playcount": "18",
-        "@attr": {
           "rank": "3"
         },
-        "name": "Faith in Persona"
+        "name": "Drunk"
       },
       {
         "artist": {
@@ -164,11 +164,11 @@
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "21",
+      "totalPages": "22",
       "page": "1",
-      "total": "105",
+      "total": "106",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-04-26T19:47:01.049Z"
+  "generatedAt": "2026-04-27T10:03:34.675Z"
 }
