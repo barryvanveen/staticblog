@@ -1,12 +1,12 @@
 name: Weekly deploy
 
-# this script is run at 08AM every day
+# this script is run every Friday at 8:00 am
 # it updates the music data
 # then a PR is automatically created and merged if checks pass
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 8 * * 5'
   workflow_dispatch:
 
 jobs:
