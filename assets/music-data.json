@@ -99,6 +99,38 @@
       },
       {
         "artist": {
+          "url": "https://www.last.fm/music/Slomosa",
+          "name": "Slomosa",
+          "mbid": "262c9855-aa44-40f4-a275-cb425c074513"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0efa6cbed35f35b7f97080bcf056daff.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0efa6cbed35f35b7f97080bcf056daff.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0efa6cbed35f35b7f97080bcf056daff.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0efa6cbed35f35b7f97080bcf056daff.jpg"
+          }
+        ],
+        "mbid": "2b285928-1a81-4807-8504-db9cddab431a",
+        "url": "https://www.last.fm/music/Slomosa/Tundra+Rock",
+        "playcount": "18",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "Tundra Rock"
+      },
+      {
+        "artist": {
           "url": "https://www.last.fm/music/Deafheaven",
           "name": "Deafheaven",
           "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302"
@@ -125,50 +157,18 @@
         "url": "https://www.last.fm/music/Deafheaven/Lonely+People+With+Power",
         "playcount": "17",
         "@attr": {
-          "rank": "4"
-        },
-        "name": "Lonely People With Power"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Jonathan+Jeremiah",
-          "name": "Jonathan Jeremiah",
-          "mbid": "ca9ced31-4a6f-47ed-8032-fa3bad53fcd0"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/db0aaa605296665a2d8ba99d05f77b16.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/db0aaa605296665a2d8ba99d05f77b16.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/db0aaa605296665a2d8ba99d05f77b16.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db0aaa605296665a2d8ba99d05f77b16.jpg"
-          }
-        ],
-        "mbid": "9b7a8172-13cd-4770-af0c-0d5c2ad7f390",
-        "url": "https://www.last.fm/music/Jonathan+Jeremiah/A+Solitary+Man",
-        "playcount": "17",
-        "@attr": {
           "rank": "5"
         },
-        "name": "A Solitary Man"
+        "name": "Lonely People With Power"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "22",
+      "totalPages": "23",
       "page": "1",
-      "total": "106",
+      "total": "112",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-04-27T10:03:34.675Z"
+  "generatedAt": "2026-04-28T10:04:16.353Z"
 }
