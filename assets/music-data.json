@@ -27,43 +27,11 @@
         ],
         "mbid": "",
         "url": "https://www.last.fm/music/death%27s+dynamic+shroud/Faith+in+Persona",
-        "playcount": "27",
+        "playcount": "36",
         "@attr": {
           "rank": "1"
         },
         "name": "Faith in Persona"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Lowswimmer",
-          "name": "Lowswimmer",
-          "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/029378a8c18370f03b81a3c1e2e37bf3.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/029378a8c18370f03b81a3c1e2e37bf3.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/029378a8c18370f03b81a3c1e2e37bf3.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/029378a8c18370f03b81a3c1e2e37bf3.png"
-          }
-        ],
-        "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
-        "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
-        "playcount": "22",
-        "@attr": {
-          "rank": "2"
-        },
-        "name": "Godspeed, Fantasy"
       },
       {
         "artist": {
@@ -93,7 +61,7 @@
         "url": "https://www.last.fm/music/Thundercat/Drunk",
         "playcount": "22",
         "@attr": {
-          "rank": "3"
+          "rank": "2"
         },
         "name": "Drunk"
       },
@@ -125,9 +93,41 @@
         "url": "https://www.last.fm/music/Slomosa/Tundra+Rock",
         "playcount": "18",
         "@attr": {
-          "rank": "4"
+          "rank": "3"
         },
         "name": "Tundra Rock"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Unknown+Mortal+Orchestra",
+          "name": "Unknown Mortal Orchestra",
+          "mbid": "e2305342-0bde-4a2c-aed0-4b88694834de"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9a89ae43d4c7459ebb05cdbe1a333db7.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9a89ae43d4c7459ebb05cdbe1a333db7.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9a89ae43d4c7459ebb05cdbe1a333db7.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a89ae43d4c7459ebb05cdbe1a333db7.png"
+          }
+        ],
+        "mbid": "1d9602b2-8244-4a00-8b14-6a5a419b9ec3",
+        "url": "https://www.last.fm/music/Unknown+Mortal+Orchestra/II",
+        "playcount": "18",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "II"
       },
       {
         "artist": {
@@ -166,9 +166,9 @@
       "user": "Barryvanveen",
       "totalPages": "23",
       "page": "1",
-      "total": "112",
+      "total": "115",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-04-28T10:04:16.353Z"
+  "generatedAt": "2026-05-01T09:26:20.794Z"
 }
