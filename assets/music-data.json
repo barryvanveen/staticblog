@@ -27,7 +27,7 @@
         ],
         "mbid": "",
         "url": "https://www.last.fm/music/death%27s+dynamic+shroud/Faith+in+Persona",
-        "playcount": "44",
+        "playcount": "36",
         "@attr": {
           "rank": "1"
         },
@@ -67,108 +67,108 @@
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Novo+Amor",
-          "name": "Novo Amor",
-          "mbid": "61a57a2a-4c7f-4b41-8109-1070a9c32242"
+          "url": "https://www.last.fm/music/Natalie+Bergman",
+          "name": "Natalie Bergman",
+          "mbid": "611d0773-a7c0-4539-be56-22085cb6ef9d"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/001c098eab6ba4499af2a5c8e010b39b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7983d8930c82f3470a04276649d3e932.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/001c098eab6ba4499af2a5c8e010b39b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7983d8930c82f3470a04276649d3e932.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/001c098eab6ba4499af2a5c8e010b39b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7983d8930c82f3470a04276649d3e932.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/001c098eab6ba4499af2a5c8e010b39b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7983d8930c82f3470a04276649d3e932.jpg"
           }
         ],
-        "mbid": "962880ce-b929-4f65-a6e8-f4b05e0f5fb3",
-        "url": "https://www.last.fm/music/Novo+Amor/Heiress",
-        "playcount": "19",
+        "mbid": "8b73d385-fa25-4863-9c5e-bd89c21ec79b",
+        "url": "https://www.last.fm/music/Natalie+Bergman/My+Home+Is+Not+In+This+World",
+        "playcount": "24",
         "@attr": {
           "rank": "3"
         },
-        "name": "Heiress"
+        "name": "My Home Is Not In This World"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Crypt+Trip",
-          "name": "Crypt Trip",
-          "mbid": "8fe751fd-0802-40b4-89cc-445d0d598eb2"
+          "url": "https://www.last.fm/music/Lowswimmer",
+          "name": "Lowswimmer",
+          "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f82d796f8a06654c03cd1bd8a518c6ad.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/029378a8c18370f03b81a3c1e2e37bf3.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f82d796f8a06654c03cd1bd8a518c6ad.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/029378a8c18370f03b81a3c1e2e37bf3.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f82d796f8a06654c03cd1bd8a518c6ad.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/029378a8c18370f03b81a3c1e2e37bf3.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f82d796f8a06654c03cd1bd8a518c6ad.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/029378a8c18370f03b81a3c1e2e37bf3.png"
           }
         ],
-        "mbid": "e83c32c7-b658-4c1d-98e1-0a4e88972739",
-        "url": "https://www.last.fm/music/Crypt+Trip/Haze+County",
-        "playcount": "18",
+        "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
+        "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
+        "playcount": "23",
         "@attr": {
           "rank": "4"
         },
-        "name": "Haze County"
+        "name": "Godspeed, Fantasy"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Explosions+in+the+Sky",
-          "name": "Explosions in the Sky",
-          "mbid": "4236acde-2ce2-441c-a3d4-38d55f1b5474"
+          "url": "https://www.last.fm/music/Oddisee",
+          "name": "Oddisee",
+          "mbid": "aaae09b3-70d9-4a65-bb3f-57e85dfe9b83"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/76ca38e02489cdad755e73f9b2866d73.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bbd9e90f194b46e291ea95c356576350.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/76ca38e02489cdad755e73f9b2866d73.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bbd9e90f194b46e291ea95c356576350.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/76ca38e02489cdad755e73f9b2866d73.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bbd9e90f194b46e291ea95c356576350.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/76ca38e02489cdad755e73f9b2866d73.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bbd9e90f194b46e291ea95c356576350.jpg"
           }
         ],
-        "mbid": "b7d27663-e6af-462b-8184-317927d7098c",
-        "url": "https://www.last.fm/music/Explosions+in+the+Sky/The+Wilderness",
-        "playcount": "18",
+        "mbid": "4465906f-05e4-4574-91f1-3a56a3a0a2a5",
+        "url": "https://www.last.fm/music/Oddisee/To+What+End",
+        "playcount": "20",
         "@attr": {
           "rank": "5"
         },
-        "name": "The Wilderness"
+        "name": "To What End"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
       "totalPages": "24",
       "page": "1",
-      "total": "120",
+      "total": "119",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-05-08T09:06:17.388Z"
+  "generatedAt": "2026-05-15T10:13:06.387Z"
 }
