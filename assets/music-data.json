@@ -35,35 +35,67 @@
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Matt+Corby",
-          "name": "Matt Corby",
-          "mbid": "f4c42c60-96ae-4f1e-816a-b011bc48210b"
+          "url": "https://www.last.fm/music/Lowswimmer",
+          "name": "Lowswimmer",
+          "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b018b1bf3ae6c6be445bd49dfb7f92cc.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/029378a8c18370f03b81a3c1e2e37bf3.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b018b1bf3ae6c6be445bd49dfb7f92cc.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/029378a8c18370f03b81a3c1e2e37bf3.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b018b1bf3ae6c6be445bd49dfb7f92cc.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/029378a8c18370f03b81a3c1e2e37bf3.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b018b1bf3ae6c6be445bd49dfb7f92cc.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/029378a8c18370f03b81a3c1e2e37bf3.png"
           }
         ],
-        "mbid": "e74b57a9-a22d-4979-b0cf-8bc1b6235c60",
-        "url": "https://www.last.fm/music/Matt+Corby/Tragic+Magic",
-        "playcount": "26",
+        "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
+        "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
+        "playcount": "27",
         "@attr": {
           "rank": "2"
         },
-        "name": "Tragic Magic"
+        "name": "Godspeed, Fantasy"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Deafheaven",
+          "name": "Deafheaven",
+          "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
+          }
+        ],
+        "mbid": "6d476142-2ced-4457-85ec-583fd8b235ac",
+        "url": "https://www.last.fm/music/Deafheaven/Lonely+People+With+Power",
+        "playcount": "24",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "Lonely People With Power"
       },
       {
         "artist": {
@@ -93,82 +125,50 @@
         "url": "https://www.last.fm/music/Natalie+Bergman/My+Home+Is+Not+In+This+World",
         "playcount": "24",
         "@attr": {
-          "rank": "3"
+          "rank": "4"
         },
         "name": "My Home Is Not In This World"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Lowswimmer",
-          "name": "Lowswimmer",
-          "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
+          "url": "https://www.last.fm/music/Matt+Corby",
+          "name": "Matt Corby",
+          "mbid": "f4c42c60-96ae-4f1e-816a-b011bc48210b"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/029378a8c18370f03b81a3c1e2e37bf3.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b018b1bf3ae6c6be445bd49dfb7f92cc.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/029378a8c18370f03b81a3c1e2e37bf3.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b018b1bf3ae6c6be445bd49dfb7f92cc.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/029378a8c18370f03b81a3c1e2e37bf3.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b018b1bf3ae6c6be445bd49dfb7f92cc.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/029378a8c18370f03b81a3c1e2e37bf3.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b018b1bf3ae6c6be445bd49dfb7f92cc.jpg"
           }
         ],
-        "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
-        "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
-        "playcount": "23",
-        "@attr": {
-          "rank": "4"
-        },
-        "name": "Godspeed, Fantasy"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Oddisee",
-          "name": "Oddisee",
-          "mbid": "aaae09b3-70d9-4a65-bb3f-57e85dfe9b83"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bbd9e90f194b46e291ea95c356576350.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bbd9e90f194b46e291ea95c356576350.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bbd9e90f194b46e291ea95c356576350.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bbd9e90f194b46e291ea95c356576350.jpg"
-          }
-        ],
-        "mbid": "4465906f-05e4-4574-91f1-3a56a3a0a2a5",
-        "url": "https://www.last.fm/music/Oddisee/To+What+End",
-        "playcount": "20",
+        "mbid": "e74b57a9-a22d-4979-b0cf-8bc1b6235c60",
+        "url": "https://www.last.fm/music/Matt+Corby/Tragic+Magic",
+        "playcount": "22",
         "@attr": {
           "rank": "5"
         },
-        "name": "To What End"
+        "name": "Tragic Magic"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "24",
+      "totalPages": "19",
       "page": "1",
-      "total": "119",
+      "total": "93",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-05-15T10:13:06.387Z"
+  "generatedAt": "2026-05-22T10:42:18.751Z"
 }
