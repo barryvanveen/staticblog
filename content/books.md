@@ -11,6 +11,7 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 <!-- start currently reading -->
 * [Ecologisch groenbeheer in de praktijk](https://ipcgroen.nl/ecologisch-groenbeheer-in-de-praktijk) by K. Boer and C.M.G.J. Schils.
 * [The Shadow Rising](https://www.goodreads.com/book/show/9539.The_Shadow_Rising) by Robert Jordan.
+* [Overal zit mens](https://www.goodreads.com/nl/book/show/62606781-overal-zit-mens) by Yves Petry.
 <!-- end currently reading -->
 
 ## 2026
