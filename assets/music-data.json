@@ -27,43 +27,11 @@
         ],
         "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
-        "playcount": "45",
+        "playcount": "48",
         "@attr": {
           "rank": "1"
         },
         "name": "Godspeed, Fantasy"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/death%27s+dynamic+shroud",
-          "name": "death's dynamic shroud",
-          "mbid": "e294d11b-fc47-41a9-b38b-3205c34d17ba"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fa8f39a97fe5c880b407bfa238b2e439.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fa8f39a97fe5c880b407bfa238b2e439.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fa8f39a97fe5c880b407bfa238b2e439.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa8f39a97fe5c880b407bfa238b2e439.png"
-          }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/death%27s+dynamic+shroud/Faith+in+Persona",
-        "playcount": "29",
-        "@attr": {
-          "rank": "2"
-        },
-        "name": "Faith in Persona"
       },
       {
         "artist": {
@@ -93,7 +61,7 @@
         "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
         "playcount": "25",
         "@attr": {
-          "rank": "3"
+          "rank": "2"
         },
         "name": "Too Much Not Enough"
       },
@@ -125,50 +93,82 @@
         "url": "https://www.last.fm/music/Natalie+Bergman/My+Home+Is+Not+In+This+World",
         "playcount": "24",
         "@attr": {
-          "rank": "4"
+          "rank": "3"
         },
         "name": "My Home Is Not In This World"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Novo+Amor",
-          "name": "Novo Amor",
-          "mbid": "61a57a2a-4c7f-4b41-8109-1070a9c32242"
+          "url": "https://www.last.fm/music/Tortoise",
+          "name": "Tortoise",
+          "mbid": "e0953daa-860f-4dc8-9f1a-b12587cdaf17"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/001c098eab6ba4499af2a5c8e010b39b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/09b75b6f829bb6ef35960783dc025d18.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/001c098eab6ba4499af2a5c8e010b39b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/09b75b6f829bb6ef35960783dc025d18.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/001c098eab6ba4499af2a5c8e010b39b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/09b75b6f829bb6ef35960783dc025d18.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/001c098eab6ba4499af2a5c8e010b39b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09b75b6f829bb6ef35960783dc025d18.jpg"
           }
         ],
-        "mbid": "962880ce-b929-4f65-a6e8-f4b05e0f5fb3",
-        "url": "https://www.last.fm/music/Novo+Amor/Heiress",
+        "mbid": "b8e5c536-e4b4-43d6-899d-9f4f52805d87",
+        "url": "https://www.last.fm/music/Tortoise/Touch",
         "playcount": "20",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "Touch"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Louis+Cole",
+          "name": "Louis Cole",
+          "mbid": ""
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/43c66a88e891be31b1e0ed6d80348061.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/43c66a88e891be31b1e0ed6d80348061.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/43c66a88e891be31b1e0ed6d80348061.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43c66a88e891be31b1e0ed6d80348061.png"
+          }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/Louis+Cole/nothing",
+        "playcount": "17",
         "@attr": {
           "rank": "5"
         },
-        "name": "Heiress"
+        "name": "nothing"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
       "totalPages": "18",
       "page": "1",
-      "total": "86",
+      "total": "89",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-05-29T11:20:03.639Z"
+  "generatedAt": "2026-06-05T11:18:12.910Z"
 }
