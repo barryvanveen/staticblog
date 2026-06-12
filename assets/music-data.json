@@ -35,99 +35,35 @@
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
-          "name": "Daði Freyr",
-          "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
+          "url": "https://www.last.fm/music/Kauan",
+          "name": "Kauan",
+          "mbid": "182430af-bc1c-4028-b2c8-37d77e0df225"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/465257d367fd21adb390d21801ad735b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4823cdd7acba5475ae6b3b81cde57323.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/465257d367fd21adb390d21801ad735b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4823cdd7acba5475ae6b3b81cde57323.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/465257d367fd21adb390d21801ad735b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4823cdd7acba5475ae6b3b81cde57323.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/465257d367fd21adb390d21801ad735b.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4823cdd7acba5475ae6b3b81cde57323.png"
           }
         ],
-        "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
-        "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
-        "playcount": "25",
+        "mbid": "85f1dade-77b3-44d2-bb59-3ac26d1785f6",
+        "url": "https://www.last.fm/music/Kauan/Sorni+nai",
+        "playcount": "21",
         "@attr": {
           "rank": "2"
         },
-        "name": "Too Much Not Enough"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Natalie+Bergman",
-          "name": "Natalie Bergman",
-          "mbid": "611d0773-a7c0-4539-be56-22085cb6ef9d"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7983d8930c82f3470a04276649d3e932.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7983d8930c82f3470a04276649d3e932.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7983d8930c82f3470a04276649d3e932.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7983d8930c82f3470a04276649d3e932.jpg"
-          }
-        ],
-        "mbid": "8b73d385-fa25-4863-9c5e-bd89c21ec79b",
-        "url": "https://www.last.fm/music/Natalie+Bergman/My+Home+Is+Not+In+This+World",
-        "playcount": "24",
-        "@attr": {
-          "rank": "3"
-        },
-        "name": "My Home Is Not In This World"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Tortoise",
-          "name": "Tortoise",
-          "mbid": "e0953daa-860f-4dc8-9f1a-b12587cdaf17"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/09b75b6f829bb6ef35960783dc025d18.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/09b75b6f829bb6ef35960783dc025d18.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/09b75b6f829bb6ef35960783dc025d18.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/09b75b6f829bb6ef35960783dc025d18.jpg"
-          }
-        ],
-        "mbid": "b8e5c536-e4b4-43d6-899d-9f4f52805d87",
-        "url": "https://www.last.fm/music/Tortoise/Touch",
-        "playcount": "20",
-        "@attr": {
-          "rank": "4"
-        },
-        "name": "Touch"
+        "name": "Sorni nai"
       },
       {
         "artist": {
@@ -157,18 +93,82 @@
         "url": "https://www.last.fm/music/Louis+Cole/nothing",
         "playcount": "17",
         "@attr": {
-          "rank": "5"
+          "rank": "3"
         },
         "name": "nothing"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Nujabes",
+          "name": "Nujabes",
+          "mbid": ""
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e605e0031a208775b7ac76f8c34290e3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e605e0031a208775b7ac76f8c34290e3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e605e0031a208775b7ac76f8c34290e3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e605e0031a208775b7ac76f8c34290e3.jpg"
+          }
+        ],
+        "mbid": "9605047a-828d-4860-97c4-3c3e99b74625",
+        "url": "https://www.last.fm/music/Nujabes/Modal+Soul",
+        "playcount": "14",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "Modal Soul"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Have+a+Nice+Life",
+          "name": "Have a Nice Life",
+          "mbid": "70923a5d-d3ba-4ef7-9064-ea5f709aa076"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
+          }
+        ],
+        "mbid": "1b354727-7edb-4216-b416-67a4a9030fb4",
+        "url": "https://www.last.fm/music/Have+a+Nice+Life/Deathconsciousness",
+        "playcount": "13",
+        "@attr": {
+          "rank": "5"
+        },
+        "name": "Deathconsciousness"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "18",
+      "totalPages": "20",
       "page": "1",
-      "total": "89",
+      "total": "97",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-06-05T11:18:12.910Z"
+  "generatedAt": "2026-06-12T11:35:49.176Z"
 }
