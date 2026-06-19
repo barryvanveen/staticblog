@@ -27,7 +27,7 @@
         ],
         "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
-        "playcount": "48",
+        "playcount": "39",
         "@attr": {
           "rank": "1"
         },
@@ -67,6 +67,38 @@
       },
       {
         "artist": {
+          "url": "https://www.last.fm/music/Hath",
+          "name": "Hath",
+          "mbid": "fc58ce07-a76a-49e7-8268-33af977913e1"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/419434481c3ddb8d5ad9da35267fc960.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/419434481c3ddb8d5ad9da35267fc960.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/419434481c3ddb8d5ad9da35267fc960.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/419434481c3ddb8d5ad9da35267fc960.jpg"
+          }
+        ],
+        "mbid": "9ae30deb-1bd2-41d1-bc61-78797f16e078",
+        "url": "https://www.last.fm/music/Hath/All+That+Was+Promised",
+        "playcount": "18",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "All That Was Promised"
+      },
+      {
+        "artist": {
           "url": "https://www.last.fm/music/Louis+Cole",
           "name": "Louis Cole",
           "mbid": ""
@@ -93,82 +125,50 @@
         "url": "https://www.last.fm/music/Louis+Cole/nothing",
         "playcount": "17",
         "@attr": {
-          "rank": "3"
+          "rank": "4"
         },
         "name": "nothing"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Nujabes",
-          "name": "Nujabes",
-          "mbid": ""
+          "url": "https://www.last.fm/music/Low",
+          "name": "Low",
+          "mbid": "92de643f-fa8f-4e68-b627-4376711b7b33"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e605e0031a208775b7ac76f8c34290e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0b305c6f897c39de5c45fc08b5064679.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e605e0031a208775b7ac76f8c34290e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0b305c6f897c39de5c45fc08b5064679.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e605e0031a208775b7ac76f8c34290e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0b305c6f897c39de5c45fc08b5064679.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e605e0031a208775b7ac76f8c34290e3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg"
           }
         ],
-        "mbid": "9605047a-828d-4860-97c4-3c3e99b74625",
-        "url": "https://www.last.fm/music/Nujabes/Modal+Soul",
+        "mbid": "73b1321f-e8d6-42dc-99ea-2b76b4aac48c",
+        "url": "https://www.last.fm/music/Low/HEY+WHAT",
         "playcount": "14",
-        "@attr": {
-          "rank": "4"
-        },
-        "name": "Modal Soul"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Have+a+Nice+Life",
-          "name": "Have a Nice Life",
-          "mbid": "70923a5d-d3ba-4ef7-9064-ea5f709aa076"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
-          }
-        ],
-        "mbid": "1b354727-7edb-4216-b416-67a4a9030fb4",
-        "url": "https://www.last.fm/music/Have+a+Nice+Life/Deathconsciousness",
-        "playcount": "13",
         "@attr": {
           "rank": "5"
         },
-        "name": "Deathconsciousness"
+        "name": "HEY WHAT"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "20",
+      "totalPages": "22",
       "page": "1",
-      "total": "97",
+      "total": "109",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-06-12T11:35:49.176Z"
+  "generatedAt": "2026-06-19T11:58:53.953Z"
 }
