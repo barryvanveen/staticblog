@@ -12,14 +12,35 @@
         <div itemprop="text">
             {{ .Content }}
 
-            <h2>Most recent articles:</h2>
-            <ul>
-                {{ range (where .Site.Pages "Section" "articles") }}
-                    {{ range .Pages.Limit 3 }}
-                        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-                    {{ end }}
+            {{ $data := dict }}
+            {{ with try (resources.Get "observations.json") }}
+                {{ with .Err }}
+                    {{ errorf "%s" . }}
+                {{ else with .Value }}
+                    {{ $data = . | transform.Unmarshal }}
+
+                    <h2>Latest observations</h2>
+                    <ul class="list-none pl-0 my-6 flex flex-col">
+                        {{ range $observation := $data }}
+                        <li class="mb-3">
+                            <img src="data:image/jpg;base64,{{ $observation.photo }}" class="w-16 h-16 float-left mr-3" alt="Photo of {{ $observation.scientific_name }}">
+                            {{ if $observation.common_name }}
+                                <a href="{{ $observation.url }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="font-bold">{{ $observation.common_name }}</span>
+                                </a><br>
+                                <span class="italic">{{ $observation.scientific_name }}</span>
+                            {{ else }}
+                                <a href="{{ $observation.url }}" target="_blank" rel="noopener noreferrer">
+                                    <span class="font-bold italic">{{ $observation.scientific_name }}</span>
+                                </a>
+                            {{ end }}
+                        </li>
+                        {{ end }}
+                    </ul>
                 {{ end }}
-            </ul>
+            {{ else }}
+                {{ errorf "Unable to get observation data" }}
+            {{ end }}
 
             <h2>Books I'm currently reading:</h2>
             {{ with .GetPage "books" }}
@@ -35,6 +56,15 @@
                 <!-- render the first index, which contains everything between the 2 breakpoints -->
                 {{ index $rawContentSections 0 | .RenderString }}
             {{ end }}
+
+            <h2>Most recent articles:</h2>
+            <ul>
+                {{ range (where .Site.Pages "Section" "articles") }}
+                {{ range .Pages.Limit 3 }}
+                <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+                {{ end }}
+                {{ end }}
+            </ul>
         </div>
 
         <span class="divider"></span>
