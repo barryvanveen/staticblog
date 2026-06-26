@@ -27,43 +27,11 @@
         ],
         "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
-        "playcount": "39",
+        "playcount": "25",
         "@attr": {
           "rank": "1"
         },
         "name": "Godspeed, Fantasy"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Kauan",
-          "name": "Kauan",
-          "mbid": "182430af-bc1c-4028-b2c8-37d77e0df225"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4823cdd7acba5475ae6b3b81cde57323.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4823cdd7acba5475ae6b3b81cde57323.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4823cdd7acba5475ae6b3b81cde57323.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4823cdd7acba5475ae6b3b81cde57323.png"
-          }
-        ],
-        "mbid": "85f1dade-77b3-44d2-bb59-3ac26d1785f6",
-        "url": "https://www.last.fm/music/Kauan/Sorni+nai",
-        "playcount": "21",
-        "@attr": {
-          "rank": "2"
-        },
-        "name": "Sorni nai"
       },
       {
         "artist": {
@@ -93,7 +61,7 @@
         "url": "https://www.last.fm/music/Hath/All+That+Was+Promised",
         "playcount": "18",
         "@attr": {
-          "rank": "3"
+          "rank": "2"
         },
         "name": "All That Was Promised"
       },
@@ -125,9 +93,41 @@
         "url": "https://www.last.fm/music/Louis+Cole/nothing",
         "playcount": "17",
         "@attr": {
-          "rank": "4"
+          "rank": "3"
         },
         "name": "nothing"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Sia",
+          "name": "Sia",
+          "mbid": "2f548675-008d-4332-876c-108b0c7ab9c5"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/df5c2ce2f60e2a4d633b545c717126dc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/df5c2ce2f60e2a4d633b545c717126dc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/df5c2ce2f60e2a4d633b545c717126dc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df5c2ce2f60e2a4d633b545c717126dc.jpg"
+          }
+        ],
+        "mbid": "0f4ff3f7-003e-4737-83d9-75d811e17245",
+        "url": "https://www.last.fm/music/Sia/Some+People+Have+Real+Problems",
+        "playcount": "15",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "Some People Have Real Problems"
       },
       {
         "artist": {
@@ -164,11 +164,11 @@
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "22",
+      "totalPages": "25",
       "page": "1",
-      "total": "109",
+      "total": "121",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-06-19T11:58:53.953Z"
+  "generatedAt": "2026-06-26T10:43:49.958Z"
 }
