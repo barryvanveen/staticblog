@@ -3,6 +3,38 @@
     "album": [
       {
         "artist": {
+          "url": "https://www.last.fm/music/Sam+Wilkes",
+          "name": "Sam Wilkes",
+          "mbid": ""
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/30d57ffd1eb0839fdfb4079876c399f3.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/30d57ffd1eb0839fdfb4079876c399f3.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/30d57ffd1eb0839fdfb4079876c399f3.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/30d57ffd1eb0839fdfb4079876c399f3.jpg"
+          }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/Sam+Wilkes/Perform+the+Compositions+of+Sam+Wilkes+&+Jacob+Mann",
+        "playcount": "26",
+        "@attr": {
+          "rank": "1"
+        },
+        "name": "Perform the Compositions of Sam Wilkes & Jacob Mann"
+      },
+      {
+        "artist": {
           "url": "https://www.last.fm/music/Lowswimmer",
           "name": "Lowswimmer",
           "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
@@ -29,9 +61,41 @@
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
         "playcount": "25",
         "@attr": {
-          "rank": "1"
+          "rank": "2"
         },
         "name": "Godspeed, Fantasy"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Night+Heron",
+          "name": "Night Heron",
+          "mbid": "666488c2-f162-49e5-83df-08253b46f573"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3f948286d79f514a7106209c5c840779.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3f948286d79f514a7106209c5c840779.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3f948286d79f514a7106209c5c840779.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f948286d79f514a7106209c5c840779.jpg"
+          }
+        ],
+        "mbid": "cc21fb04-a54d-49c9-bc5d-b0c28158b795",
+        "url": "https://www.last.fm/music/Night+Heron/ESCAPISM",
+        "playcount": "25",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "ESCAPISM"
       },
       {
         "artist": {
@@ -61,114 +125,50 @@
         "url": "https://www.last.fm/music/Hath/All+That+Was+Promised",
         "playcount": "18",
         "@attr": {
-          "rank": "2"
+          "rank": "4"
         },
         "name": "All That Was Promised"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Louis+Cole",
-          "name": "Louis Cole",
-          "mbid": ""
+          "url": "https://www.last.fm/music/Khemmis",
+          "name": "Khemmis",
+          "mbid": "425780ef-6214-41cb-a867-4a3aafd4c6e3"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/43c66a88e891be31b1e0ed6d80348061.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fe8524e421f7dd593c7315263f0451a5.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/43c66a88e891be31b1e0ed6d80348061.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fe8524e421f7dd593c7315263f0451a5.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/43c66a88e891be31b1e0ed6d80348061.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fe8524e421f7dd593c7315263f0451a5.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43c66a88e891be31b1e0ed6d80348061.png"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe8524e421f7dd593c7315263f0451a5.jpg"
           }
         ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Louis+Cole/nothing",
-        "playcount": "17",
-        "@attr": {
-          "rank": "3"
-        },
-        "name": "nothing"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Sia",
-          "name": "Sia",
-          "mbid": "2f548675-008d-4332-876c-108b0c7ab9c5"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/df5c2ce2f60e2a4d633b545c717126dc.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/df5c2ce2f60e2a4d633b545c717126dc.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/df5c2ce2f60e2a4d633b545c717126dc.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df5c2ce2f60e2a4d633b545c717126dc.jpg"
-          }
-        ],
-        "mbid": "0f4ff3f7-003e-4737-83d9-75d811e17245",
-        "url": "https://www.last.fm/music/Sia/Some+People+Have+Real+Problems",
-        "playcount": "15",
-        "@attr": {
-          "rank": "4"
-        },
-        "name": "Some People Have Real Problems"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Low",
-          "name": "Low",
-          "mbid": "92de643f-fa8f-4e68-b627-4376711b7b33"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0b305c6f897c39de5c45fc08b5064679.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0b305c6f897c39de5c45fc08b5064679.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0b305c6f897c39de5c45fc08b5064679.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0b305c6f897c39de5c45fc08b5064679.jpg"
-          }
-        ],
-        "mbid": "73b1321f-e8d6-42dc-99ea-2b76b4aac48c",
-        "url": "https://www.last.fm/music/Low/HEY+WHAT",
-        "playcount": "14",
+        "mbid": "61e93d23-96f9-4d65-93d0-30805996405d",
+        "url": "https://www.last.fm/music/Khemmis/Khemmis",
+        "playcount": "16",
         "@attr": {
           "rank": "5"
         },
-        "name": "HEY WHAT"
+        "name": "Khemmis"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "25",
+      "totalPages": "32",
       "page": "1",
-      "total": "121",
+      "total": "160",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-06-26T10:43:49.958Z"
+  "generatedAt": "2026-07-03T10:26:34.534Z"
 }
