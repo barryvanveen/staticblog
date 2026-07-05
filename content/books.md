@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2026-06-28T13:26:44+02:00
+lastmod: 2026-07-05T20:40:07+02:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -10,10 +10,11 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 ## Currently reading:
 <!-- start currently reading -->
 * [Ecologisch groenbeheer in de praktijk](https://ipcgroen.nl/ecologisch-groenbeheer-in-de-praktijk) by K. Boer and C.M.G.J. Schils.
-* [Overal zit mens](https://www.goodreads.com/nl/book/show/62606781-overal-zit-mens) by Yves Petry.
+* [The Fires of Heaven](https://www.goodreads.com/book/show/13895.The_Fires_of_Heaven) by Robert Jordan.
 <!-- end currently reading -->
 
 ## 2026
+* [Overal zit mens](https://www.goodreads.com/nl/book/show/62606781-overal-zit-mens) by Yves Petry.
 * [The Shadow Rising](https://www.goodreads.com/book/show/9539.The_Shadow_Rising) by Robert Jordan.
 * [Het achtste leven (voor Brilka)](https://www.goodreads.com/book/show/32560066-het-achtste-leven-voor-brilka) by Nino Haratischwili (unfinished).
 * [Welcome to the Hyunam-Dong Bookshop](https://www.goodreads.com/book/show/133938826-welcome-to-the-hyunam-dong-bookshop) by Hwang Bo-Reum.
