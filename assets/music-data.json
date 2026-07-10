@@ -3,35 +3,99 @@
     "album": [
       {
         "artist": {
-          "url": "https://www.last.fm/music/Sam+Wilkes",
-          "name": "Sam Wilkes",
-          "mbid": ""
+          "url": "https://www.last.fm/music/death%27s+dynamic+shroud",
+          "name": "death's dynamic shroud",
+          "mbid": "e294d11b-fc47-41a9-b38b-3205c34d17ba"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/30d57ffd1eb0839fdfb4079876c399f3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef9b096e18b39983191a7c575666c3e.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/30d57ffd1eb0839fdfb4079876c399f3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef9b096e18b39983191a7c575666c3e.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/30d57ffd1eb0839fdfb4079876c399f3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef9b096e18b39983191a7c575666c3e.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/30d57ffd1eb0839fdfb4079876c399f3.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef9b096e18b39983191a7c575666c3e.jpg"
           }
         ],
         "mbid": "",
-        "url": "https://www.last.fm/music/Sam+Wilkes/Perform+the+Compositions+of+Sam+Wilkes+&+Jacob+Mann",
-        "playcount": "26",
+        "url": "https://www.last.fm/music/death%27s+dynamic+shroud/I%27ll+Try+Living+Like+This",
+        "playcount": "27",
         "@attr": {
           "rank": "1"
         },
-        "name": "Perform the Compositions of Sam Wilkes & Jacob Mann"
+        "name": "I'll Try Living Like This"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Bremer%2FMcCoy",
+          "name": "Bremer/McCoy",
+          "mbid": "d3fe0251-0d0d-4d3a-ad2e-53188d7065d5"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a51b773ea9c1c46b18ddcb29da47be0a.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a51b773ea9c1c46b18ddcb29da47be0a.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a51b773ea9c1c46b18ddcb29da47be0a.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a51b773ea9c1c46b18ddcb29da47be0a.jpg"
+          }
+        ],
+        "mbid": "5e9acb11-80ed-4eef-9e69-0253542a831a",
+        "url": "https://www.last.fm/music/Bremer%2FMcCoy/Utopia",
+        "playcount": "25",
+        "@attr": {
+          "rank": "2"
+        },
+        "name": "Utopia"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Deafheaven",
+          "name": "Deafheaven",
+          "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
+          }
+        ],
+        "mbid": "6d476142-2ced-4457-85ec-583fd8b235ac",
+        "url": "https://www.last.fm/music/Deafheaven/Lonely+People+With+Power",
+        "playcount": "24",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "Lonely People With Power"
       },
       {
         "artist": {
@@ -59,116 +123,52 @@
         ],
         "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
-        "playcount": "25",
+        "playcount": "22",
         "@attr": {
-          "rank": "2"
+          "rank": "4"
         },
         "name": "Godspeed, Fantasy"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Night+Heron",
-          "name": "Night Heron",
-          "mbid": "666488c2-f162-49e5-83df-08253b46f573"
+          "url": "https://www.last.fm/music/Fires+in+the+Distance",
+          "name": "Fires in the Distance",
+          "mbid": "963a7d48-5995-4751-aef8-6727cb879b9c"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e64ffa558339cf64368bb587e1097c4.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e64ffa558339cf64368bb587e1097c4.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e64ffa558339cf64368bb587e1097c4.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e64ffa558339cf64368bb587e1097c4.jpg"
           }
         ],
-        "mbid": "cc21fb04-a54d-49c9-bc5d-b0c28158b795",
-        "url": "https://www.last.fm/music/Night+Heron/ESCAPISM",
-        "playcount": "25",
-        "@attr": {
-          "rank": "3"
-        },
-        "name": "ESCAPISM"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Hath",
-          "name": "Hath",
-          "mbid": "fc58ce07-a76a-49e7-8268-33af977913e1"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/419434481c3ddb8d5ad9da35267fc960.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/419434481c3ddb8d5ad9da35267fc960.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/419434481c3ddb8d5ad9da35267fc960.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/419434481c3ddb8d5ad9da35267fc960.jpg"
-          }
-        ],
-        "mbid": "9ae30deb-1bd2-41d1-bc61-78797f16e078",
-        "url": "https://www.last.fm/music/Hath/All+That+Was+Promised",
+        "mbid": "70382702-e299-4ae3-af69-7c5c9dc0e59c",
+        "url": "https://www.last.fm/music/Fires+in+the+Distance/Circadian+Promise",
         "playcount": "18",
-        "@attr": {
-          "rank": "4"
-        },
-        "name": "All That Was Promised"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Khemmis",
-          "name": "Khemmis",
-          "mbid": "425780ef-6214-41cb-a867-4a3aafd4c6e3"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fe8524e421f7dd593c7315263f0451a5.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fe8524e421f7dd593c7315263f0451a5.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fe8524e421f7dd593c7315263f0451a5.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fe8524e421f7dd593c7315263f0451a5.jpg"
-          }
-        ],
-        "mbid": "61e93d23-96f9-4d65-93d0-30805996405d",
-        "url": "https://www.last.fm/music/Khemmis/Khemmis",
-        "playcount": "16",
         "@attr": {
           "rank": "5"
         },
-        "name": "Khemmis"
+        "name": "Circadian Promise"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "32",
+      "totalPages": "33",
       "page": "1",
-      "total": "160",
+      "total": "163",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-07-03T10:26:34.534Z"
+  "generatedAt": "2026-07-10T10:44:15.876Z"
 }
