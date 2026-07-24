@@ -67,38 +67,6 @@
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
-          "name": "Daði Freyr",
-          "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/465257d367fd21adb390d21801ad735b.jpg"
-          }
-        ],
-        "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
-        "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
-        "playcount": "25",
-        "@attr": {
-          "rank": "3"
-        },
-        "name": "Too Much Not Enough"
-      },
-      {
-        "artist": {
           "url": "https://www.last.fm/music/Deafheaven",
           "name": "Deafheaven",
           "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302"
@@ -125,7 +93,7 @@
         "url": "https://www.last.fm/music/Deafheaven/Lonely+People+With+Power",
         "playcount": "24",
         "@attr": {
-          "rank": "4"
+          "rank": "3"
         },
         "name": "Lonely People With Power"
       },
@@ -157,18 +125,50 @@
         "url": "https://www.last.fm/music/HANG+YOUTH/Er+is+hoop*",
         "playcount": "24",
         "@attr": {
-          "rank": "5"
+          "rank": "4"
         },
         "name": "Er is hoop*"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Louis+Cole",
+          "name": "Louis Cole",
+          "mbid": ""
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/43c66a88e891be31b1e0ed6d80348061.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/43c66a88e891be31b1e0ed6d80348061.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/43c66a88e891be31b1e0ed6d80348061.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43c66a88e891be31b1e0ed6d80348061.png"
+          }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/Louis+Cole/nothing",
+        "playcount": "17",
+        "@attr": {
+          "rank": "5"
+        },
+        "name": "nothing"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "36",
+      "totalPages": "31",
       "page": "1",
-      "total": "178",
+      "total": "155",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-07-17T09:47:24.615Z"
+  "generatedAt": "2026-07-24T10:07:48.118Z"
 }
