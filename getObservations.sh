@@ -1,10 +1,23 @@
 # !/bin/bash
 
-# scrape latest observations
-echo "## Getting observations..."
-#chmod +x getObservations.sh
-#./getObservations.sh
+## Dependencies ##
+# jq, curl, xmllint (libxml2)
 
+## What this script does ##
+
+# download the contents of https://waarneming.nl/users/408111/observations/?advanced=on
+# find the table with selector "div.app-content-section table"
+# take the first 3 rows where "td.column-species" does not contain "i.status-uncertain" and where "td::last" contains "i.fa-camera"
+# iterate over the 3 rows
+  # collect the href from "td::first a" and download the page
+  # from that page, take the following information
+    # common name: .app-content .species-common-name
+    # scientific name: .app-content .species-scientific-name
+    # photo: .app-content div#photos img
+  # convert the first photo to a base64 encoded string
+# output the url, common name, scientific name and base64 encoded photo to a json file called observations.json
+
+set -euo pipefail
 
 OBSERVATION_OVERVIEW_URL="https://waarneming.nl/users/408111/observations/?advanced=on"
 OBSERVATION_BASE_URL="https://waarneming.nl"
@@ -76,28 +89,3 @@ for i in $(seq 1 $max); do
 done
 
 printf '[%s]\n' "$(IFS=,; echo "${items[*]}")" > assets/observations.json
-
-echo "## Finished getting observations:"
-
-FILE="assets/observations.json"
-
-if [ ! -f "$FILE" ]; then
-  echo "$FILE does not exist."
-else
-  cat $FILE
-fi
-
-# output hugo version
-echo "## Hugo version"
-hugo version
-
-echo "## Hugo build"
-# build with production base URL
-if [ "$CF_PAGES_BRANCH" == "main" ]; then
-  hugo -b $BASE_URL
-
-# build branch for CI/CD preview with Cloudflare base URL
-else
-  hugo -b $CF_PAGES_URL
-
-fi
