@@ -3,70 +3,6 @@
     "album": [
       {
         "artist": {
-          "url": "https://www.last.fm/music/Bremer%2FMcCoy",
-          "name": "Bremer/McCoy",
-          "mbid": "d3fe0251-0d0d-4d3a-ad2e-53188d7065d5"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a51b773ea9c1c46b18ddcb29da47be0a.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a51b773ea9c1c46b18ddcb29da47be0a.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a51b773ea9c1c46b18ddcb29da47be0a.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a51b773ea9c1c46b18ddcb29da47be0a.jpg"
-          }
-        ],
-        "mbid": "5e9acb11-80ed-4eef-9e69-0253542a831a",
-        "url": "https://www.last.fm/music/Bremer%2FMcCoy/Utopia",
-        "playcount": "25",
-        "@attr": {
-          "rank": "1"
-        },
-        "name": "Utopia"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Deafheaven",
-          "name": "Deafheaven",
-          "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f87ad88f9b2d21b0d30f6b2371c4d7b.jpg"
-          }
-        ],
-        "mbid": "6d476142-2ced-4457-85ec-583fd8b235ac",
-        "url": "https://www.last.fm/music/Deafheaven/Lonely+People+With+Power",
-        "playcount": "24",
-        "@attr": {
-          "rank": "2"
-        },
-        "name": "Lonely People With Power"
-      },
-      {
-        "artist": {
           "url": "https://www.last.fm/music/death%27s+dynamic+shroud",
           "name": "death's dynamic shroud",
           "mbid": "e294d11b-fc47-41a9-b38b-3205c34d17ba"
@@ -74,60 +10,28 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ef9b096e18b39983191a7c575666c3e.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7ef9b096e18b39983191a7c575666c3e.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ef9b096e18b39983191a7c575666c3e.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7ef9b096e18b39983191a7c575666c3e.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ef9b096e18b39983191a7c575666c3e.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7ef9b096e18b39983191a7c575666c3e.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ef9b096e18b39983191a7c575666c3e.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7ef9b096e18b39983191a7c575666c3e.jpg"
           }
         ],
         "mbid": "",
         "url": "https://www.last.fm/music/death%27s+dynamic+shroud/I%27ll+Try+Living+Like+This",
         "playcount": "21",
         "@attr": {
-          "rank": "3"
+          "rank": "1"
         },
         "name": "I'll Try Living Like This"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Louis+Cole",
-          "name": "Louis Cole",
-          "mbid": ""
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/43c66a88e891be31b1e0ed6d80348061.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/43c66a88e891be31b1e0ed6d80348061.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/43c66a88e891be31b1e0ed6d80348061.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43c66a88e891be31b1e0ed6d80348061.png"
-          }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Louis+Cole/nothing",
-        "playcount": "17",
-        "@attr": {
-          "rank": "4"
-        },
-        "name": "nothing"
       },
       {
         "artist": {
@@ -138,37 +42,133 @@
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/34s/00ea30ee47c14dc79e38fc7e628f9b5f.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/00ea30ee47c14dc79e38fc7e628f9b5f.png"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/64s/00ea30ee47c14dc79e38fc7e628f9b5f.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/00ea30ee47c14dc79e38fc7e628f9b5f.png"
           },
           {
             "size": "large",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/174s/00ea30ee47c14dc79e38fc7e628f9b5f.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/00ea30ee47c14dc79e38fc7e628f9b5f.png"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00ea30ee47c14dc79e38fc7e628f9b5f.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/00ea30ee47c14dc79e38fc7e628f9b5f.png"
           }
         ],
         "mbid": "48a9aa5b-ac83-4c6b-b3b8-270101319cb3",
         "url": "https://www.last.fm/music/Nicolas+Jaar/Space+Is+Only+Noise",
         "playcount": "17",
         "@attr": {
-          "rank": "5"
+          "rank": "2"
         },
         "name": "Space Is Only Noise"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/ChillHop+Music",
+          "name": "ChillHop Music",
+          "mbid": ""
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/eb47209c53008e9bbc13ba6b55ee8627.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/eb47209c53008e9bbc13ba6b55ee8627.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/eb47209c53008e9bbc13ba6b55ee8627.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb47209c53008e9bbc13ba6b55ee8627.jpg"
+          }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/ChillHop+Music/Chillhop+Essentials+Summer+2026",
+        "playcount": "14",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "Chillhop Essentials Summer 2026"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
+          "name": "Daði Freyr",
+          "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/465257d367fd21adb390d21801ad735b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/465257d367fd21adb390d21801ad735b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/465257d367fd21adb390d21801ad735b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/465257d367fd21adb390d21801ad735b.jpg"
+          }
+        ],
+        "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
+        "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
+        "playcount": "13",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "Too Much Not Enough"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/HANG+YOUTH",
+          "name": "HANG YOUTH",
+          "mbid": "45ec91f2-289f-41f0-903f-868b61775500"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e6563295496bf541b2297697d0d86558.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e6563295496bf541b2297697d0d86558.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e6563295496bf541b2297697d0d86558.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e6563295496bf541b2297697d0d86558.jpg"
+          }
+        ],
+        "mbid": "4bc02b5c-76f7-47f0-82c6-d615341739b3",
+        "url": "https://www.last.fm/music/HANG+YOUTH/BOEL+AAN+DE+HAND",
+        "playcount": "13",
+        "@attr": {
+          "rank": "5"
+        },
+        "name": "BOEL AAN DE HAND"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "20",
+      "totalPages": "13",
       "page": "1",
-      "total": "97",
+      "total": "64",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-07-31T10:28:20.136Z"
+  "generatedAt": "2026-08-07T08:46:11.299Z"
 }
