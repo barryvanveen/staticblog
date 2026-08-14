@@ -3,38 +3,6 @@
     "album": [
       {
         "artist": {
-          "url": "https://www.last.fm/music/death%27s+dynamic+shroud",
-          "name": "death's dynamic shroud",
-          "mbid": "e294d11b-fc47-41a9-b38b-3205c34d17ba"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7ef9b096e18b39983191a7c575666c3e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7ef9b096e18b39983191a7c575666c3e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7ef9b096e18b39983191a7c575666c3e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7ef9b096e18b39983191a7c575666c3e.jpg"
-          }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/death%27s+dynamic+shroud/I%27ll+Try+Living+Like+This",
-        "playcount": "21",
-        "@attr": {
-          "rank": "1"
-        },
-        "name": "I'll Try Living Like This"
-      },
-      {
-        "artist": {
           "url": "https://www.last.fm/music/Nicolas+Jaar",
           "name": "Nicolas Jaar",
           "mbid": "06e99a1b-4020-4380-ab27-1a3e0c5e557c"
@@ -61,114 +29,146 @@
         "url": "https://www.last.fm/music/Nicolas+Jaar/Space+Is+Only+Noise",
         "playcount": "17",
         "@attr": {
-          "rank": "2"
+          "rank": "1"
         },
         "name": "Space Is Only Noise"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/ChillHop+Music",
-          "name": "ChillHop Music",
+          "url": "https://www.last.fm/music/Jonathan+Jeremiah",
+          "name": "Jonathan Jeremiah",
+          "mbid": "ca9ced31-4a6f-47ed-8032-fa3bad53fcd0"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2998fafa2f9574023d688e916c3cc53b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2998fafa2f9574023d688e916c3cc53b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2998fafa2f9574023d688e916c3cc53b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2998fafa2f9574023d688e916c3cc53b.jpg"
+          }
+        ],
+        "mbid": "5fc23952-670a-4120-aac8-4b7e429d60f7",
+        "url": "https://www.last.fm/music/Jonathan+Jeremiah/Gold+Dust",
+        "playcount": "12",
+        "@attr": {
+          "rank": "2"
+        },
+        "name": "Gold Dust"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Kings+of+Convenience",
+          "name": "Kings of Convenience",
+          "mbid": "cf0f4547-ffbd-4011-98ad-0bec9ba022db"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/6c1106b77805424ca869a01ff48b4f41.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/6c1106b77805424ca869a01ff48b4f41.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/6c1106b77805424ca869a01ff48b4f41.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6c1106b77805424ca869a01ff48b4f41.png"
+          }
+        ],
+        "mbid": "20ed310c-85d6-4c31-b76f-e7285eef5cf4",
+        "url": "https://www.last.fm/music/Kings+of+Convenience/Riot+on+an+Empty+Street",
+        "playcount": "12",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "Riot on an Empty Street"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Marcus+Miller",
+          "name": "Marcus Miller",
           "mbid": ""
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/eb47209c53008e9bbc13ba6b55ee8627.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/a33d9cb6a81e81a19365a7e3270aab8b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/eb47209c53008e9bbc13ba6b55ee8627.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/a33d9cb6a81e81a19365a7e3270aab8b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/eb47209c53008e9bbc13ba6b55ee8627.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/a33d9cb6a81e81a19365a7e3270aab8b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eb47209c53008e9bbc13ba6b55ee8627.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a33d9cb6a81e81a19365a7e3270aab8b.jpg"
           }
         ],
         "mbid": "",
-        "url": "https://www.last.fm/music/ChillHop+Music/Chillhop+Essentials+Summer+2026",
-        "playcount": "14",
-        "@attr": {
-          "rank": "3"
-        },
-        "name": "Chillhop Essentials Summer 2026"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
-          "name": "Daði Freyr",
-          "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/465257d367fd21adb390d21801ad735b.jpg"
-          }
-        ],
-        "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
-        "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
-        "playcount": "13",
+        "url": "https://www.last.fm/music/Marcus+Miller/Thunder",
+        "playcount": "12",
         "@attr": {
           "rank": "4"
         },
-        "name": "Too Much Not Enough"
+        "name": "Thunder"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/HANG+YOUTH",
-          "name": "HANG YOUTH",
-          "mbid": "45ec91f2-289f-41f0-903f-868b61775500"
+          "url": "https://www.last.fm/music/Hath",
+          "name": "Hath",
+          "mbid": "fc58ce07-a76a-49e7-8268-33af977913e1"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e6563295496bf541b2297697d0d86558.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/419434481c3ddb8d5ad9da35267fc960.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e6563295496bf541b2297697d0d86558.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/419434481c3ddb8d5ad9da35267fc960.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e6563295496bf541b2297697d0d86558.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/419434481c3ddb8d5ad9da35267fc960.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e6563295496bf541b2297697d0d86558.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/419434481c3ddb8d5ad9da35267fc960.jpg"
           }
         ],
-        "mbid": "4bc02b5c-76f7-47f0-82c6-d615341739b3",
-        "url": "https://www.last.fm/music/HANG+YOUTH/BOEL+AAN+DE+HAND",
-        "playcount": "13",
+        "mbid": "9ae30deb-1bd2-41d1-bc61-78797f16e078",
+        "url": "https://www.last.fm/music/Hath/All+That+Was+Promised",
+        "playcount": "11",
         "@attr": {
           "rank": "5"
         },
-        "name": "BOEL AAN DE HAND"
+        "name": "All That Was Promised"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "13",
+      "totalPages": "4",
       "page": "1",
-      "total": "64",
+      "total": "19",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-08-07T08:46:11.299Z"
+  "generatedAt": "2026-08-14T08:58:39.027Z"
 }
