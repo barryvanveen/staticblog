@@ -3,172 +3,44 @@
     "album": [
       {
         "artist": {
-          "url": "https://www.last.fm/music/Cloudkicker",
-          "name": "Cloudkicker",
-          "mbid": "88203975-e950-49bd-9b6f-497f1edba2c1"
+          "url": "https://www.last.fm/music/Witchsorrow",
+          "name": "Witchsorrow",
+          "mbid": "060c2eff-7b32-4ee9-a151-3d78b3cb81ca"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3f5f6702a56546b6b95672201b521d65.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2754b535c986c799017879431befd435.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3f5f6702a56546b6b95672201b521d65.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2754b535c986c799017879431befd435.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3f5f6702a56546b6b95672201b521d65.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2754b535c986c799017879431befd435.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3f5f6702a56546b6b95672201b521d65.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2754b535c986c799017879431befd435.jpg"
           }
         ],
-        "mbid": "396d0c4d-4e2e-4f03-9b1a-cf62c25ebda9",
-        "url": "https://www.last.fm/music/Cloudkicker/Let+Yourself+Be+Huge",
-        "playcount": "7",
+        "mbid": "a000faf2-2ffd-4fc6-85d7-5ffb9b0f64e3",
+        "url": "https://www.last.fm/music/Witchsorrow/The+Devil+And+All+His+Works",
+        "playcount": "1",
         "@attr": {
           "rank": "1"
         },
-        "name": "Let Yourself Be Huge"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Jon+Hopkins",
-          "name": "Jon Hopkins",
-          "mbid": "0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/ff3372709e84c743bc27bb6959de006e.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/ff3372709e84c743bc27bb6959de006e.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/ff3372709e84c743bc27bb6959de006e.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/ff3372709e84c743bc27bb6959de006e.jpg"
-          }
-        ],
-        "mbid": "3f73bbc2-938a-4043-a8ea-48da6a60d8c9",
-        "url": "https://www.last.fm/music/Jon+Hopkins/Ritual",
-        "playcount": "7",
-        "@attr": {
-          "rank": "2"
-        },
-        "name": "Ritual"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Ahab",
-          "name": "Ahab",
-          "mbid": "b1f91f8b-a708-4e05-ace1-630816aa1566"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/996571bd58a94b19c436442a531de484.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/996571bd58a94b19c436442a531de484.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/996571bd58a94b19c436442a531de484.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/996571bd58a94b19c436442a531de484.png"
-          }
-        ],
-        "mbid": "4d29bf6e-4877-48a8-a633-b964575716dd",
-        "url": "https://www.last.fm/music/Ahab/The+Boats+Of+The+Glen+Carrig",
-        "playcount": "6",
-        "@attr": {
-          "rank": "3"
-        },
-        "name": "The Boats Of The Glen Carrig"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Destroyer",
-          "name": "Destroyer",
-          "mbid": ""
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/da2905ef7a8eea5ee0bc278df9c48dc2.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/da2905ef7a8eea5ee0bc278df9c48dc2.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/da2905ef7a8eea5ee0bc278df9c48dc2.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/da2905ef7a8eea5ee0bc278df9c48dc2.jpg"
-          }
-        ],
-        "mbid": "1731c6a7-fc6a-43a1-b408-4ce894ac7d69",
-        "url": "https://www.last.fm/music/Destroyer/Kaputt",
-        "playcount": "4",
-        "@attr": {
-          "rank": "4"
-        },
-        "name": "Kaputt"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Isis",
-          "name": "Isis",
-          "mbid": ""
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/f7847b80da434e45ce248be9537cfdd8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/f7847b80da434e45ce248be9537cfdd8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/f7847b80da434e45ce248be9537cfdd8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f7847b80da434e45ce248be9537cfdd8.jpg"
-          }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Isis/Oceanic+(Remastered)",
-        "playcount": "2",
-        "@attr": {
-          "rank": "5"
-        },
-        "name": "Oceanic (Remastered)"
+        "name": "The Devil And All His Works"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "2",
+      "totalPages": "1",
       "page": "1",
-      "total": "6",
-      "perPage": "5"
+      "perPage": "5",
+      "total": "1"
     }
   },
-  "generatedAt": "2026-08-21T08:27:48.252Z"
+  "generatedAt": "2026-08-28T19:47:00.100Z"
 }
