@@ -1,7 +1,7 @@
 ---
 title: Books that I have read
 layout: "books"
-lastmod: 2026-08-31T21:46:52+02:00
+lastmod: 2026-09-11T11:08:09+02:00
 summary: "A list of all the books I've read since 2015."
 url: "/about/books"
 ---
@@ -15,6 +15,7 @@ Below is a list of books that I've read. Just because I like to keep lists and I
 <!-- end currently reading -->
 
 ## 2026
+* [Days at the Morisaki Bookshop](https://www.goodreads.com/book/show/62047992-days-at-the-morisaki-bookshop) by Satoshi Yagisawa.
 * [The Fires of Heaven](https://www.goodreads.com/book/show/13895.The_Fires_of_Heaven) by Robert Jordan.
 * [Overal zit mens](https://www.goodreads.com/nl/book/show/62606781-overal-zit-mens) by Yves Petry.
 * [The Shadow Rising](https://www.goodreads.com/book/show/9539.The_Shadow_Rising) by Robert Jordan.
