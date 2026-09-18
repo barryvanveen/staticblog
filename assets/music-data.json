@@ -35,6 +35,70 @@
       },
       {
         "artist": {
+          "url": "https://www.last.fm/music/Madrugada",
+          "name": "Madrugada",
+          "mbid": ""
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/50538ce23713450fc59ce7a569e1af86.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/50538ce23713450fc59ce7a569e1af86.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/50538ce23713450fc59ce7a569e1af86.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/50538ce23713450fc59ce7a569e1af86.png"
+          }
+        ],
+        "mbid": "10d3d57b-422d-4eae-be6d-185c908d95a1",
+        "url": "https://www.last.fm/music/Madrugada/Industrial+Silence",
+        "playcount": "20",
+        "@attr": {
+          "rank": "2"
+        },
+        "name": "Industrial Silence"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Beaten+to+Death",
+          "name": "Beaten to Death",
+          "mbid": "af3267d8-5029-4f54-99fa-48fc5b2219c3"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2f145b4f2dca9e796bd328498ac421a6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2f145b4f2dca9e796bd328498ac421a6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2f145b4f2dca9e796bd328498ac421a6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2f145b4f2dca9e796bd328498ac421a6.jpg"
+          }
+        ],
+        "mbid": "9a2bf7cf-2255-48d3-a930-001ba8e21f32",
+        "url": "https://www.last.fm/music/Beaten+to+Death/D%C3%B8dsfest!",
+        "playcount": "16",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "Dødsfest!"
+      },
+      {
+        "artist": {
           "url": "https://www.last.fm/music/City+and+Colour",
           "name": "City and Colour",
           "mbid": "b1003bf1-25b8-41f4-a783-36060f987913"
@@ -61,7 +125,7 @@
         "url": "https://www.last.fm/music/City+and+Colour/Bring+Me+Your+Love+(Special+Edition)",
         "playcount": "15",
         "@attr": {
-          "rank": "2"
+          "rank": "4"
         },
         "name": "Bring Me Your Love (Special Edition)"
       },
@@ -93,82 +157,18 @@
         "url": "https://www.last.fm/music/Felbm/Tape+4",
         "playcount": "14",
         "@attr": {
-          "rank": "3"
-        },
-        "name": "Tape 4"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Colour+Haze",
-          "name": "Colour Haze",
-          "mbid": "028505e2-3cfb-477d-b58d-5c2cfebe85c8"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/6af36a40eeca036a9a5d6ae923946f6f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/6af36a40eeca036a9a5d6ae923946f6f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/6af36a40eeca036a9a5d6ae923946f6f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/6af36a40eeca036a9a5d6ae923946f6f.jpg"
-          }
-        ],
-        "mbid": "0363afeb-f1cf-4027-ab1f-0c6932da8453",
-        "url": "https://www.last.fm/music/Colour+Haze/In+Her+Garden",
-        "playcount": "13",
-        "@attr": {
-          "rank": "4"
-        },
-        "name": "In Her Garden"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
-          "name": "Daði Freyr",
-          "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/465257d367fd21adb390d21801ad735b.jpg"
-          }
-        ],
-        "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
-        "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
-        "playcount": "13",
-        "@attr": {
           "rank": "5"
         },
-        "name": "Too Much Not Enough"
+        "name": "Tape 4"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "21",
+      "totalPages": "30",
       "page": "1",
-      "total": "102",
+      "total": "146",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-09-11T12:26:43.321Z"
+  "generatedAt": "2026-09-18T12:29:37.754Z"
 }
