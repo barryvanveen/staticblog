@@ -3,6 +3,38 @@
     "album": [
       {
         "artist": {
+          "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
+          "name": "Daði Freyr",
+          "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/465257d367fd21adb390d21801ad735b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/465257d367fd21adb390d21801ad735b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/465257d367fd21adb390d21801ad735b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/465257d367fd21adb390d21801ad735b.jpg"
+          }
+        ],
+        "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
+        "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
+        "playcount": "25",
+        "@attr": {
+          "rank": "1"
+        },
+        "name": "Too Much Not Enough"
+      },
+      {
+        "artist": {
           "url": "https://www.last.fm/music/death%27s+dynamic+shroud",
           "name": "death's dynamic shroud",
           "mbid": "e294d11b-fc47-41a9-b38b-3205c34d17ba"
@@ -29,9 +61,41 @@
         "url": "https://www.last.fm/music/death%27s+dynamic+shroud/I%27ll+Try+Living+Like+This",
         "playcount": "23",
         "@attr": {
-          "rank": "1"
+          "rank": "2"
         },
         "name": "I'll Try Living Like This"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Lowswimmer",
+          "name": "Lowswimmer",
+          "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/029378a8c18370f03b81a3c1e2e37bf3.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/029378a8c18370f03b81a3c1e2e37bf3.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/029378a8c18370f03b81a3c1e2e37bf3.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/029378a8c18370f03b81a3c1e2e37bf3.png"
+          }
+        ],
+        "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
+        "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
+        "playcount": "23",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "Godspeed, Fantasy"
       },
       {
         "artist": {
@@ -61,114 +125,50 @@
         "url": "https://www.last.fm/music/Madrugada/Industrial+Silence",
         "playcount": "20",
         "@attr": {
-          "rank": "2"
+          "rank": "4"
         },
         "name": "Industrial Silence"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Beaten+to+Death",
-          "name": "Beaten to Death",
-          "mbid": "af3267d8-5029-4f54-99fa-48fc5b2219c3"
+          "url": "https://www.last.fm/music/Sungazer",
+          "name": "Sungazer",
+          "mbid": "beb404c4-9d0b-4042-a56c-aad7673c677d"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/2f145b4f2dca9e796bd328498ac421a6.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/d81f9de55bc9d52ab5634e78faa1e67b.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/2f145b4f2dca9e796bd328498ac421a6.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/d81f9de55bc9d52ab5634e78faa1e67b.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/2f145b4f2dca9e796bd328498ac421a6.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/d81f9de55bc9d52ab5634e78faa1e67b.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2f145b4f2dca9e796bd328498ac421a6.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d81f9de55bc9d52ab5634e78faa1e67b.jpg"
           }
         ],
-        "mbid": "9a2bf7cf-2255-48d3-a930-001ba8e21f32",
-        "url": "https://www.last.fm/music/Beaten+to+Death/D%C3%B8dsfest!",
-        "playcount": "16",
-        "@attr": {
-          "rank": "3"
-        },
-        "name": "Dødsfest!"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/City+and+Colour",
-          "name": "City and Colour",
-          "mbid": "b1003bf1-25b8-41f4-a783-36060f987913"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/343500aae8dc7aaedbd6f4ddd6d75405.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/343500aae8dc7aaedbd6f4ddd6d75405.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/343500aae8dc7aaedbd6f4ddd6d75405.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/343500aae8dc7aaedbd6f4ddd6d75405.jpg"
-          }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/City+and+Colour/Bring+Me+Your+Love+(Special+Edition)",
-        "playcount": "15",
-        "@attr": {
-          "rank": "4"
-        },
-        "name": "Bring Me Your Love (Special Edition)"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Felbm",
-          "name": "Felbm",
-          "mbid": "ca2f14e2-687f-48e3-b57e-5aac481078ce"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/d68d1d59ae8cb825ec3e4a3d44a2d96c.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/d68d1d59ae8cb825ec3e4a3d44a2d96c.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/d68d1d59ae8cb825ec3e4a3d44a2d96c.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d68d1d59ae8cb825ec3e4a3d44a2d96c.jpg"
-          }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Felbm/Tape+4",
-        "playcount": "14",
+        "mbid": "f904956f-89ac-4136-befb-a0ac98d301b8",
+        "url": "https://www.last.fm/music/Sungazer/Against+the+Fall+of+Night",
+        "playcount": "19",
         "@attr": {
           "rank": "5"
         },
-        "name": "Tape 4"
+        "name": "Against the Fall of Night"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "30",
+      "totalPages": "35",
       "page": "1",
-      "total": "146",
+      "total": "171",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-09-18T12:29:37.754Z"
+  "generatedAt": "2026-09-25T13:06:26.605Z"
 }
