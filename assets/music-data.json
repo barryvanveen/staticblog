@@ -3,38 +3,6 @@
     "album": [
       {
         "artist": {
-          "url": "https://www.last.fm/music/City+and+Colour",
-          "name": "City and Colour",
-          "mbid": "b1003bf1-25b8-41f4-a783-36060f987913"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/343500aae8dc7aaedbd6f4ddd6d75405.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/343500aae8dc7aaedbd6f4ddd6d75405.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/343500aae8dc7aaedbd6f4ddd6d75405.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/343500aae8dc7aaedbd6f4ddd6d75405.jpg"
-          }
-        ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/City+and+Colour/Bring+Me+Your+Love+(Special+Edition)",
-        "playcount": "26",
-        "@attr": {
-          "rank": "1"
-        },
-        "name": "Bring Me Your Love (Special Edition)"
-      },
-      {
-        "artist": {
           "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
           "name": "Daði Freyr",
           "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
@@ -59,9 +27,9 @@
         ],
         "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
         "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
-        "playcount": "24",
+        "playcount": "36",
         "@attr": {
-          "rank": "2"
+          "rank": "1"
         },
         "name": "Too Much Not Enough"
       },
@@ -93,82 +61,114 @@
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
         "playcount": "20",
         "@attr": {
-          "rank": "3"
+          "rank": "2"
         },
         "name": "Godspeed, Fantasy"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Madrugada",
-          "name": "Madrugada",
+          "url": "https://www.last.fm/music/Middle+Blue",
+          "name": "Middle Blue",
           "mbid": ""
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/50538ce23713450fc59ce7a569e1af86.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/78d641dfd7855152f1a161b3bb14a889.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/50538ce23713450fc59ce7a569e1af86.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/78d641dfd7855152f1a161b3bb14a889.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/50538ce23713450fc59ce7a569e1af86.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/78d641dfd7855152f1a161b3bb14a889.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/50538ce23713450fc59ce7a569e1af86.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/78d641dfd7855152f1a161b3bb14a889.jpg"
           }
         ],
-        "mbid": "10d3d57b-422d-4eae-be6d-185c908d95a1",
-        "url": "https://www.last.fm/music/Madrugada/Industrial+Silence",
+        "mbid": "",
+        "url": "https://www.last.fm/music/Middle+Blue/Love+Chords",
         "playcount": "20",
         "@attr": {
-          "rank": "4"
+          "rank": "3"
         },
-        "name": "Industrial Silence"
+        "name": "Love Chords"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Sungazer",
-          "name": "Sungazer",
-          "mbid": "beb404c4-9d0b-4042-a56c-aad7673c677d"
+          "url": "https://www.last.fm/music/Fraternal+Twin",
+          "name": "Fraternal Twin",
+          "mbid": ""
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/d81f9de55bc9d52ab5634e78faa1e67b.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/0494e92381fd7a131fef1d96d943a3b8.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/d81f9de55bc9d52ab5634e78faa1e67b.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/0494e92381fd7a131fef1d96d943a3b8.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/d81f9de55bc9d52ab5634e78faa1e67b.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/0494e92381fd7a131fef1d96d943a3b8.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d81f9de55bc9d52ab5634e78faa1e67b.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0494e92381fd7a131fef1d96d943a3b8.jpg"
           }
         ],
-        "mbid": "f904956f-89ac-4136-befb-a0ac98d301b8",
-        "url": "https://www.last.fm/music/Sungazer/Against+the+Fall+of+Night",
+        "mbid": "e2de985a-57dc-46bb-89db-6f0e17b9dccb",
+        "url": "https://www.last.fm/music/Fraternal+Twin/Halo+Fell+Forever",
+        "playcount": "19",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "Halo Fell Forever"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Have+a+Nice+Life",
+          "name": "Have a Nice Life",
+          "mbid": "70923a5d-d3ba-4ef7-9064-ea5f709aa076"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
+          }
+        ],
+        "mbid": "1b354727-7edb-4216-b416-67a4a9030fb4",
+        "url": "https://www.last.fm/music/Have+a+Nice+Life/Deathconsciousness",
         "playcount": "19",
         "@attr": {
           "rank": "5"
         },
-        "name": "Against the Fall of Night"
+        "name": "Deathconsciousness"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "38",
+      "totalPages": "36",
       "page": "1",
-      "total": "189",
+      "total": "180",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-10-02T14:18:15.738Z"
+  "generatedAt": "2026-10-09T14:47:21.963Z"
 }
