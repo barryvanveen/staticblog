@@ -35,6 +35,38 @@
       },
       {
         "artist": {
+          "url": "https://www.last.fm/music/Grote+Geelstaart",
+          "name": "Grote Geelstaart",
+          "mbid": "7b8ce4eb-9be4-4f73-b677-53b6f66c2214"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7a34570ac39577c0184bf251c6d02ea6.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7a34570ac39577c0184bf251c6d02ea6.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7a34570ac39577c0184bf251c6d02ea6.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7a34570ac39577c0184bf251c6d02ea6.jpg"
+          }
+        ],
+        "mbid": "3e639bc4-8873-4e65-a186-4905ec0f74fc",
+        "url": "https://www.last.fm/music/Grote+Geelstaart/Wij+zinken",
+        "playcount": "23",
+        "@attr": {
+          "rank": "2"
+        },
+        "name": "Wij zinken"
+      },
+      {
+        "artist": {
           "url": "https://www.last.fm/music/Lowswimmer",
           "name": "Lowswimmer",
           "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
@@ -61,41 +93,41 @@
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
         "playcount": "20",
         "@attr": {
-          "rank": "2"
+          "rank": "3"
         },
         "name": "Godspeed, Fantasy"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Middle+Blue",
-          "name": "Middle Blue",
-          "mbid": ""
+          "url": "https://www.last.fm/music/Earth+Tongue",
+          "name": "Earth Tongue",
+          "mbid": "e8953f62-0a60-4450-8d2a-482281ec966e"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/78d641dfd7855152f1a161b3bb14a889.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/78d641dfd7855152f1a161b3bb14a889.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/78d641dfd7855152f1a161b3bb14a889.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/78d641dfd7855152f1a161b3bb14a889.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
           }
         ],
-        "mbid": "",
-        "url": "https://www.last.fm/music/Middle+Blue/Love+Chords",
-        "playcount": "20",
+        "mbid": "cee154bb-1401-408a-aa88-2a8c2f037272",
+        "url": "https://www.last.fm/music/Earth+Tongue/Great+Haunting",
+        "playcount": "19",
         "@attr": {
-          "rank": "3"
+          "rank": "4"
         },
-        "name": "Love Chords"
+        "name": "Great Haunting"
       },
       {
         "artist": {
@@ -125,50 +157,18 @@
         "url": "https://www.last.fm/music/Fraternal+Twin/Halo+Fell+Forever",
         "playcount": "19",
         "@attr": {
-          "rank": "4"
-        },
-        "name": "Halo Fell Forever"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Have+a+Nice+Life",
-          "name": "Have a Nice Life",
-          "mbid": "70923a5d-d3ba-4ef7-9064-ea5f709aa076"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5ff5a7ea9cd5487661647c9d5a1453e4.jpg"
-          }
-        ],
-        "mbid": "1b354727-7edb-4216-b416-67a4a9030fb4",
-        "url": "https://www.last.fm/music/Have+a+Nice+Life/Deathconsciousness",
-        "playcount": "19",
-        "@attr": {
           "rank": "5"
         },
-        "name": "Deathconsciousness"
+        "name": "Halo Fell Forever"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "36",
+      "totalPages": "40",
       "page": "1",
-      "total": "180",
+      "total": "200",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-10-09T14:47:21.963Z"
+  "generatedAt": "2026-10-16T12:51:27.798Z"
 }
