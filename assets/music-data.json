@@ -3,102 +3,6 @@
     "album": [
       {
         "artist": {
-          "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
-          "name": "Daði Freyr",
-          "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/465257d367fd21adb390d21801ad735b.jpg"
-          }
-        ],
-        "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
-        "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
-        "playcount": "36",
-        "@attr": {
-          "rank": "1"
-        },
-        "name": "Too Much Not Enough"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Grote+Geelstaart",
-          "name": "Grote Geelstaart",
-          "mbid": "7b8ce4eb-9be4-4f73-b677-53b6f66c2214"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/7a34570ac39577c0184bf251c6d02ea6.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/7a34570ac39577c0184bf251c6d02ea6.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/7a34570ac39577c0184bf251c6d02ea6.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7a34570ac39577c0184bf251c6d02ea6.jpg"
-          }
-        ],
-        "mbid": "3e639bc4-8873-4e65-a186-4905ec0f74fc",
-        "url": "https://www.last.fm/music/Grote+Geelstaart/Wij+zinken",
-        "playcount": "23",
-        "@attr": {
-          "rank": "2"
-        },
-        "name": "Wij zinken"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Lowswimmer",
-          "name": "Lowswimmer",
-          "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/029378a8c18370f03b81a3c1e2e37bf3.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/029378a8c18370f03b81a3c1e2e37bf3.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/029378a8c18370f03b81a3c1e2e37bf3.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/029378a8c18370f03b81a3c1e2e37bf3.png"
-          }
-        ],
-        "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
-        "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
-        "playcount": "20",
-        "@attr": {
-          "rank": "3"
-        },
-        "name": "Godspeed, Fantasy"
-      },
-      {
-        "artist": {
           "url": "https://www.last.fm/music/Earth+Tongue",
           "name": "Earth Tongue",
           "mbid": "e8953f62-0a60-4450-8d2a-482281ec966e"
@@ -123,11 +27,107 @@
         ],
         "mbid": "cee154bb-1401-408a-aa88-2a8c2f037272",
         "url": "https://www.last.fm/music/Earth+Tongue/Great+Haunting",
-        "playcount": "19",
+        "playcount": "28",
+        "@attr": {
+          "rank": "1"
+        },
+        "name": "Great Haunting"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Alice+in+Chains",
+          "name": "Alice in Chains",
+          "mbid": "4bd95eea-b9f6-4d70-a36c-cfea77431553"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5c4b6583f6112eaa243f12ca00527068.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5c4b6583f6112eaa243f12ca00527068.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5c4b6583f6112eaa243f12ca00527068.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c4b6583f6112eaa243f12ca00527068.jpg"
+          }
+        ],
+        "mbid": "e83ad027-db6b-4dc8-aaa5-866a00d1e17f",
+        "url": "https://www.last.fm/music/Alice+in+Chains/Dirt+(2022+Remaster)",
+        "playcount": "27",
+        "@attr": {
+          "rank": "2"
+        },
+        "name": "Dirt (2022 Remaster)"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
+          "name": "Daði Freyr",
+          "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/465257d367fd21adb390d21801ad735b.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/465257d367fd21adb390d21801ad735b.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/465257d367fd21adb390d21801ad735b.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/465257d367fd21adb390d21801ad735b.jpg"
+          }
+        ],
+        "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
+        "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
+        "playcount": "24",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "Too Much Not Enough"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/The+Notwist",
+          "name": "The Notwist",
+          "mbid": ""
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
+          }
+        ],
+        "mbid": "ad9646dc-1d0e-407c-b8be-1dcce4bcb4b5",
+        "url": "https://www.last.fm/music/The+Notwist/News+from+Planet+Zombie",
+        "playcount": "23",
         "@attr": {
           "rank": "4"
         },
-        "name": "Great Haunting"
+        "name": "News from Planet Zombie"
       },
       {
         "artist": {
@@ -164,11 +164,11 @@
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "40",
+      "totalPages": "45",
       "page": "1",
-      "total": "200",
+      "total": "221",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-10-16T12:51:27.798Z"
+  "generatedAt": "2026-10-23T12:57:34.198Z"
 }
