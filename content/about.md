@@ -12,10 +12,11 @@ Also, it serves as a personal collection of tips and tricks so I don't have to g
 
 ## Hobbies
 In my free time I enjoy:
-- 🏃 Running, swimming and hiking.
+- 🏃 Running, cycling and hiking.
 - 🐦‍⬛ Bird watching, identifying wild plants and insects.
 - 📖 [Reading]({{< ref "/books.md" >}}). I've been keeping a list of all books I read since 2015.
 - 🎧 [Listening to music]({{< ref "/music.md" >}}). From doom metal to funk. Lots of instrumental music.
+- 📽️ [Watch all movies by Nicolas Cage]({{< ref "/nicolas_cage.md" >}}). Because terrible ideas are fun.
 
 ## Open source projects
 * [barryvanveen/staticblog](https://github.com/barryvanveen/staticblog), source code for this blog build with Hugo.

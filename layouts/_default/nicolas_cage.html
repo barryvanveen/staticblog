@@ -1,0 +1,86 @@
+{{ partial "header.html" . }}
+
+<div class="flex grow pt-8">
+    <main role="main">
+        <div class="container-max-md pb-8">
+
+            <article itemprop="mainEntity">
+                <header>
+                    <h1 itemprop="name">
+                        {{ .Title }}
+                    </h1>
+                </header>
+
+                <div itemprop="text">
+                    {{ .Content }}
+                </div>
+
+                <span class="divider"></span>
+
+                {{ $dataFile := resources.Get "nicolas-cage-movies.json" }}
+                {{ if $dataFile }}
+                    {{ $movies := $dataFile.Content | transform.Unmarshal }}
+                    {{ $movieCount := len $movies }}
+                    {{ $seenCount := len (where $movies "seen" true) }}
+                    {{ $percentage := 0 }}
+                    {{ if gt $movieCount 0 }}
+                        {{ $percentage = div (mul $seenCount 100) $movieCount }}
+                    {{ end }}
+
+                    <section aria-label="Nicolas Cage movies">
+                        <div class="rounded-lg border border-gray-200 bg-gray-50 p-5">
+                            <div class="mb-2 flex flex-wrap items-baseline justify-between gap-x-4">
+                                <h2 class="m-0 text-xl font-bold">Progress</h2>
+                                <p class="m-0 text-sm text-gray-700">
+                                    {{ $seenCount }} of {{ $movieCount }} movies watched ({{ $percentage }}%)
+                                </p>
+                            </div>
+                            <progress class="h-3 w-full accent-dark-teal"
+                                      value="{{ $seenCount }}" max="{{ $movieCount }}"
+                                      aria-label="Movies watched"></progress>
+                        </div>
+
+                        {{ $currentYear := 0 }}
+                        {{ range $movie := sort $movies "year" "desc" }}
+                            {{ if ne $movie.year $currentYear }}
+                                {{ if ne $currentYear 0 }}
+                                    </ul>
+                                </section>
+                                {{ end }}
+                                <section aria-labelledby="movies-{{ $movie.year }}">
+                                    <h2 id="movies-{{ $movie.year }}" class="mt-8">
+                                        {{ $movie.year }}
+                                    </h2>
+                                    <ul class="my-4 flex list-none flex-col gap-2 p-0">
+                                {{ $currentYear = $movie.year }}
+                            {{ end }}
+                            <li class="m-0 flex flex-wrap items-center gap-x-4 gap-y-2 rounded-lg border border-gray-200 px-4 py-3 {{ if $movie.seen }}border-emerald-200 bg-emerald-50{{ end }}">
+                                <span class="w-5 shrink-0 text-center text-xl leading-none {{ if $movie.seen }}text-emerald-700{{ else }}text-gray-400{{ end }}"
+                                      aria-label="{{ if $movie.seen }}Watched{{ else }}Not watched{{ end }}"
+                                      role="img">{{ if $movie.seen }}✓{{ else }}□{{ end }}</span>
+                                <span class="flex-1">
+                                    <span class="font-semibold">{{ $movie.name }}</span>
+                                    {{ if $movie.uncredited }}<span class="text-sm text-gray-600">(uncredited)</span>{{ end }}
+                                    {{ if $movie.voice }}<span class="text-sm text-gray-600">(voice)</span>{{ end }}
+                                    {{ if $movie.favorite }}<span title="Favorite">🔥<span class="sr-only"> Favorite</span></span>{{ end }}
+                                </span>
+                                {{ $rating := math.Add $movie.rating 0.0 }}
+                                <span class="w-10 text-right text-sm tabular-nums text-gray-600"
+                                      aria-label="IMDb rating {{ printf "%.1f" $rating }} out of 10">{{ printf "%.1f" $rating }}</span>
+                                <div class="flex shrink-0 gap-3 text-sm">
+                                    <a href="{{ $movie.imdb }}" target="_blank" rel="noopener noreferrer">IMDb</a>
+                                </div>
+                            </li>
+                        {{ end }}
+                        </ul>
+                    </section>
+                    </section>
+                {{ else }}
+                    {{ errorf "Movies data file not found." }}
+                {{ end }}
+            </article>
+        </div>
+    </main>
+</div>
+
+{{ partial "footer.html" . }}

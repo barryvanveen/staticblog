@@ -1,0 +1,1182 @@
+[
+  {
+    "name": "The Carpenter's Son",
+    "year": 2025,
+    "imdb": "https://www.imdb.com/title/tt32304349/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Gunslingers",
+    "year": 2025,
+    "imdb": "https://www.imdb.com/title/tt24850708/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 3.6
+  },
+  {
+    "name": "Arcadian",
+    "year": 2024,
+    "imdb": "https://www.imdb.com/title/tt22939186/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.5
+  },
+  {
+    "name": "Longlegs",
+    "year": 2024,
+    "imdb": "https://www.imdb.com/title/tt23468450/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.5
+  },
+  {
+    "name": "The Surfer",
+    "year": 2024,
+    "imdb": "https://www.imdb.com/title/tt27813235/",
+    "seen": true,
+    "favorite": true,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.9
+  },
+  {
+    "name": "The Retirement Plan",
+    "year": 2023,
+    "imdb": "https://www.imdb.com/title/tt14827638/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.1
+  },
+  {
+    "name": "Dream Scenario",
+    "year": 2023,
+    "imdb": "https://www.imdb.com/title/tt21942866/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.8
+  },
+  {
+    "name": "Sympathy for the Devil",
+    "year": 2023,
+    "imdb": "https://www.imdb.com/title/tt21991654/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.5
+  },
+  {
+    "name": "The Flash",
+    "year": 2023,
+    "imdb": "https://www.imdb.com/title/tt0439572/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": true,
+    "voice": false,
+    "rating": 6.6
+  },
+  {
+    "name": "Renfield",
+    "year": 2023,
+    "imdb": "https://www.imdb.com/title/tt11358390/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.4
+  },
+  {
+    "name": "The Old Way",
+    "year": 2023,
+    "imdb": "https://www.imdb.com/title/tt8593824/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.6
+  },
+  {
+    "name": "Butcher's Crossing",
+    "year": 2022,
+    "imdb": "https://www.imdb.com/title/tt1462759/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.6
+  },
+  {
+    "name": "The Unbearable Weight of Massive Talent",
+    "year": 2022,
+    "imdb": "https://www.imdb.com/title/tt11291274/",
+    "seen": true,
+    "favorite": true,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.0
+  },
+  {
+    "name": "Pig",
+    "year": 2021,
+    "imdb": "https://www.imdb.com/title/tt11003218/",
+    "seen": true,
+    "favorite": true,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.9
+  },
+  {
+    "name": "Willy's Wonderland",
+    "year": 2021,
+    "imdb": "https://www.imdb.com/title/tt8114980/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.5
+  },
+  {
+    "name": "Prisoners of the Ghostland",
+    "year": 2021,
+    "imdb": "https://www.imdb.com/title/tt6372694/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.2
+  },
+  {
+    "name": "The Croods 2: A New Age",
+    "year": 2020,
+    "imdb": "https://www.imdb.com/title/tt2850386/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": true,
+    "rating": 6.9
+  },
+  {
+    "name": "Jiu Jitsu",
+    "year": 2020,
+    "imdb": "https://www.imdb.com/title/tt9624766/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 2.9
+  },
+  {
+    "name": "Trapped",
+    "year": 2019,
+    "imdb": "https://www.imdb.com/title/tt8380776/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Primal",
+    "year": 2019,
+    "imdb": "https://www.imdb.com/title/tt7394816/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.9
+  },
+  {
+    "name": "Kill Chain",
+    "year": 2019,
+    "imdb": "https://www.imdb.com/title/tt8535180/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.1
+  },
+  {
+    "name": "Running with the Devil",
+    "year": 2019,
+    "imdb": "https://www.imdb.com/title/tt5792656/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.4
+  },
+  {
+    "name": "Color Out of Space",
+    "year": 2019,
+    "imdb": "https://www.imdb.com/title/tt5073642/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.1
+  },
+  {
+    "name": "A Score to Settle",
+    "year": 2019,
+    "imdb": "https://www.imdb.com/title/tt3758162/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Spider-Man: Into the spider-verse",
+    "year": 2018,
+    "imdb": "https://www.imdb.com/title/tt4633694/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": true,
+    "rating": 8.4
+  },
+  {
+    "name": "Between Worlds",
+    "year": 2018,
+    "imdb": "https://www.imdb.com/title/tt7295450/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 3.9
+  },
+  {
+    "name": "Teen Titans Go! To the Movies",
+    "year": 2018,
+    "imdb": "https://www.imdb.com/title/tt7424200/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": true,
+    "rating": 6.7
+  },
+  {
+    "name": "211",
+    "year": 2018,
+    "imdb": "https://www.imdb.com/title/tt4976192/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.4
+  },
+  {
+    "name": "The Watcher",
+    "year": 2018,
+    "imdb": "https://www.imdb.com/title/tt6083648/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Mandy",
+    "year": 2018,
+    "imdb": "https://www.imdb.com/title/tt6998518/",
+    "seen": true,
+    "favorite": true,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.5
+  },
+  {
+    "name": "Dark",
+    "year": 2017,
+    "imdb": "https://www.imdb.com/title/tt5753856/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.9
+  },
+  {
+    "name": "The Humanity Bureau",
+    "year": 2017,
+    "imdb": "https://www.imdb.com/title/tt6143568/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Mom and Dad",
+    "year": 2017,
+    "imdb": "https://www.imdb.com/title/tt5462326/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.6
+  },
+  {
+    "name": "Inconceivable",
+    "year": 2017,
+    "imdb": "https://www.imdb.com/title/tt3481634/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.2
+  },
+  {
+    "name": "Vengeance: A Love Story",
+    "year": 2017,
+    "imdb": "https://www.imdb.com/title/tt5460530/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.2
+  },
+  {
+    "name": "Arsenal",
+    "year": 2017,
+    "imdb": "https://www.imdb.com/title/tt5580536/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.0
+  },
+  {
+    "name": "Army of One",
+    "year": 2016,
+    "imdb": "https://www.imdb.com/title/tt4382824/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.2
+  },
+  {
+    "name": "USS Indianapolis: Men of Courage",
+    "year": 2016,
+    "imdb": "https://www.imdb.com/title/tt2032572/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.3
+  },
+  {
+    "name": "Snowden",
+    "year": 2016,
+    "imdb": "https://www.imdb.com/title/tt3774114/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.3
+  },
+  {
+    "name": "Dead by Daylight",
+    "year": 2016,
+    "imdb": "https://www.imdb.com/title/tt7079558/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": true,
+    "rating": 7.2
+  },
+  {
+    "name": "Dog Eat Dog",
+    "year": 2016,
+    "imdb": "https://www.imdb.com/title/tt4054654/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.8
+  },
+  {
+    "name": "The Trust",
+    "year": 2016,
+    "imdb": "https://www.imdb.com/title/tt3733774/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.5
+  },
+  {
+    "name": "Pay the Ghost",
+    "year": 2015,
+    "imdb": "https://www.imdb.com/title/tt3733778/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.2
+  },
+  {
+    "name": "The Runner",
+    "year": 2015,
+    "imdb": "https://www.imdb.com/title/tt3687398/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.7
+  },
+  {
+    "name": "Dying of the Light",
+    "year": 2014,
+    "imdb": "https://www.imdb.com/title/tt1274586/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.5
+  },
+  {
+    "name": "Left Behind",
+    "year": 2014,
+    "imdb": "https://www.imdb.com/title/tt2467046/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 3.2
+  },
+  {
+    "name": "Outcast",
+    "year": 2014,
+    "imdb": "https://www.imdb.com/title/tt1552224/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Tokarev",
+    "year": 2014,
+    "imdb": "https://www.imdb.com/title/tt2401807/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.0
+  },
+  {
+    "name": "Joe",
+    "year": 2013,
+    "imdb": "https://www.imdb.com/title/tt2382396/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.8
+  },
+  {
+    "name": "The Croods",
+    "year": 2013,
+    "imdb": "https://www.imdb.com/title/tt0481499/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": true,
+    "rating": 7.1
+  },
+  {
+    "name": "The Frozen Ground",
+    "year": 2013,
+    "imdb": "https://www.imdb.com/title/tt2005374/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.4
+  },
+  {
+    "name": "Stolen",
+    "year": 2012,
+    "imdb": "https://www.imdb.com/title/tt1656186/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.5
+  },
+  {
+    "name": "Ghost Rider: Spirit of Vengeance",
+    "year": 2011,
+    "imdb": "https://www.imdb.com/title/tt1071875/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Trespass",
+    "year": 2011,
+    "imdb": "https://www.imdb.com/title/tt1674784/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.3
+  },
+  {
+    "name": "Seeking Justice",
+    "year": 2011,
+    "imdb": "https://www.imdb.com/title/tt1214962/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.1
+  },
+  {
+    "name": "Drive Angry",
+    "year": 2011,
+    "imdb": "https://www.imdb.com/title/tt1502404/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.4
+  },
+  {
+    "name": "Season of the Witch",
+    "year": 2011,
+    "imdb": "https://www.imdb.com/title/tt0479997/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.4
+  },
+  {
+    "name": "The Sorcerer's Apprentice",
+    "year": 2010,
+    "imdb": "https://www.imdb.com/title/tt0963966/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.1
+  },
+  {
+    "name": "Kick-Ass",
+    "year": 2010,
+    "imdb": "https://www.imdb.com/title/tt1250777/",
+    "seen": true,
+    "favorite": true,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.6
+  },
+  {
+    "name": "Astro Boy",
+    "year": 2009,
+    "imdb": "https://www.imdb.com/title/tt0375568/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": true,
+    "rating": 6.3
+  },
+  {
+    "name": "Bad Lieutenant: Port of Call New Orleans",
+    "year": 2009,
+    "imdb": "https://www.imdb.com/title/tt1095217/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.6
+  },
+  {
+    "name": "G-Force",
+    "year": 2009,
+    "imdb": "https://www.imdb.com/title/tt0436339/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": true,
+    "rating": 5.1
+  },
+  {
+    "name": "Knowing",
+    "year": 2009,
+    "imdb": "https://www.imdb.com/title/tt0448011/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.2
+  },
+  {
+    "name": "Bangkok Dangerous",
+    "year": 2008,
+    "imdb": "https://www.imdb.com/title/tt0814022/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.3
+  },
+  {
+    "name": "National Treasure: Book of Secrets",
+    "year": 2007,
+    "imdb": "https://www.imdb.com/title/tt0465234/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.5
+  },
+  {
+    "name": "Next",
+    "year": 2007,
+    "imdb": "https://www.imdb.com/title/tt0435705/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.2
+  },
+  {
+    "name": "Werewolf Women of the S.S.",
+    "year": 2007,
+    "imdb": "https://www.imdb.com/title/tt12409886/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": true,
+    "voice": false,
+    "rating": 7.3
+  },
+  {
+    "name": "Grindhouse",
+    "year": 2007,
+    "imdb": "https://www.imdb.com/title/tt0462322/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": true,
+    "voice": false,
+    "rating": 7.5
+  },
+  {
+    "name": "Ghost Rider",
+    "year": 2007,
+    "imdb": "https://www.imdb.com/title/tt0259324/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.3
+  },
+  {
+    "name": "The Wicker Man",
+    "year": 2006,
+    "imdb": "https://www.imdb.com/title/tt0450345/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 3.8
+  },
+  {
+    "name": "World Trade Center",
+    "year": 2006,
+    "imdb": "https://www.imdb.com/title/tt0469641/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.0
+  },
+  {
+    "name": "The Ant Bully",
+    "year": 2006,
+    "imdb": "https://www.imdb.com/title/tt0429589/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": true,
+    "rating": 5.8
+  },
+  {
+    "name": "The Weather Man",
+    "year": 2005,
+    "imdb": "https://www.imdb.com/title/tt0384680/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.5
+  },
+  {
+    "name": "Lord of War",
+    "year": 2005,
+    "imdb": "https://www.imdb.com/title/tt0399295/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.6
+  },
+  {
+    "name": "National Treasure",
+    "year": 2004,
+    "imdb": "https://www.imdb.com/title/tt0368891/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.9
+  },
+  {
+    "name": "Matchstick Men",
+    "year": 2003,
+    "imdb": "https://www.imdb.com/title/tt0325805/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.2
+  },
+  {
+    "name": "Adaptation.",
+    "year": 2002,
+    "imdb": "https://www.imdb.com/title/tt0268126/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.6
+  },
+  {
+    "name": "Sonny",
+    "year": 2002,
+    "imdb": "https://www.imdb.com/title/tt0305973/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.6
+  },
+  {
+    "name": "Windtalkers",
+    "year": 2002,
+    "imdb": "https://www.imdb.com/title/tt0245562/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.1
+  },
+  {
+    "name": "Christmas Carol: The Movie",
+    "year": 2001,
+    "imdb": "https://www.imdb.com/title/tt0259929/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": true,
+    "rating": 5.4
+  },
+  {
+    "name": "Captain Corelli's Mandolin",
+    "year": 2001,
+    "imdb": "https://www.imdb.com/title/tt0238112/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.9
+  },
+  {
+    "name": "Family Man",
+    "year": 2000,
+    "imdb": "https://www.imdb.com/title/tt0218967/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.9
+  },
+  {
+    "name": "Gone in 60 Seconds",
+    "year": 2000,
+    "imdb": "https://www.imdb.com/title/tt0187078/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.5
+  },
+  {
+    "name": "Bringing Out the Dead",
+    "year": 1999,
+    "imdb": "https://www.imdb.com/title/tt0163988/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.9
+  },
+  {
+    "name": "8MM",
+    "year": 1999,
+    "imdb": "https://www.imdb.com/title/tt0134273/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.6
+  },
+  {
+    "name": "Snake Eyes",
+    "year": 1998,
+    "imdb": "https://www.imdb.com/title/tt0120832/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.2
+  },
+  {
+    "name": "City of Angels",
+    "year": 1998,
+    "imdb": "https://www.imdb.com/title/tt0120632/",
+    "seen": true,
+    "favorite": true,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.7
+  },
+  {
+    "name": "Face/Off",
+    "year": 1997,
+    "imdb": "https://www.imdb.com/title/tt0119094/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.3
+  },
+  {
+    "name": "Con Air",
+    "year": 1997,
+    "imdb": "https://www.imdb.com/title/tt0118880/",
+    "seen": true,
+    "favorite": true,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.9
+  },
+  {
+    "name": "The Rock",
+    "year": 1996,
+    "imdb": "https://www.imdb.com/title/tt0117500/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.4
+  },
+  {
+    "name": "Leaving Las Vegas",
+    "year": 1995,
+    "imdb": "https://www.imdb.com/title/tt0113627/",
+    "seen": true,
+    "favorite": true,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.5
+  },
+  {
+    "name": "Kiss of Death",
+    "year": 1995,
+    "imdb": "https://www.imdb.com/title/tt0113552/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.0
+  },
+  {
+    "name": "Trapped in Paradise",
+    "year": 1994,
+    "imdb": "https://www.imdb.com/title/tt0111477/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.9
+  },
+  {
+    "name": "It Could Happen to You",
+    "year": 1994,
+    "imdb": "https://www.imdb.com/title/tt0110167/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.4
+  },
+  {
+    "name": "Guarding Tess",
+    "year": 1994,
+    "imdb": "https://www.imdb.com/title/tt0109951/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.2
+  },
+  {
+    "name": "Deadfall",
+    "year": 1993,
+    "imdb": "https://www.imdb.com/title/tt0106684/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.1
+  },
+  {
+    "name": "Red Rock West",
+    "year": 1993,
+    "imdb": "https://www.imdb.com/title/tt0105226/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.0
+  },
+  {
+    "name": "Amos & Andrew",
+    "year": 1993,
+    "imdb": "https://www.imdb.com/title/tt0106266/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.7
+  },
+  {
+    "name": "Honeymoon in Vegas",
+    "year": 1992,
+    "imdb": "https://www.imdb.com/title/tt0104438/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.9
+  },
+  {
+    "name": "Industrial Symphony No. 1: The Dream of the Brokenhearted",
+    "year": 1992,
+    "imdb": "https://www.imdb.com/title/tt0099844/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.0
+  },
+  {
+    "name": "Zandalee",
+    "year": 1991,
+    "imdb": "https://www.imdb.com/title/tt0101004/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.4
+  },
+  {
+    "name": "Fire Birds",
+    "year": 1990,
+    "imdb": "https://www.imdb.com/title/tt0099575/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 4.8
+  },
+  {
+    "name": "Wild at Heart",
+    "year": 1990,
+    "imdb": "https://www.imdb.com/title/tt0100935/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.2
+  },
+  {
+    "name": "Time to Kill",
+    "year": 1989,
+    "imdb": "https://www.imdb.com/title/tt0100762/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.0
+  },
+  {
+    "name": "Vampire's Kiss",
+    "year": 1988,
+    "imdb": "https://www.imdb.com/title/tt0098577/",
+    "seen": true,
+    "favorite": true,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.1
+  },
+  {
+    "name": "Never on Tuesday",
+    "year": 1988,
+    "imdb": "https://www.imdb.com/title/tt0095722/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": true,
+    "voice": false,
+    "rating": 4.6
+  },
+  {
+    "name": "Moonstruck",
+    "year": 1987,
+    "imdb": "https://www.imdb.com/title/tt0093565/",
+    "seen": true,
+    "favorite": true,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.2
+  },
+  {
+    "name": "Raising Arizona",
+    "year": 1987,
+    "imdb": "https://www.imdb.com/title/tt0093822/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.3
+  },
+  {
+    "name": "Peggy Sue Got Married",
+    "year": 1986,
+    "imdb": "https://www.imdb.com/title/tt0091738/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.4
+  },
+  {
+    "name": "The Boy in Blue",
+    "year": 1986,
+    "imdb": "https://www.imdb.com/title/tt0090769/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.3
+  },
+  {
+    "name": "Birdy",
+    "year": 1984,
+    "imdb": "https://www.imdb.com/title/tt0086969/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.2
+  },
+  {
+    "name": "The Cotton Club",
+    "year": 1984,
+    "imdb": "https://www.imdb.com/title/tt0087089/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.6
+  },
+  {
+    "name": "Racing with the Moon",
+    "year": 1984,
+    "imdb": "https://www.imdb.com/title/tt0087968/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.6
+  },
+  {
+    "name": "Rumble Fish",
+    "year": 1983,
+    "imdb": "https://www.imdb.com/title/tt0086216/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.1
+  },
+  {
+    "name": "Valley Girl",
+    "year": 1983,
+    "imdb": "https://www.imdb.com/title/tt0086525/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 6.4
+  },
+  {
+    "name": "The Outsiders",
+    "year": 1983,
+    "imdb": "https://www.imdb.com/title/tt0086066/",
+    "seen": false,
+    "favorite": false,
+    "uncredited": true,
+    "voice": false,
+    "rating": 7.0
+  },
+  {
+    "name": "Fast Times at Ridgemont High",
+    "year": 1982,
+    "imdb": "https://www.imdb.com/title/tt0083929/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 7.1
+  },
+  {
+    "name": "The Best of Times",
+    "year": 1981,
+    "imdb": "https://www.imdb.com/title/tt0082064/",
+    "seen": true,
+    "favorite": false,
+    "uncredited": false,
+    "voice": false,
+    "rating": 5.0
+  }
+]
