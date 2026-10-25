@@ -16,7 +16,7 @@ In my free time I enjoy:
 - 🐦‍⬛ Bird watching, identifying wild plants and insects.
 - 📖 [Reading]({{< ref "/books.md" >}}). I've been keeping a list of all books I read since 2015.
 - 🎧 [Listening to music]({{< ref "/music.md" >}}). From doom metal to funk. Lots of instrumental music.
-- 📽️ [Watch all movies by Nicolas Cage]({{< ref "/nicolas_cage.md" >}}). Because terrible ideas are fun.
+- 📽️ [Watching all movies by Nicolas Cage]({{< ref "/nicolas_cage.md" >}}). Because terrible ideas are fun.
 
 ## Open source projects
 * [barryvanveen/staticblog](https://github.com/barryvanveen/staticblog), source code for this blog build with Hugo.
