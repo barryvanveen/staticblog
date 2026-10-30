@@ -35,38 +35,6 @@
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Alice+in+Chains",
-          "name": "Alice in Chains",
-          "mbid": "4bd95eea-b9f6-4d70-a36c-cfea77431553"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/5c4b6583f6112eaa243f12ca00527068.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/5c4b6583f6112eaa243f12ca00527068.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/5c4b6583f6112eaa243f12ca00527068.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c4b6583f6112eaa243f12ca00527068.jpg"
-          }
-        ],
-        "mbid": "e83ad027-db6b-4dc8-aaa5-866a00d1e17f",
-        "url": "https://www.last.fm/music/Alice+in+Chains/Dirt+(2022+Remaster)",
-        "playcount": "27",
-        "@attr": {
-          "rank": "2"
-        },
-        "name": "Dirt (2022 Remaster)"
-      },
-      {
-        "artist": {
           "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
           "name": "Daði Freyr",
           "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
@@ -93,7 +61,7 @@
         "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
         "playcount": "24",
         "@attr": {
-          "rank": "3"
+          "rank": "2"
         },
         "name": "Too Much Not Enough"
       },
@@ -101,7 +69,7 @@
         "artist": {
           "url": "https://www.last.fm/music/The+Notwist",
           "name": "The Notwist",
-          "mbid": ""
+          "mbid": "f180cec2-9421-4417-a841-c7372090d13d"
         },
         "image": [
           {
@@ -125,9 +93,41 @@
         "url": "https://www.last.fm/music/The+Notwist/News+from+Planet+Zombie",
         "playcount": "23",
         "@attr": {
-          "rank": "4"
+          "rank": "3"
         },
         "name": "News from Planet Zombie"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Lowswimmer",
+          "name": "Lowswimmer",
+          "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/029378a8c18370f03b81a3c1e2e37bf3.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/029378a8c18370f03b81a3c1e2e37bf3.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/029378a8c18370f03b81a3c1e2e37bf3.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/029378a8c18370f03b81a3c1e2e37bf3.png"
+          }
+        ],
+        "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
+        "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
+        "playcount": "20",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "Godspeed, Fantasy"
       },
       {
         "artist": {
@@ -155,7 +155,7 @@
         ],
         "mbid": "e2de985a-57dc-46bb-89db-6f0e17b9dccb",
         "url": "https://www.last.fm/music/Fraternal+Twin/Halo+Fell+Forever",
-        "playcount": "19",
+        "playcount": "18",
         "@attr": {
           "rank": "5"
         },
@@ -164,11 +164,11 @@
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "45",
+      "totalPages": "39",
       "page": "1",
-      "total": "221",
+      "total": "194",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-10-23T12:57:34.198Z"
+  "generatedAt": "2026-10-30T14:41:28.128Z"
 }
