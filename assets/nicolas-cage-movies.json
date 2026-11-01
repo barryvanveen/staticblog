@@ -473,7 +473,7 @@
     "name": "Tokarev",
     "year": 2014,
     "imdb": "https://www.imdb.com/title/tt2401807/",
-    "seen": false,
+    "seen": true,
     "favorite": false,
     "uncredited": false,
     "voice": false,
