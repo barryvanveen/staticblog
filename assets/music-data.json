@@ -3,70 +3,6 @@
     "album": [
       {
         "artist": {
-          "url": "https://www.last.fm/music/Earth+Tongue",
-          "name": "Earth Tongue",
-          "mbid": "e8953f62-0a60-4450-8d2a-482281ec966e"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
-          }
-        ],
-        "mbid": "cee154bb-1401-408a-aa88-2a8c2f037272",
-        "url": "https://www.last.fm/music/Earth+Tongue/Great+Haunting",
-        "playcount": "28",
-        "@attr": {
-          "rank": "1"
-        },
-        "name": "Great Haunting"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
-          "name": "Daði Freyr",
-          "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/465257d367fd21adb390d21801ad735b.jpg"
-          }
-        ],
-        "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
-        "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
-        "playcount": "24",
-        "@attr": {
-          "rank": "2"
-        },
-        "name": "Too Much Not Enough"
-      },
-      {
-        "artist": {
           "url": "https://www.last.fm/music/The+Notwist",
           "name": "The Notwist",
           "mbid": "f180cec2-9421-4417-a841-c7372090d13d"
@@ -93,7 +29,7 @@
         "url": "https://www.last.fm/music/The+Notwist/News+from+Planet+Zombie",
         "playcount": "23",
         "@attr": {
-          "rank": "3"
+          "rank": "1"
         },
         "name": "News from Planet Zombie"
       },
@@ -125,7 +61,7 @@
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
         "playcount": "20",
         "@attr": {
-          "rank": "4"
+          "rank": "2"
         },
         "name": "Godspeed, Fantasy"
       },
@@ -157,18 +93,82 @@
         "url": "https://www.last.fm/music/Night+Heron/ESCAPISM",
         "playcount": "20",
         "@attr": {
-          "rank": "5"
+          "rank": "3"
         },
         "name": "ESCAPISM"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/death%27s+dynamic+shroud",
+          "name": "death's dynamic shroud",
+          "mbid": "e294d11b-fc47-41a9-b38b-3205c34d17ba"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/fa8f39a97fe5c880b407bfa238b2e439.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/fa8f39a97fe5c880b407bfa238b2e439.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/fa8f39a97fe5c880b407bfa238b2e439.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fa8f39a97fe5c880b407bfa238b2e439.png"
+          }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/death%27s+dynamic+shroud/Faith+in+Persona",
+        "playcount": "19",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "Faith in Persona"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Oddisee",
+          "name": "Oddisee",
+          "mbid": "aaae09b3-70d9-4a65-bb3f-57e85dfe9b83"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/bbd9e90f194b46e291ea95c356576350.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/bbd9e90f194b46e291ea95c356576350.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/bbd9e90f194b46e291ea95c356576350.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bbd9e90f194b46e291ea95c356576350.jpg"
+          }
+        ],
+        "mbid": "4465906f-05e4-4574-91f1-3a56a3a0a2a5",
+        "url": "https://www.last.fm/music/Oddisee/To+What+End",
+        "playcount": "16",
+        "@attr": {
+          "rank": "5"
+        },
+        "name": "To What End"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
       "totalPages": "40",
       "page": "1",
-      "total": "196",
+      "total": "200",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-11-06T15:28:18.359Z"
+  "generatedAt": "2026-11-13T15:47:15.045Z"
 }
