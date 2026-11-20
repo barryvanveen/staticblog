@@ -3,102 +3,6 @@
     "album": [
       {
         "artist": {
-          "url": "https://www.last.fm/music/Earth+Tongue",
-          "name": "Earth Tongue",
-          "mbid": "e8953f62-0a60-4450-8d2a-482281ec966e"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/e27d0e3d827f099e4b440f03f94bf8fe.jpg"
-          }
-        ],
-        "mbid": "cee154bb-1401-408a-aa88-2a8c2f037272",
-        "url": "https://www.last.fm/music/Earth+Tongue/Great+Haunting",
-        "playcount": "28",
-        "@attr": {
-          "rank": "1"
-        },
-        "name": "Great Haunting"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Da%C3%B0i+Freyr",
-          "name": "Daði Freyr",
-          "mbid": "4bea512e-c8d9-4a5f-94bc-c01f85505e9b"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/465257d367fd21adb390d21801ad735b.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/465257d367fd21adb390d21801ad735b.jpg"
-          }
-        ],
-        "mbid": "856d898e-d46e-4266-a83e-efadbbc35612",
-        "url": "https://www.last.fm/music/Da%C3%B0i+Freyr/Too+Much+Not+Enough",
-        "playcount": "24",
-        "@attr": {
-          "rank": "2"
-        },
-        "name": "Too Much Not Enough"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/The+Notwist",
-          "name": "The Notwist",
-          "mbid": "f180cec2-9421-4417-a841-c7372090d13d"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/aeb2ec91cf3a50e907fe08f39a9b023f.jpg"
-          }
-        ],
-        "mbid": "ad9646dc-1d0e-407c-b8be-1dcce4bcb4b5",
-        "url": "https://www.last.fm/music/The+Notwist/News+from+Planet+Zombie",
-        "playcount": "23",
-        "@attr": {
-          "rank": "3"
-        },
-        "name": "News from Planet Zombie"
-      },
-      {
-        "artist": {
           "url": "https://www.last.fm/music/Lowswimmer",
           "name": "Lowswimmer",
           "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
@@ -123,52 +27,148 @@
         ],
         "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
         "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
-        "playcount": "20",
+        "playcount": "19",
         "@attr": {
-          "rank": "4"
+          "rank": "1"
         },
         "name": "Godspeed, Fantasy"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Night+Heron",
-          "name": "Night Heron",
-          "mbid": "666488c2-f162-49e5-83df-08253b46f573"
+          "url": "https://www.last.fm/music/Duster",
+          "name": "Duster",
+          "mbid": ""
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/bacaeb14f868f6a5939f12a37829f985.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/bacaeb14f868f6a5939f12a37829f985.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/bacaeb14f868f6a5939f12a37829f985.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3f948286d79f514a7106209c5c840779.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bacaeb14f868f6a5939f12a37829f985.jpg"
           }
         ],
-        "mbid": "cc21fb04-a54d-49c9-bc5d-b0c28158b795",
-        "url": "https://www.last.fm/music/Night+Heron/ESCAPISM",
-        "playcount": "20",
+        "mbid": "f86bbe6f-ab18-4f86-afb2-9a565a3f0b69",
+        "url": "https://www.last.fm/music/Duster/In+Dreams",
+        "playcount": "13",
+        "@attr": {
+          "rank": "2"
+        },
+        "name": "In Dreams"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Jack+Wyllie",
+          "name": "Jack Wyllie",
+          "mbid": "4b8efcab-499d-42fc-9506-886c8122a301"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/f31625a204320e58f415824413a0696e.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/f31625a204320e58f415824413a0696e.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/f31625a204320e58f415824413a0696e.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/f31625a204320e58f415824413a0696e.jpg"
+          }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/Jack+Wyllie/Eternal+Spring",
+        "playcount": "13",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "Eternal Spring"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Madrugada",
+          "name": "Madrugada",
+          "mbid": ""
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/50538ce23713450fc59ce7a569e1af86.png"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/50538ce23713450fc59ce7a569e1af86.png"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/50538ce23713450fc59ce7a569e1af86.png"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/50538ce23713450fc59ce7a569e1af86.png"
+          }
+        ],
+        "mbid": "10d3d57b-422d-4eae-be6d-185c908d95a1",
+        "url": "https://www.last.fm/music/Madrugada/Industrial+Silence",
+        "playcount": "13",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "Industrial Silence"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Vulkan",
+          "name": "Vulkan",
+          "mbid": "58c28ddb-c475-4939-9e95-e97a17f62aac"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b04dd09e7b959ca42a827fc25fc165e8.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b04dd09e7b959ca42a827fc25fc165e8.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b04dd09e7b959ca42a827fc25fc165e8.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b04dd09e7b959ca42a827fc25fc165e8.jpg"
+          }
+        ],
+        "mbid": "2c50957d-d7f8-4b77-a4e8-716f7ca87d4a",
+        "url": "https://www.last.fm/music/Vulkan/Technatura",
+        "playcount": "13",
         "@attr": {
           "rank": "5"
         },
-        "name": "ESCAPISM"
+        "name": "Technatura"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "40",
+      "totalPages": "30",
       "page": "1",
-      "total": "196",
+      "total": "148",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-11-06T15:28:18.359Z"
+  "generatedAt": "2026-11-20T16:29:55.249Z"
 }
