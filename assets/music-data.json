@@ -3,67 +3,131 @@
     "album": [
       {
         "artist": {
-          "url": "https://www.last.fm/music/Lowswimmer",
-          "name": "Lowswimmer",
-          "mbid": "5ee08d40-eff0-4b8b-b9fb-f4c3f60d20ad"
+          "url": "https://www.last.fm/music/death%27s+dynamic+shroud",
+          "name": "death's dynamic shroud",
+          "mbid": "e294d11b-fc47-41a9-b38b-3205c34d17ba"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/029378a8c18370f03b81a3c1e2e37bf3.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/d74fb98e9afc3b62b2378055f24d99cb.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/029378a8c18370f03b81a3c1e2e37bf3.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/d74fb98e9afc3b62b2378055f24d99cb.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/029378a8c18370f03b81a3c1e2e37bf3.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/d74fb98e9afc3b62b2378055f24d99cb.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/029378a8c18370f03b81a3c1e2e37bf3.png"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d74fb98e9afc3b62b2378055f24d99cb.jpg"
           }
         ],
-        "mbid": "f9eb0fb2-e962-476e-96c3-533039ec8b07",
-        "url": "https://www.last.fm/music/Lowswimmer/Godspeed,+Fantasy",
-        "playcount": "19",
+        "mbid": "4fc012fc-627a-4ec9-9890-82473efb781d",
+        "url": "https://www.last.fm/music/death%27s+dynamic+shroud/DarkLIVE+202X",
+        "playcount": "25",
         "@attr": {
           "rank": "1"
         },
-        "name": "Godspeed, Fantasy"
+        "name": "DarkLIVE 202X"
       },
       {
         "artist": {
-          "url": "https://www.last.fm/music/Duster",
-          "name": "Duster",
-          "mbid": ""
+          "url": "https://www.last.fm/music/Slowwves",
+          "name": "Slowwves",
+          "mbid": "a8900b95-fcfa-42fb-943c-dee298c7e1a2"
         },
         "image": [
           {
             "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/bacaeb14f868f6a5939f12a37829f985.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/9dceb3a7eb87b38f6633bfb0bc398f23.jpg"
           },
           {
             "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/bacaeb14f868f6a5939f12a37829f985.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/9dceb3a7eb87b38f6633bfb0bc398f23.jpg"
           },
           {
             "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/bacaeb14f868f6a5939f12a37829f985.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/9dceb3a7eb87b38f6633bfb0bc398f23.jpg"
           },
           {
             "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bacaeb14f868f6a5939f12a37829f985.jpg"
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9dceb3a7eb87b38f6633bfb0bc398f23.jpg"
           }
         ],
-        "mbid": "f86bbe6f-ab18-4f86-afb2-9a565a3f0b69",
-        "url": "https://www.last.fm/music/Duster/In+Dreams",
-        "playcount": "13",
+        "mbid": "e7613737-4e39-493f-b127-12c18943c806",
+        "url": "https://www.last.fm/music/Slowwves/Perfect+Evasion",
+        "playcount": "22",
         "@attr": {
           "rank": "2"
         },
-        "name": "In Dreams"
+        "name": "Perfect Evasion"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/Jonny+Greenwood",
+          "name": "Jonny Greenwood",
+          "mbid": "e9fcfbbf-1743-4f73-8744-ada8da7394ea"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/17cbe485f699b693406b2da99d0c4223.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/17cbe485f699b693406b2da99d0c4223.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/17cbe485f699b693406b2da99d0c4223.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/17cbe485f699b693406b2da99d0c4223.jpg"
+          }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/Jonny+Greenwood/Phantom+Thread+(Original+Motion+Picture+Soundtrack)",
+        "playcount": "19",
+        "@attr": {
+          "rank": "3"
+        },
+        "name": "Phantom Thread (Original Motion Picture Soundtrack)"
+      },
+      {
+        "artist": {
+          "url": "https://www.last.fm/music/The+Sixteen",
+          "name": "The Sixteen",
+          "mbid": "c3881c54-a782-478b-a242-80cb3fa287b1"
+        },
+        "image": [
+          {
+            "size": "small",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/d36a6195fbf44eabb78a8ebb1ae0d4dc.jpg"
+          },
+          {
+            "size": "medium",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/d36a6195fbf44eabb78a8ebb1ae0d4dc.jpg"
+          },
+          {
+            "size": "large",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/d36a6195fbf44eabb78a8ebb1ae0d4dc.jpg"
+          },
+          {
+            "size": "extralarge",
+            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d36a6195fbf44eabb78a8ebb1ae0d4dc.jpg"
+          }
+        ],
+        "mbid": "",
+        "url": "https://www.last.fm/music/The+Sixteen/Renaissance+-+Music+For+Inner+Peace",
+        "playcount": "18",
+        "@attr": {
+          "rank": "4"
+        },
+        "name": "Renaissance - Music For Inner Peace"
       },
       {
         "artist": {
@@ -91,84 +155,20 @@
         ],
         "mbid": "",
         "url": "https://www.last.fm/music/Jack+Wyllie/Eternal+Spring",
-        "playcount": "13",
-        "@attr": {
-          "rank": "3"
-        },
-        "name": "Eternal Spring"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Madrugada",
-          "name": "Madrugada",
-          "mbid": ""
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/50538ce23713450fc59ce7a569e1af86.png"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/50538ce23713450fc59ce7a569e1af86.png"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/50538ce23713450fc59ce7a569e1af86.png"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/50538ce23713450fc59ce7a569e1af86.png"
-          }
-        ],
-        "mbid": "10d3d57b-422d-4eae-be6d-185c908d95a1",
-        "url": "https://www.last.fm/music/Madrugada/Industrial+Silence",
-        "playcount": "13",
-        "@attr": {
-          "rank": "4"
-        },
-        "name": "Industrial Silence"
-      },
-      {
-        "artist": {
-          "url": "https://www.last.fm/music/Vulkan",
-          "name": "Vulkan",
-          "mbid": "58c28ddb-c475-4939-9e95-e97a17f62aac"
-        },
-        "image": [
-          {
-            "size": "small",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/34s/b04dd09e7b959ca42a827fc25fc165e8.jpg"
-          },
-          {
-            "size": "medium",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/64s/b04dd09e7b959ca42a827fc25fc165e8.jpg"
-          },
-          {
-            "size": "large",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/174s/b04dd09e7b959ca42a827fc25fc165e8.jpg"
-          },
-          {
-            "size": "extralarge",
-            "#text": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b04dd09e7b959ca42a827fc25fc165e8.jpg"
-          }
-        ],
-        "mbid": "2c50957d-d7f8-4b77-a4e8-716f7ca87d4a",
-        "url": "https://www.last.fm/music/Vulkan/Technatura",
-        "playcount": "13",
+        "playcount": "16",
         "@attr": {
           "rank": "5"
         },
-        "name": "Technatura"
+        "name": "Eternal Spring"
       }
     ],
     "@attr": {
       "user": "Barryvanveen",
-      "totalPages": "30",
+      "totalPages": "59",
       "page": "1",
-      "total": "148",
+      "total": "292",
       "perPage": "5"
     }
   },
-  "generatedAt": "2026-11-20T16:29:55.249Z"
+  "generatedAt": "2026-11-27T17:43:41.185Z"
 }
